@@ -1,0 +1,24 @@
+{
+  "name": "2022.1_g4_fluxoagil",
+  "version": "1.0.0",
+  "description": "Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve docs",
+    "docsify": "docsify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil.git"
+  },
+  "author": "Grupo 4",
+  "bugs": {
+    "url": "https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues"
+  },
+  "homepage": "https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
