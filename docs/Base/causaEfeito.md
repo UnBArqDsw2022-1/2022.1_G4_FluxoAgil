@@ -1,9 +1,9 @@
 # Diagrama de Causa e Efeito
 
 ## Histórico de versões
-| Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a) |
-| -------- | ------ | -------------------- | --------------------------------------------- | ---------- |
-| 20.06.22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | -          |
+| Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a)                                   |
+| -------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
+| 20.06.22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
@@ -44,6 +44,7 @@ Durante o brainstorming a equipe utilizou uma categoria que foi retirada na vers
 ![Figura01](https://user-images.githubusercontent.com/35047444/174613534-c71485bf-b963-4456-b72c-95d82703e952.jpeg)
 <p align = "center"> 
 Figura 01 - Ishikawa feito por meio de brainstorming <br>
+Autores: Amanda, Ana Carolina, Irwin, Lucas Braun, Thaís e Yudi
 </p>
 
 ![Figura02](https://user-images.githubusercontent.com/35047444/174613340-2c774cfa-f207-4de9-aa7c-59fe2fcac055.png)
@@ -54,4 +55,4 @@ Autora: Thaís
 
 ## Referências
 
-As referências devem estar em formato ABNT.
+LIMA, Raphael H. P. Diagrama de Ishikawa (Ferramenta da Qualidade): Teoria + Exemplo Prático. Aprendendo Gestão, 23 de setembro de 2016. Disponível em: https://www.youtube.com/watch?v=U-0qzmFqH-0.
