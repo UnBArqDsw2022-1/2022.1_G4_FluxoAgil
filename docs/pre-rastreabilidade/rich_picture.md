@@ -11,7 +11,7 @@ O Rich Picture é uma ferramenta efetiva com uma linguagem acessível, em que, s
 
 ## Metodologia
 
-A equipe optou por realizar a reunião de maneira remota, por conta dos horários dos membros da equipe e por haver membros do time com o COVID-19. Inicialmente, foi realizado uma reunião com todos os membros da equipe, onde cada membro fez o seu próprio rich picture. Nessa reunião cada membro apresentou o seu próprio artefato e no fim foi descidido os pontos que deveriam estr presentes no artefato final e os responsáveis por realizar esse artefato final.
+A equipe optou por realizar a reunião de maneira remota, por conta dos horários dos membros da equipe e por haver membros do time com o COVID-19. Inicialmente, foi realizado uma reunião com todos os membros da equipe, onde cada membro fez o seu próprio rich picture. Nessa reunião cada membro apresentou o seu próprio artefato e no fim foi decidido os pontos que deveriam estar presentes no artefato final e os responsáveis por realizar esse artefato final.
 
 Foi realizado uma reunião com os membros responsáveis pela elaboração do rich picture final e foi utilizado o rich picture dos outros membros como base para esse resultado final.
 
