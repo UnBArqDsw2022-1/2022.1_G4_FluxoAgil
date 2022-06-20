@@ -1,9 +1,9 @@
 # Design Sprint
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                 |
-| ---------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------ |
-| 18.06.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/Thais-ra) |
+| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                  |
+| ---------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------- |
+| 18.06.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
