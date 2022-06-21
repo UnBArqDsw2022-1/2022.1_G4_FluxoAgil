@@ -1,13 +1,14 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/)
-- [Diretrizes](/Diretrizes/Diretrizes.md)
+- [**Home**](/)
+
+<!-- - [Diretrizes](/Diretrizes/Diretrizes.md) -->
 
 - **Base**
     -  Módulo Projeto Não Orientado a Abordagens Específicas
       - [Design Sprint](Base/AbordagemNaoEspecifica/design_sprint.md)
       - [Léxico](Base/AbordagemNaoEspecifica/lexico.md)
-    - Módulo Processos/Metodologias/Abordagens
+    - Módulo Processos, Metodologias e Abordagens
       - [Metodologia](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
     - Iniciativas Extras - Base
       - [Heatmap](Base/IniciativasExtras/heatmap.md)
