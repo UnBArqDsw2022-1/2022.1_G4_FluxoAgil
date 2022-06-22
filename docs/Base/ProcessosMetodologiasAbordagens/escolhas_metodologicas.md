@@ -37,7 +37,7 @@ Fonte: Lakeworks
 
 - Sprints
 
-Os ciclo de entrega são chamados de **Sprints** e irão durar uma semana no contexto do Fluxo Ágil. 
+Os ciclos de entrega são chamados de **Sprints** e irão durar uma semana no contexto do Fluxo Ágil. 
 
 
 - Cerimônias Scrum 
