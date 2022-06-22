@@ -1,5 +1,6 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
+<!--- Logo do Projeto -->
+
+<!--- Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
 As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
 Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 
@@ -7,25 +8,33 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 
 **!! *Não coloque os nomes dos alunos no título do repositório*. !!**
 
-**!! *Exemplo de título correto: 2022.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
+**!! *Exemplo de título correto: 2022.1_G1_ProjetoPandora*. !!** -->
+# Fluxo Ágil 
 
-# Nome do Projeto
+## Sobre o Projeto
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 04<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula  | Aluno            |
+| ---------- | ---------------- |
+| 19/0124997 | Amanda Nobre     |
+| 19/0101792 | Ana Carolina     |
+| 17/0105342 | Irwin Schmitt    |
+| 19/0033088 | Lucas Braun      |
+| 18/0106805 | Mateus Maia      |
+| 19/0055201 | Matheus Calixto  |
+| 17/0111059 | Matheus Fonseca  |
+| 18/0127969 | Matheus Monteiro |
+| 18/0078224 | Thaís Rebouças   |
+| 16/0149410 | Yudi Yamane      |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais.
 Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
 
+<!--- 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
 
