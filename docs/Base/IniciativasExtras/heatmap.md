@@ -74,7 +74,7 @@ Figura 7 - Heatmap Matheus Calixto <br>
 Fonte: Gerado pelo Bora Marcar
 </p>
 
-<p align = "center"> <img src="../../images/heatmap/heatmap-matheusfonseca" height="500px" width="800px" /> </p>
+<p align = "center"> <img src="../../images/heatmap/heatmap-matheusfonseca.jpg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 8 - Heatmap Matheus Fonseca <br>
 Fonte: Gerado pelo Bora Marcar
