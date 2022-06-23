@@ -1,6 +1,10 @@
 # Entrevista 2
 
+Entrevistador: [Yudi Yamane](https://github.com/yudi-azvd)
+
 Data: 22/06/2022
+
+Curso: História
 
 Semestre: 7°
 
@@ -14,8 +18,6 @@ Sim. Fora do fluxo, fica mais difícil saber o que tem que pegar ou não.
 SIGAA ferra com quem tá fora do fluxo.
 
 ## Pergunta 2
-
-Entrvistada cursa História.
 
 A entrevistada se organiza na sequẽncia das matérias. Medieval I, II, III.
 

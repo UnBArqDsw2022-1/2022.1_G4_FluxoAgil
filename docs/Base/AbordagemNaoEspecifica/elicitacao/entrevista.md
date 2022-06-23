@@ -36,7 +36,7 @@ _Mostrar o [protótipo funcional](https://fluxoagil.herokuapp.com/)_
 
 ## Resultados
 
-As entrevistas
+### Entrevistas:
 
 [Entrevista 1](Base/AbordagemNaoEspecifica/elicitacao/entrevista-1.md)
 
@@ -47,7 +47,7 @@ As entrevistas
 [Entrevista 4](#)
 
 
-Como resultado, obtivemos os seguintes requisitos:
+### Requisitos elicitados:
 
 ... Lista de requisitos ...
 

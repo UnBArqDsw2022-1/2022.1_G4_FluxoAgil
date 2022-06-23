@@ -1,6 +1,10 @@
 # Entrevista 1
 
+Entrevistador: [Yudi Yamane](https://github.com/yudi-azvd)
+
 Data: 22/06/2022
+
+Curso: 
 
 Semestre: 9°
 
