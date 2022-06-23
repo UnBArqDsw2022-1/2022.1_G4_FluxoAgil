@@ -1,9 +1,9 @@
 # Design Sprint
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                 |
-| ---------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------ |
-| 18.06.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/Thais-ra) |
+| Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                  |
+| -------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------- |
+| 18.06.22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
@@ -53,4 +53,4 @@ realização dos seguinte artefatos: [Léxicos](), [Plano de risco, custo e temp
 
 SERRANO, Milene. AULA - PROJETO E DESENHO DE SOFTWARE. 2º/2021. Material apresentado para a disciplina de Arquitetura e Desenho de Software no curso de Engenharia de Software da UnB, FGA.
 
-The Design Sprint. Disponível em: <https://www.gv.com/sprint/> Acesso em: 18 de junho de 2022
+The Design Sprint. Disponível em: <https://www.gv.com/sprint/>. Acesso em: 18 de junho de 2022

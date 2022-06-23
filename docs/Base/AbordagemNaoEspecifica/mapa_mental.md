@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data  | Versão | Descrição  | Autor    | Revisor  |
 | ---------- | ------ | -------------------- | -------------- | ------------------ |
-| 21.06.2022 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Amanda Nobre](https://github.com/AmandaNbr)  |
+| 21.06.2022 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |  [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
@@ -14,16 +14,16 @@ Mapa mental é uma técnica de estudo criada no final da década de 1960 por Ton
 Para esquematizar e desenvolver o mapa mental foi realizada uma reunião com todos os integrantes, dispondo de pincel e fazendo uso do quadro da faculdade, discutimos 6 temas para especificar os seus atributos e, a partir disso, mapear as informações pertinentes ao mapa mental.
 
 ## Participantes
-- Ana Carolina (https://github.com/AnaCarolinaRodriguesLeite)
-- Matheus Monteiro (https://github.com/matheusyanmonteiro)
-- Matheus Pinheiro (https://github.com/matheuscvp)
-- Matheus Fonseca (https://github.com/gatotabaco)
-- Mateus Maia (https://github.com/mateusmaiamaia)
-- Thais Rebouças (https://github.com/Thais-ra)
-- Irwin Schmitt (https://github.com/irwinschmitt)
-- Lucas Braun (https://github.com/lbvx)
-- Yudi Yamane (https://github.com/yudi-azvd)
-- Amanda Nobre (https://github.com/AmandaNbr)
+- [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)
+- [Matheus Monteiro](https://github.com/matheusyanmonteiro)
+- [Matheus Pinheiro](https://github.com/matheuscvp)
+- [Matheus Fonseca](https://github.com/gatotabaco)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
+- [Thais Rebouças](https://github.com/Thais-ra)
+- [Irwin Schmitt](https://github.com/irwinschmitt)
+- [Lucas Braun](https://github.com/lbvx)
+- [Yudi Yamane](https://github.com/yudi-azvd)
+- [Amanda Nobre](https://github.com/AmandaNbr)
 
 ## Resultados
 
