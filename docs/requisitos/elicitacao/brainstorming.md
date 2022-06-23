@@ -16,16 +16,16 @@ A equipe optou por fazer essa técnica no remoto onde foi separado uma reunião 
 
 ## Participantes
 
-- Ana Carolina (https://github.com/AnaCarolinaRodriguesLeite)
-- Matheus Monteiro (https://github.com/matheusyanmonteiro)
-- Matheus Pinheiro (https://github.com/matheuscvp)
-- Matheus Fonseca (https://github.com/gatotabaco)
-- Mateus Maia (https://github.com/mateusmaiamaia)
-- Thais Rebouças (https://github.com/Thais-ra)
-- Irwin Schmitt (https://github.com/irwinschmitt)
-- Lucas Braun (https://github.com/lbvx)
-- Yudi Yamane (https://github.com/yudi-azvd)
-- Amanda Nobre (https://github.com/AmandaNbr)
+- [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)
+- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Irwin Schmitt](https://github.com/irwinschmitt)
+- [Lucas Braun](https://github.com/lbvx)
+- [Matheus Fonseca](https://github.com/gatotabaco)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
+- [Matheus Monteiro](https://github.com/matheusyanmonteiro)
+- [Matheus Pinheiro](https://github.com/matheuscvp)
+- [Thais Rebouças](https://github.com/Thais-ra)
+- [Yudi Yamane](https://github.com/yudi-azvd)
 
 
 ## Resultados
