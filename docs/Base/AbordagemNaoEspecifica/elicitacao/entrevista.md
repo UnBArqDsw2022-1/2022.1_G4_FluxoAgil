@@ -49,6 +49,31 @@ As entrevistas
 
 Como resultado, obtivemos os seguintes requisitos:
 
-... Lista de requisitos ...
+
+### E1
+
+- Balancear disciplinas fáceis e difíceis em um semestre
+- Deve informar plano de ensino da disciplina
+- Deve informar pré requisitos da disciplina
+- Deve informar metodologia do professor da disciplina
+- Deve informar se o professor é bom ou ruim, como uma review de produto na 
+Amazon com estrelinhas
+- Divisão clara das disciplinas e dos semestres
+- Recomendação de optativas segundo o curso do usuário
+- Salvar recomendação em PDF
+- Enviar recomendação por email
+- Escolher várias turmas da mesma disciplina, assim como no falecido MW.
+
+### E2
+
+- Mostrar horário das disciplinas/turmas
+- Mostrar professor das disciplinas/turmas
+- Separar disciplinas optativas e obrigatórias visualmente (diferenciar
+por cor, por exemplo)
+- Arrastar disciplinas para o semestre desejado segundo o usuário
+- Deve ser informado, quantas horas optativas ainda faltam para sua completar sua
+graduação. Informar em termos de quantidade de disciplinas de determinada
+quantidade de créditos.
+- Salvar recomendação em PDF
 
 ## Referências
