@@ -63,6 +63,7 @@ Amazon com estrelinhas
 - Salvar recomendação em PDF
 - Enviar recomendação por email
 - Escolher várias turmas da mesma disciplina, assim como no falecido MW.
+- Possiblidade de escolher entre tema claro e escuro
 
 ### E2
 
