@@ -47,26 +47,29 @@ _Mostrar o [protótipo funcional](https://fluxoagil.herokuapp.com/)_
 
 ### Requisitos elicitados:
 
-| Número | ID   | Requisitos Funcionais                                                                                                             |
-| ------ | ---- | --------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | EV01 | O sistema deve mostrar a ementa da disciplina                                                                                     |
-| 2      | EV02 | O sistema deve mostrar o horário da disciplina                                                                                    |
-| 3      | EV03 | O sistema deve mostrar os professores da disciplina                                                                               |
-| 4      | EV04 | O sistema deve informar pré requisitos da disciplina                                                                              |
-| 5      | EV05 | O sistema deve informar a metodologia do professor da disciplina                                                                  |
-| 6      | EV06 | O sistema deve mostrar a qualidade do professor segundo os estudantes                                                             |
-| 7      | EV07 | O usuario deve poder escolher manualmente as disciplinas                                                                          |
-| 8      | EV08 | O sistema deve enviar o fluxo final por email para o estudante                                                                    |
-| 9      | EV09 | O sistema deve dar a opção de download em pdf ou imagem                                                                           |
-| 10     | EV10 | O sistema deve separar disciplinas obrigatórias e optativas por cor                                                               |
-| 11     | EV11 | O sistema deve disponibilizar o fluxo de forma interativa, de modo que o usuário possa arrastar disciplinas para outros semestres |
-| 12     | EV12 | O sistema deve especificar horas em créditos                                                                                      |
-| 13     | EV13 | O sistema deve oferecer mais de um fluxo, se for o caso                                                                           |
-| 14     | EV14 | O sistema deve informar quantas horas optativas ainda faltam para completar a graduação                                           |
-| 15     | EV15 | O sistema deve balancear disciplinas fáceis e difíceis em um semestre                                                             |
-| 16     | EV16 | O usuário deve poder escolher várias turmas da mesma disciplina                                                                   |
-| 17     | EV17 | O usuário pode escolher entre tema claro e escuro                                                                                 |
-| 18     | EV18 | O sistema deve recomendar  optativas segundo o curso do usuário                                                                   |
+| ID    | Requisitos Funcionais                                                                                                             |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------- |
+| EVF01 | O sistema deve mostrar a ementa da disciplina                                                                                     |
+| EVF02 | O sistema deve mostrar o horário da disciplina                                                                                    |
+| EVF03 | O sistema deve mostrar os professores da disciplina                                                                               |
+| EVF04 | O sistema deve informar pré requisitos da disciplina                                                                              |
+| EVF05 | O sistema deve informar a metodologia do professor da disciplina                                                                  |
+| EVF06 | O sistema deve mostrar a qualidade do professor segundo os estudantes                                                             |
+| EVF07 | O usuario deve poder escolher manualmente as disciplinas                                                                          |
+| EVF08 | O sistema deve enviar o fluxo final por email para o estudante                                                                    |
+| EVF09 | O sistema deve dar a opção de download em pdf ou imagem                                                                           |
+| EVF10 | O sistema deve separar disciplinas obrigatórias e optativas por cor                                                               |
+| EVF11 | O sistema deve disponibilizar o fluxo de forma interativa, de modo que o usuário possa arrastar disciplinas para outros semestres |
+| EVF12 | O sistema deve especificar horas em créditos                                                                                      |
+| EVF13 | O sistema deve oferecer mais de um fluxo, se for o caso                                                                           |
+| EVF14 | O sistema deve informar quantas horas optativas ainda faltam para completar a graduação                                           |
+| EVF15 | O sistema deve balancear disciplinas fáceis e difíceis em um semestre                                                             |
+| EVF16 | O usuário deve poder escolher várias turmas da mesma disciplina                                                                   |
+| EVF17 | O sistema deve recomendar  optativas segundo o curso do usuário                                                                   |
+
+| ID     | Requisitos Não-Funcionais                         |
+| ------ | ------------------------------------------------- |
+| EVNF18 | O usuário pode escolher entre tema claro e escuro |
 
 ## Referências
 
