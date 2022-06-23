@@ -12,6 +12,7 @@
       - [Metodologia](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
     - Iniciativas Extras - Base
       - [Heatmap](Base/IniciativasExtras/heatmap.md)
+      - [Storyboards](Base/IniciativasExtras/storyboards.md)
     - Participações - Base
 
 - **Modelagem**
