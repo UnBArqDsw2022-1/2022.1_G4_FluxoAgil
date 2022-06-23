@@ -5,6 +5,7 @@
 | ---------- | ------ | -------------------- | -------------- | ------------------ |
 | 21.06.2022 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |  [Amanda Nobre](https://github.com/AmandaNbr) |
 
+
 ## Introdução
 
 Mapa mental é uma técnica de estudo criada no final da década de 1960 por Tony Buzan, um consultor inglês. Ela consiste em criar resumos cheios de símbolos, cores, setas e frases de efeito com o objetivo de organizar o conteúdo e facilitar associações entre as informações destacadas. Esse material é muito indicado para pessoas que têm facilidade de aprender de forma visual.
