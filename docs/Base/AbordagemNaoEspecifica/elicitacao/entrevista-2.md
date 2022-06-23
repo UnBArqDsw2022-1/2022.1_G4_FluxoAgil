@@ -1,37 +1,42 @@
 # Entrevista 2
 
 Data: 22/06/2022
+
 Semestre: 7°
 
-## 1
+Essas perguntas são referentes às perguntas da 
+[entrevista template](Base/AbordagemNaoEspecifica/elicitacao/entrevista?id=metodologia).
+
+
+## Pergunta 1
 
 Sim. Fora do fluxo, fica mais difícil saber o que tem que pegar ou não.
 SIGAA ferra com quem tá fora do fluxo.
 
-## 2
+## Pergunta 2
 
-História
+Entrvistada cursa História.
 
-A entrevistada se organiza na sequẽncia das matérias. Medieval I II III
+A entrevistada se organiza na sequẽncia das matérias. Medieval I, II, III.
 
 Não tem plano, vai pegando o que SIGAA concede.
 
 Joga numa planilha as matérias que o SIGAA deu pra comparar horários.
 
-## 3
+## Pergunta 3
 
 Sim
 
-## 4
+## Pergunta 4
 
 Sente falta da organização das disciplinas por semestre e das optativas
 por departamento.
 
-## 5
+## Pergunta 5
 
-Gostei. Melhor do que fazer manualmente.
+Gostou. Achou melhor do que fazer manualmente.
 
-## 6
+## Pergunta 6
 
 Podia ter horário.
 
@@ -39,31 +44,26 @@ Podia ter nome do professor.
 
 Separar Optativa das obrigatória por cor.
 
-Arrastar matérias
+Arrastar matérias para o semestre desejado caso queira trocar uma matéria de
+um semestre pela matéria de outro semestre.
 
-## 7
+## Pergunta 7
 
 Gostou de tudo.
 
-## 8
+## Pergunta 8
 
-Não. Não gosto de horas. Prefiro matérias.
+Não. Não gosta da informação ser passada em horas. Prefere matérias.
 
-Faltam 330h de optativas. Quantas matérias de 2 créditos são isso? e de 4 
-créditos? e 6 créditos?
+Exemplo: faltam 330h de disciplinas optativas. Quantas matérias de 2 créditos 
+são isso? E de 4 créditos? E 6 créditos?
 
-## 9
+## Pergunta 9
 
-PDF pq dá pra jogar no Google Drive
+PDF por que dá pra jogar no Google Drive.
 
-## 10
+## Pergunta 10
 
-Ajuda burro
+Ajuda burro.
 
 Quando vou me formar?
-
----
-
-"Carrinho de compra de optativas"
-
-"Exportar Arquivo de save pra não ter que calcular de novo"

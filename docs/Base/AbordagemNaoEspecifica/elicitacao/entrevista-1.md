@@ -1,58 +1,64 @@
 # Entrevista 1
 
 Data: 22/06/2022
+
 Semestre: 9°
 
-## 1
-Sim. Planilha no excel, o horário muda e fica difícil sincronizar na planilha.
+Essas perguntas são referentes às perguntas da 
+[entrevista template](Base/AbordagemNaoEspecifica/elicitacao/entrevista?id=metodologia).
 
-## 2
+
+## Pergunta 1
+Sim. Planilha no excel. O horário da turma muda e fica difícil sincronizar na 
+planilha.
+
+## Pergunta 2
 Pega matéria por horário disponível. Tenta planejar até o próximo semestre.
 
 Usando Word.
 
-## 3
+## Pergunta 3
 
 Sente falta de uma funcionalidade do MW: escolher várias turmas da mesma 
 disciplina.
 
-## 4
+## Pergunta 4
 
-Plano de ensino da disciplina, pré requisitos, metodologia do professor
+Plano de ensino da disciplina, pré requisitos, metodologia do professor, se o
+professor é bom ou ruim.
 
-## 5
+## Pergunta 5
 
-Bom pq deu as matérias
+Acho bom por que mostrou as matérias.
 
-BUG: TCC 1 apareceu depois de TCC 2
+BUG: TCC 1 apareceu depois de TCC 2.
 
-Entrevistado avaliou o balanceamento das disciplinas recomendadas.
+Entrevistado avaliou o balanceamento das disciplinas recomendadas. 
+Balanceamento no sentido "essa matéria de boinha balanceou o semestre 
+porque também sugeriu aquela matéria mais trabalhosa".
 
-## 6
+## Pergunta 6
 
 Sentiu falta do horário das disciplinas e suas ementas
 
-## 7
+## Pergunta 7
 
 Divisão em quadrados, presença dos pré requisitos. 
 
 Recomendação _balanceada_.
 
-## 8
+## Pergunta 8
 
 O entrevistado tem uma noção.
 
 Recomendar optativas segundo o curso do estudante.
 
-## 9
+## Pergunta 9
 
 Salvar como PDF.
 
 Mandar por email.
 
-## 10
+## Pergunta 10
 
-Furacão do Fluxo
-
-
-
+Furacão do Fluxo.
