@@ -4,7 +4,7 @@
 
 | Data | Versão | Descrição | Autor(a) |  Revisor(a)  |
 | -------- | -------- | -------- | ---| ------- |
-|  22/06/2022   |  1.0    |  Criação do Documento    | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)  |
+|  22/06/2022   |  1.0    |  Criação do Documento    | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)  |  [Amanda Nobre](https://github.com/AmandaNbr)  |
 
 ## Introdução
 
@@ -17,6 +17,11 @@ Com a utilização da notação de modelagem de processos BPMN é possível docu
 
 A dupla utilizou a ferramenta Lucidchart para desenvolver os diagramas e tornar mais claros os procedimentos de negócios por meio de representações visuais. Além de entender e estudar sobre o BPMN e discutir sobre quais seriam os diagramas possíveis para serem feitos, dispondo sempre da interação da dupla e na argumentação sobre a notação.
 
+## Participantes
+
+- [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
+
 
 ## Resultado
 
@@ -28,28 +33,28 @@ Foram desenvolvidos quatro diagramas com a notação BPMN 2.0, os quais podem se
 
 [BPMN - Geral.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/8962780/BPMN.-.Geral.pdf)
 
-Autores: Ana Carolina, Mateus Maia
+Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
 
 ### Decisão da Metodologia
 ![BPMN - Metodologia](https://user-images.githubusercontent.com/49570180/175187090-2049ae78-415c-485d-ba52-1f2bee95181b.png)
 
 [BPMN - Metodologia.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/8962820/BPMN.-.Metodologia.pdf)
 
-Autores: Ana Carolina, Mateus Maia
+Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
 
 ### Decisão do Tema
 ![Decisão do tema](https://user-images.githubusercontent.com/49570180/175186502-61eb0d98-5ace-4084-9574-fa091ca0709b.png)
 
 [Decisão do tema.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/8962801/Decisao.do.tema.pdf)
 
-Autores: Ana Carolina, Mateus Maia
+Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
 
 ### Sprint
 ![BPMN - Sprint](https://user-images.githubusercontent.com/49570180/175186611-05bb3163-52f1-49aa-a843-63a549871510.png)
 
 [BPMN - Sprint.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/8962808/BPMN.-.Sprint.pdf)
 
-Autores: Ana Carolina, Mateus Maia
+Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
 
 ## Referências
 
