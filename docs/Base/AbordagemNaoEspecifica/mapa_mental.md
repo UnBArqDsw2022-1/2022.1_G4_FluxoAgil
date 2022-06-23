@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data  | Versão | Descrição  | Autor    | Revisor  |
 | ---------- | ------ | -------------------- | -------------- | ------------------ |
-| 21.06.2022 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+| 21.06.2022 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Amanda Nobre](https://github.com/AmandaNbr)  |
 
 ## Introdução
 
