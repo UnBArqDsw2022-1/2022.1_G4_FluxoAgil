@@ -7,6 +7,7 @@
 - **Base**
     -  Módulo Projeto Não Orientado a Abordagens Específicas
       - [Design Sprint](Base/AbordagemNaoEspecifica/design_sprint.md)
+      - [5W2H](Base/AbordagemNaoEspecifica/5w2h.md)
       - [Léxico](Base/AbordagemNaoEspecifica/lexico.md)
     - Módulo Processos, Metodologias e Abordagens
       - [Metodologia](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
