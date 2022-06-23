@@ -1,9 +1,10 @@
 # Léxicos
 
 ## Histórico de versões
-| Data     | Versão | Descrição            | Autor                                                                                     | Revisor |
-| -------- | ------ | -------------------- | ----------------------------------------------------------------------------------------- | ------- |
-| 19.06.22 | 1.0    | Criação do documento | [Yudi Yamane](https://github.com/yudi-azvd), [Amanda Nobre](https://github.com/AmandaNbr) |         |
+| Data     | Versão | Descrição              | Autor                                                                                     | Revisor |
+| -------- | ------ | ---------------------- | ----------------------------------------------------------------------------------------- | ------- |
+| 19.06.22 | 1.0    | Criação do documento   | [Yudi Yamane](https://github.com/yudi-azvd), [Amanda Nobre](https://github.com/AmandaNbr) |         |
+| 23.06.22 | 1.1    | Adição das entrevistas e requisitos | [Yudi Yamane](https://github.com/yudi-azvd), [Amanda Nobre](https://github.com/AmandaNbr) |         |
 
 ## Introdução
 
@@ -42,13 +43,22 @@ _Mostrar o [protótipo funcional](https://fluxoagil.herokuapp.com/)_
 
 [Entrevista 2](Base/AbordagemNaoEspecifica/elicitacao/entrevista-2.md)
 
-[Entrevista 3](#)
-
-[Entrevista 4](#)
-
+[Entrevista 3](Base/AbordagemNaoEspecifica/elicitacao/entrevista-3.md)
 
 ### Requisitos elicitados:
 
-... Lista de requisitos ...
+| Número | ID   | Requisitos Funcionais                                                                                                             |
+| ------ | ---- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | EV01 | O sistema deve mostrar a ementa da disciplina                                                                                     |
+| 2      | EV02 | O sistema deve mostrar o horário da disciplina                                                                                    |
+| 3      | EV03 | O usuario deve poder escolher manualmente as disciplinas                                                                          |
+| 4      | EV04 | O sistema deve enviar o fluxo final por email para o estudante                                                                    |
+| 5      | EV05 | O sistema deve dar a opção de download em pdf ou imagem                                                                           |
+| 6      | EV06 | O sistema deve separar disciplinas obrigatórias e optativas por cor                                                               |
+| 7      | EV07 | O sistema deve disponibilizar o fluxo de forma interativa, de modo que o usuário possa arrastar disciplinas para outros semestres |
+| 8      | EV08 | O sistema deve especificar horas em créditos                                                                                      |
+| 9      | EV09 | O sistema deve oferecer mais de um fluxo, se for o caso                                                                           |
 
 ## Referências
+
+> 
