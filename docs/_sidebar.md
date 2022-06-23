@@ -5,13 +5,15 @@
 <!-- - [Diretrizes](/Diretrizes/Diretrizes.md) -->
 
 - **Base**
-    -  Módulo Projeto Não Orientado a Abordagens Específicas
-      - [Design Sprint](Base/AbordagemNaoEspecifica/design_sprint.md)
-      - [Léxico](Base/AbordagemNaoEspecifica/lexico.md)
+    - Módulo Projeto Não Orientado a Abordagens Específicas
+      - [Design Sprint](/Base/AbordagemNaoEspecifica/design_sprint.md)
+      - [Léxico](/Base/AbordagemNaoEspecifica/lexico.md)
+      - Elicitação
+        - [Entrevista](/Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
     - Módulo Processos, Metodologias e Abordagens
-      - [Metodologia](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
+      - [Metodologia](/Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
     - Iniciativas Extras - Base
-      - [Heatmap](Base/IniciativasExtras/heatmap.md)
+      - [Heatmap](/Base/IniciativasExtras/heatmap.md)
     - Participações - Base
 
 - **Modelagem**
