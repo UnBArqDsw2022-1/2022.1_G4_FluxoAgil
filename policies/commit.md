@@ -1,5 +1,8 @@
 # Política de commit
 
+Esse documento é apenas um resumo do [original](./conventional-commits-original.md)
+_e que você deve ler por completo depois_.
+
 ## Visão geral
 
 A política de commits desse projeto é baseada no 
@@ -46,7 +49,7 @@ Essa política de commits será utilizada em todos os repositórios do projeto
 Fluxo Ágil.
 
 ## Mais informações
-Para mais informações e exemplos, confira o 
+Para mais informações e exemplos, leia o 
 [documento original v1.0.0](./conventional-commits-original.md).
 
 ## Referências
