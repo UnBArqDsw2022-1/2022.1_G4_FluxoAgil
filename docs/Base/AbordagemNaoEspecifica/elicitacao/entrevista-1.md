@@ -4,7 +4,7 @@ Entrevistador: [Yudi Yamane](https://github.com/yudi-azvd)
 
 Data: 22/06/2022
 
-Curso: 
+Curso: Engenharia de Software
 
 Semestre: 9°
 
