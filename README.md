@@ -17,11 +17,13 @@
   </p>
 </div>
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+<!-- Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software. -->
 
 ## Introdução
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+Este repositório contém o desenvolvimento do projeto Fluxo Ágil. O site da 
+documentação você pode conferir em
+https://unbarqdsw2022-1.github.io/2022.1_G4_FluxoAgil.
 
 ### Instalar as dependências
 
