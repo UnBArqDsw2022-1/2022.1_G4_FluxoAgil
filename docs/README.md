@@ -16,7 +16,21 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 04<br>
 
-## Alunos
+Fluxo Ágil é um aplicativo que recomenda um fluxo de disciplinas para o aluno da
+UnB baseado em seu histórico acadêmico.
+
+Esse site hospeda a documentação do projeto, diretrizes de desenvolvimento,
+decisões de arquitetura, guia de estilo e outros artefatos. Esses artefatos
+foram desenvolvido para a disciplina de Arquitetura e Desenho de Software 
+ministrada pela professora Milene Serrano na Universidade de Brasília.
+
+<!--
+Descreva o seu projeto em linhas gerais.
+Use referências, links, que permitam conhecer um pouco mais sobre o projeto. 
+-->
+
+## Desenvolvedores
+
 | Matrícula  | Aluno            |
 | ---------- | ---------------- |
 | 19/0124997 | Amanda Nobre     |
@@ -29,10 +43,6 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 | 18/0127969 | Matheus Monteiro |
 | 18/0078224 | Thaís Rebouças   |
 | 16/0149410 | Yudi Yamane      |
-
-## Sobre 
-Descreva o seu projeto em linhas gerais.
-Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
 
 <!--- 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>

@@ -1,4 +1,21 @@
-# RepositorioTemplate
+
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="docs/_media/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h2 align="center">Fluxo Ágil</h2>
+
+  <p align="center">
+    Saiba qual é o fluxo de disciplinas mais rápido para você se formar na UnB!
+    <br />
+    <a href="fluxoagil.herokuapp.com">Veja a documentação</a>
+    ·
+    <a href="https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/new?assignees=&labels=&template=issue-padr-o.md&title=">
+      Reporte um bug</a>
+  </p>
+</div>
 
 Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
 
@@ -6,17 +23,12 @@ Repositório que deve ser utilizado como template inicial pelos grupos da matér
 
 Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
 
-## Tecnologia
-
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
-
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
-
 ### Instalar as dependências
 
-Execute o comando:
+A documentação do projeto é um site estático gerado pelo 
+[docsify](https://docsify.js.org/), que é uma dependência.
+
+Instale as dependências:
 
 ```shell
 npm install
