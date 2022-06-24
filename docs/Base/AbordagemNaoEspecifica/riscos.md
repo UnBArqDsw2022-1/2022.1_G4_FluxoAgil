@@ -37,6 +37,11 @@ As escalas utilizadas para os componentes **impacto** e **probabilidade** são d
 | Médio | Efeito grave sobre o projeto, mas fácil de recuperar |
 | Alto | Impede o prosseguimento do projeto até que seja resolvido |
 
+## Participantes
+
+- [Lucas Braun](https://github.com/lbvx)
+- [Matheus Monteiro](https://github.com/matheusyanmonteiro)
+
 ## Matriz de Riscos 
 
 | # | Evento | Probabilidade | Impacto | Prevenção | Contenção |
