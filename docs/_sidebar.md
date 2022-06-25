@@ -10,6 +10,7 @@
       - [5W2H](Base/AbordagemNaoEspecifica/5w2h.md)
       - [Léxico](Base/AbordagemNaoEspecifica/lexico.md)
       - [Plano de Riscos](Base/AbordagemNaoEspecifica/riscos.md)
+      - [Estimativa de Esforço e Tempo](Base/AbordagemNaoEspecifica/estimativa.md)
     - Módulo Processos, Metodologias e Abordagens
       - [Metodologia](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
     - Iniciativas Extras - Base
