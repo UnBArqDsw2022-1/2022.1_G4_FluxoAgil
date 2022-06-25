@@ -32,13 +32,13 @@ Fonte: <a href="https://color.adobe.com/pt/explore">Adobe Color</a>
 
 As fontes escolhidas foram:
 
-> Rubik - <a href="https://fonts.google.com/specimen/Rubik">Google Fonts</a>
-> Será utilizada em titulos
+Rubik - <a href="https://fonts.google.com/specimen/Rubik">Google Fonts</a>
+Será utilizada em titulos
 
-> Inter - <a href="https://fonts.google.com/specimen/Inter">Google Fonts</a>
-> Será utilizada em textos/corpo
+Inter - <a href="https://fonts.google.com/specimen/Inter">Google Fonts</a>
+Será utilizada em textos/corpo
 
 ## Referências
 
-Adobe Color. Disponível em <a href="https://color.adobe.com/pt/explore">https://color.adobe.com/pt/explore</a>. Acesso em 22 de Junho de 2022
+Adobe Color. Disponível em <a href="https://color.adobe.com/pt/explore">https://color.adobe.com/pt/explore</a>. Acesso em 22 de Junho de 2022 <br>
 Google Fonts. Disponível em <a href="https://fonts.google.com">https://fonts.google.com</a>. Acesso em 22 de Junho de 2022
