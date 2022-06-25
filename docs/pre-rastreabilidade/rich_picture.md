@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
 | ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| 19.06.22   | 1.0    | Criação do documento | [Mateus Maia](https://github.com/mateusmaiamaia)  | [Lucas Braun](https://github.com/lbvx) |
+| 19.06.22   | 1.0    | Criação do documento |[Lucas Braun](https://github.com/lbvx) e [Mateus Maia](https://github.com/mateusmaiamaia)  | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
 
 ## Introdução
 
@@ -17,16 +17,16 @@ Foi realizado uma reunião com os membros responsáveis pela elaboração do ric
 
 ## Participantes
 
-- Amanda Nobre (https://github.com/AmandaNbr)
-- Ana Carolina (https://github.com/AnaCarolinaRodriguesLeite)
-- Irwin Schmitt (https://github.com/irwinschmitt)
-- Lucas Braun (https://github.com/lbvx)
-- Mateus Maia (https://github.com/mateusmaiamaia)
-- Matheus Fonseca (https://github.com/gatotabaco)
-- Matheus Monteiro (https://github.com/matheusyanmonteiro)
-- Matheus Pinheiro (https://github.com/matheuscvp)
-- Thais Rebolça (https://github.com/Thais-ra)
-- Yudi Yamane (https://github.com/yudi-azvd)
+- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)
+- [Irwin Schmitt](https://github.com/irwinschmitt)
+- [Lucas Braun](https://github.com/lbvx)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
+- [Matheus Fonseca](https://github.com/gatotabaco)
+- [Matheus Monteiro](https://github.com/matheusyanmonteiro)
+- [Matheus Pinheiro](https://github.com/matheuscvp)
+- [Thais Rebolça](https://github.com/Thais-ra)
+- [Yudi Yamane](https://github.com/yudi-azvd)
 
 
 ## Resultados Individuais
