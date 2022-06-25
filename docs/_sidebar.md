@@ -11,6 +11,7 @@
       - [Léxico](Base/AbordagemNaoEspecifica/lexico.md)
       - [Elicitação](#)
         - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
+      - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md) 
     - Módulo Processos, Metodologias e Abordagens
       - [Metodologia](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
     - Iniciativas Extras - Base
