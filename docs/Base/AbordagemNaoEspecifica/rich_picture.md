@@ -36,74 +36,74 @@ Resultados dos artefatos criados individualmente.
 
 ### Rich Picture 1
 
-![Rich Picture](../../images/rich_picture/rich_picture_amanda.png)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_amanda.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 1 - Rich Picture individual <br>
-Autora: Amanda Nobre
+Autora: <a href="https://github.com/AmandaNbr">Amanda Nobre</a> 
 </p>
 
 ### Rich Picture 2
 
-![Rich Picture](../../images/rich_picture/rich_picture_ana.png)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_ana.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
-Figura 2 - Rich Picture individual <br>
-Autora: Ana Carolina
+Figura 2 - Rich Picture individual <br> 
+Autora: <a href="https://github.com/AnaCarolinaRodriguesLeite">Ana Carolina</a>    
 </p>
 
 ### Rich Picture 3
 
-![Rich Picture](../../images/rich_picture/rich_picture_irwin.png)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_irwin.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 3 - Rich Picture individual <br>
-Autor: Irwin Schmitt
+Autor: <a href="https://github.com/irwinschmitt">Irwin Schmitt</a>    
 </p>
 
 ### Rich Picture 4
 
-![Rich Picture](../../images/rich_picture/rich_picture_lucas.png)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_lucas.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 4 - Rich Picture individual <br>
-Autor: Lucas Braun
+Autor: <a href="https://github.com/lbvx">Lucas Braun</a>
 </p>
 
 ### Rich Picture 5
 
-![Rich Picture](../../images/rich_picture/rich_picture_maia.jpg)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_maia.jpg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 5 - Rich Picture individual <br>
-Autor: Mateus Maia
+Autor: <a href="https://github.com/mateusmaiamaia">Mateus Maia</a>
 </p>
 
 ### Rich Picture 6
 
-![Rich Picture](../../images/rich_picture/rich_picture_pinheiro.jpg)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_pinheiro.jpg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 6 - Rich Picture individual <br>
-Autor: Matheus Pinheiro  
+Autor: <a href="https://github.com/matheuscvp">Matheus Pinheiro</a>  
 </p>
 
 ### Rich Picture 7
 
-![Rich Picture](../../images/rich_picture/rich_picture_monteiro.jpeg)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_monteiro.jpeg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 7 - Rich Picture individual <br>
-Autor: Matheus Monteiro 
+Autor: <a href="https://github.com/matheusyanmonteiro">Matheus Monteiro</a>
 </p>
 
 ### Rich Picture 8
 
-![Rich Picture](../../images/rich_picture/rich_picture_thais.jpeg)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_thais.jpeg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 8 - Rich Picture individual <br>
-Autora: Thais Rebolça
+Autora: <a href="https://github.com/Thais-ra">Thais Rebolça</a>
 </p>
 
 ### Rich Picture 9
 
-![Rich Picture](../../images/rich_picture/rich_picture_yudi.png)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_yudi.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 9 - Rich Picture individual <br>
-Autor: Yudi Yamane
+Autor: <a href="https://github.com/yudi-azvd">Yudi Yamane</a>
 </p>
 
 ## Resultados Final
@@ -112,18 +112,18 @@ Resultado final do artefato criado após a reunião entre os autores do mesmo.
 
 ### Versão Final
 
-![Rich Picture](../../images/rich_picture/rich_picture_final.jpg)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_final.jpg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 10 - Rich Picture final <br>
-Autores: Lucas Braun e Mateus Maia
+Autores: <a href="https://github.com/lbvx">Lucas Braun</a> e <a href="https://github.com/mateusmaiamaia">Mateus Maia</a>
 </p>
 
 ### Legenda da Versão Final
 
-![Rich Picture](../../images/rich_picture/rich_picture_legenda.jpg)
+<p align = "center"> <img src="../../images/rich_picture/rich_picture_legenda.jpg" height="500px" width="600px" /> </p>
 <p align = "center"> 
 Figura 11 - Legenda do Rich Picture final <br>
-Autores: Lucas Braun e Mateus Maia 
+Autores: <a href="https://github.com/lbvx">Lucas Braun</a> e <a href="https://github.com/mateusmaiamaia">Mateus Maia</a> 
 </p>
 
 ## Referências
