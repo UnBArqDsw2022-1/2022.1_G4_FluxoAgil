@@ -26,7 +26,7 @@ Figura 1 - Storyboard 1 <br>
 Autor: Matheus Pinheiro
 </p>
 
-<img src="images/storyboard/storyboard2.png" align = "center" />
+<img src="images/storyboard/storyboard2.jpg" align = "center" />
 <p align = "center"> 
 Figura 2 - Storyboard 2 <br>
 Autor: Matheus Pinheiro
