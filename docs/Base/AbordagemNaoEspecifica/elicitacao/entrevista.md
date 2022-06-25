@@ -1,4 +1,4 @@
-# Léxicos
+# Elicitação: Entrevista
 
 ## Histórico de versões
 | Data     | Versão | Descrição                           | Autor                                                                                     | Revisor                                |

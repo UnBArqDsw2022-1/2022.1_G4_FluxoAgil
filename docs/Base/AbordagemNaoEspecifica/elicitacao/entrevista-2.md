@@ -19,7 +19,7 @@ SIGAA ferra com quem tá fora do fluxo.
 
 ## Pergunta 2
 
-A entrevistada se organiza na sequẽncia das matérias. Medieval I, II, III.
+A entrevistada se organiza na sequência das matérias. Medieval I, II, III.
 
 Não tem plano, vai pegando o que SIGAA concede.
 
