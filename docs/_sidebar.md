@@ -21,7 +21,7 @@
         - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
         - [Instrospecção]()
         - [Personas]()
-        - [StoryBoard]()
+        - [StoryBoard](Base/IniciativasExtras/storyboards.md)
 
       - [Padrões de projeto](#)
         - [Guia de Estilo]()
