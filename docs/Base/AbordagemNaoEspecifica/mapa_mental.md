@@ -1,9 +1,9 @@
 # Mapa Mental
 
 ## Histórico de versões
-| Data  | Versão | Descrição  | Autor    | Revisor  |
-| ---------- | ------ | -------------------- | -------------- | ------------------ |
-| 21.06.2022 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |  [Amanda Nobre](https://github.com/AmandaNbr) |
+| Data       | Versão | Descrição            | Autor                                                        | Revisor                                      |
+| ---------- | ------ | -------------------- | ------------------------------------------------------------ | -------------------------------------------- |
+| 21.06.2022 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 
 ## Introdução
@@ -38,4 +38,4 @@ Para esquematizar e desenvolver o mapa mental foi realizada uma reunião com tod
 
 
 ## Referências
-> Mapa Mental: o que é? Como fazer? Aprenda agora!. Disponível em: https://www.stoodi.com.br/blog/dicas-de-estudo/como-fazer-um-mapa-mental/. Data de acesso: 21/06/2022
+Mapa Mental: o que é? Como fazer? Aprenda agora!. Disponível em: https://www.stoodi.com.br/blog/dicas-de-estudo/como-fazer-um-mapa-mental/. Data de acesso: 21/06/2022
