@@ -2,9 +2,9 @@
 
 ## Histórico de versão
 
-| Data       | Versão | Descrição            | Autor(a)                                                                                                       | Revisor(a)                                   |
-| ---------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 22/06/2022 | 1.0    | Criação do Documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
+| Data     | Versão | Descrição            | Autor(a)                                                                                                       | Revisor(a)                                   |
+| -------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 22/06/22 | 1.0    | Criação do Documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 

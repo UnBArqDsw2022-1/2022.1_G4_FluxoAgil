@@ -3,8 +3,8 @@
 ## Histórico de versões
 | Data     | Versão | Descrição                           | Autor                                                                                     | Revisor                                |
 | -------- | ------ | ----------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------- |
-| 19.06.22 | 1.0    | Criação do documento                | [Yudi Yamane](https://github.com/yudi-azvd), [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
-| 23.06.22 | 1.1    | Adição das entrevistas e requisitos | [Yudi Yamane](https://github.com/yudi-azvd), [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
+| 19/06/22 | 1.0    | Criação do documento                | [Yudi Yamane](https://github.com/yudi-azvd), [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
+| 23/06/22 | 1.1    | Adição das entrevistas e requisitos | [Yudi Yamane](https://github.com/yudi-azvd), [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
 
 ## Introdução
 
