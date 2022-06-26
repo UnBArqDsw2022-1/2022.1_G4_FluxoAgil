@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                  |
 | -------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------- |
-| 18.06.22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| 18/06/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 

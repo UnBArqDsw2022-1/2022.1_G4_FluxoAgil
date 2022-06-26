@@ -3,7 +3,8 @@
 ## Histórico de versões
 | Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a)                                   |
 | -------- | ------ | -------------------- | --------------------------------------------- | -------------------------------------------- |
-| 20.06.22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Amanda Nobre](https://github.com/AmandaNbr) |
+| 20/06/22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Amanda Nobre](https://github.com/AmandaNbr) |
+
 
 ## Introdução
 
