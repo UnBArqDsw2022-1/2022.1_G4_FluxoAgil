@@ -1,9 +1,9 @@
 # Políticas de Branch
 
 ## Histórico de versões
-| Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a) |
-| -------- | ------ | -------------------- | --------------------------------------------- | ---------- |
-| 19.06.22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | -          |
+| Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a)                                       |
+| -------- | ------ | -------------------- | --------------------------------------------- | ------------------------------------------------ |
+| 19.06.22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Matheus Fonseca](https://github.com/gatotabaco) |
 
 ## Introdução
 
