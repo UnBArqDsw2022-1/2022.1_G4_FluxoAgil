@@ -8,6 +8,7 @@
     - Módulo Projeto Não Orientado a Abordagens Específicas
       - [Design Sprint](Base/AbordagemNaoEspecifica/design_sprint.md)
       - [5W2H](Base/AbordagemNaoEspecifica/5w2h.md)
+      - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md) 
       - [Léxico](Base/AbordagemNaoEspecifica/lexico.md)
       - [Elicitação](#)
         - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
