@@ -1,9 +1,9 @@
 # Design Sprint
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                 |
-| ---------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------ |
-| 18.06.2022 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/Thais-ra) |
+| Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                  |
+| -------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------- |
+| 18/06/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
@@ -33,13 +33,13 @@ a equipe produziu o Prototype.
 
 <!-- Vou colocar os links para os documentos-->
 ### Unpack ou Definição (13/06/2022)
-A equipe se reuniu presencialmente na faculdade com o objetivo de entender melhor o projeto, a princípio a equipe confeccionou o artefato [5W2H]() para alinhar os integrantes, em seguida
-foi feito um [Mapa Mental]() no quadro branco, onde um membro anotava e o restante da equipe discutia e dava ideias, dessa forma, ao fim desta atividade a equipe partiu para o [Diagrama Causa-Efeito](),
+A equipe se reuniu presencialmente na faculdade com o objetivo de entender melhor o projeto, a princípio a equipe confeccionou o artefato [5W2H](Base/AbordagemNaoEspecifica/5w2h.md) para alinhar os integrantes, em seguida
+foi feito um [Mapa Mental](Base/AbordagemNaoEspecifica/mapa_mental.md) no quadro branco, onde um membro anotava e o restante da equipe discutia e dava ideias, dessa forma, ao fim desta atividade a equipe partiu para o [Diagrama Causa-Efeito](Base/AbordagemNaoEspecifica/causaEfeito.md),
 que foi realizado da mesma maneira que o mapa mental.
 
 ### Sketch ou Esboço (14 e 15/06/2022)
 No dia anterior foi realizado a confecção de rich pictures individuais, sendo assim, a equipe se reuniu por meio de aplicativos de reunião e foram decididos técnicas de elicitação e os membros que
-fariam parte de cada técnica, portanto, a equipe optou por elicitar requisitos através de [Brainstorm](), [Entrevista](), [Introspecção]() e [StoryBoard]().
+fariam parte de cada técnica, portanto, a equipe optou por elicitar requisitos através de [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md), [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md), [Introspecção](), [Personas]() e [StoryBoard]().
 
 ### Decision ou Decisão (15/06/2022)
 Nessa etapa foram discutidos os rich pictures, de forma que um integrante ficou responsável por sintetizar os melhores modelos em um só [Rich Picture](). A equipe também deixou agendada uma reunião
@@ -47,10 +47,10 @@ para priorizar os artefatos elicitados através da técina [MoSCoW]().
 
 ### Prototype ou Prototipação (16/06/2022)
 O time se reuniu com o propósito de discutir e validar o protótipo de média fidelidade que o integrante Irwin criou, após essa breve discussão, o grupo foi dividido de maneira a facilitar a
-realização dos seguinte artefatos: [Léxicos](), [Plano de risco, custo e tempo](), [Documento sobre as escolhas metodológicas](), [BPMN](), [Persona]() e [Guia de estilo]().
+realização dos seguinte artefatos: [Léxicos](Base/AbordagemNaoEspecifica/lexico.md), [Plano de risco](), [Plano de custo e tempo](), [Documento sobre as escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md), [BPMN](Base/ProcessosMetodologiasAbordagens/ModelagemBPMN.md) e [Guia de estilo]().
 
 ## Referências
 
 SERRANO, Milene. AULA - PROJETO E DESENHO DE SOFTWARE. 2º/2021. Material apresentado para a disciplina de Arquitetura e Desenho de Software no curso de Engenharia de Software da UnB, FGA.
 
-The Design Sprint. Disponível em: <https://www.gv.com/sprint/> Acesso em: 18 de junho de 2022
+The Design Sprint. Disponível em: <https://www.gv.com/sprint/>. Acesso em: 18 de junho de 2022
