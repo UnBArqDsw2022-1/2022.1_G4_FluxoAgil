@@ -3,49 +3,22 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
 | ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| dd/mm/aa   | x.x    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Thaís Rebouças](https://github.com/Thais-ra) |
+| 26/06/22   | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Thaís Rebouças](https://github.com/Thais-ra) |
 
 ## Introdução
 
-Introduçao explicando o artefato ou a técnica.
+O objetivo desse documento é informar de maneira clara e objetiva quais foram os artefatos e documentos extras produzidos pela equipe ao longo do Modulo Base.
 
-## Metodologia
+## Iniciativas Extras
 
-Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes.
+- [Personas]()
 
-## Participantes
+- [StoryBoard]()
 
-- [Amanda Nobre](https://github.com/AmandaNbr)
-- [Amanda Nobre](https://github.com/AmandaNbr)
-- [Amanda Nobre](https://github.com/AmandaNbr)
+- [HeatMap](Base/AbordagemNaoEspecifica/heatmap.md)
 
-## Resultados
+- [Guia de Estilo]()
 
-Resultados da técnica/artefato.
+- Atas de Reunião
 
-*Para imagens é necessário seguir a formatação:
-
-(IMAGEM) <br>
-Figura n - Título da imagem <br>
-Autor ou Fonte
-
-Exemplo:
-<img src="img/heatmap.jpeg" align = "center" />
-<p align = "center"> 
-Figura 1 - Heatmap da Equipe <br>
-Fonte (ou Autor): Amanda 
-</p>
-
-### Subtópico
-
-Texto do subtópico.
-
-## Conclusão (se necessário)
-
-Texto da conclusão.
-
-## Referências
-
-As referências devem estar em formato ABNT:
-
-Titulo do site. Disponível em <site.com>. Acesso em xx de mês de aaaa
+- [Guia de Contribuição](CONTRIBUTING.md)
