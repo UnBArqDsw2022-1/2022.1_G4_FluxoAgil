@@ -7,16 +7,33 @@
 - **Base**
     - Módulo Projeto Não Orientado a Abordagens Específicas
       - [Design Sprint](Base/AbordagemNaoEspecifica/design_sprint.md)
+      - [Heatmap](Base/AbordagemNaoEspecifica/heatmap.md)
       - [5W2H](Base/AbordagemNaoEspecifica/5w2h.md)
-      - [Léxico](Base/AbordagemNaoEspecifica/lexico.md)
+      - [Mapa Mental](Base/AbordagemNaoEspecifica/mapa_mental.md)
+      - [Diagrama de Causa e Efeito](Base/AbordagemNaoEspecifica/causaEfeito.md)
+      - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md)
+      - [Plano de risco]()
+      - [Plano de custo e tempo]()
+      - [Léxicos](Base/AbordagemNaoEspecifica/lexico.md)
+
       - [Elicitação](#)
+        - [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md)
         - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
-      - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md) 
+        - [Instrospecção]()
+        - [Personas]()
+        - [StoryBoard]()
+
+      - [Padrões de projeto](#)
+        - [Guia de Estilo]()
+        - [Protótipo de média e alta fidelidade]()
+
     - Módulo Processos, Metodologias e Abordagens
-      - [Metodologia](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
-    - Iniciativas Extras - Base
-      - [Heatmap](Base/IniciativasExtras/heatmap.md)
-    - Participações - Base
+      - [Escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
+      - [BPMN](Base/ProcessosMetodologiasAbordagens/ModelagemBPMN.md)
+
+    - [Iniciativas Extras](Base/IniciativasExtras/iniciativas_extras.md)
+
+    - [Participações](Base/ParticipacoesBase/participacoes_base.md)
 
 - **Modelagem**
   - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
@@ -41,3 +58,11 @@
     - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
     - [4.4. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+
+- [Atas de Reunião](#)
+  - [Ata - 16/06](AtasDeReunião/Ata_16-06.md)
+  - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
+  - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
+  - [Ata - 25/06](AtasDeReunião/Ata_25-06.md)
+
+- [Guia de Contribuição](CONTRIBUTING.md)

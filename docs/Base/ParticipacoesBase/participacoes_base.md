@@ -1,4 +1,4 @@
-# Título
+# Participações Base
 
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |

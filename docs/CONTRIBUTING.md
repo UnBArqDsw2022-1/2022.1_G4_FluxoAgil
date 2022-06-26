@@ -1,7 +1,8 @@
 # Contribuição
 
 Para contribuir com esse projeto, você primeiro tem que selecionar a aba de issues onde lá estará listado as tarefas que precisam de manutenção ou criação. Siga sempre os métodos e estrutura adotadas pelos proprietários do projeto, não fuja dos requisitos leve a padronização como regra principal.
-</br></br>
+
+
 Por favor, siga a politica de pull request e reports abaixo explicados. 
 
 ## Reporte de bugs 
@@ -12,7 +13,8 @@ Neste tópico você pode entender como irá funcionar a política de reporte de 
 - Explique o comportamento divergente, explicando o caminho com o máximo de detalhes possíveis
 - Seja muito especifico, coloque todas as técnicas que voê usou para achar esse bug, divida o problema em tópicos e com palavras simples mas significativas que permitem que os demais contribuídos consigam entender e agir sobre o bug de maneira mais efetiva.
 - Se souber como corrigir, faça um passo a passo explicando sua solução.
-</br></br>
+
+
 A seguir o modelo de como fazer um relatório de bug.
 
 - Nome e Endereço de email.
@@ -21,7 +23,7 @@ A seguir o modelo de como fazer um relatório de bug.
 - Componente ou módulo onde o erro está.
 - Plataforma de hardware, pois alguns comportamentos divergentes podem ser relacionados ao hardware que o usuário usa.
 - Sistemas operacional, pois cada sistema operacional trabalha de forma diferente algumas politicas de enfileiramento e poder computacional.
-- prioridade e severidade do bug, pois alguns bugs podem ser postergados a resolução, mas se o bug for maior do que o cosmético ou se for no núcleo principal do projeto, descreva e coloque os tipos de severidade ( Blocker, Critical, Major, Minor, Trivial, Enhancement ).
+- prioridade e severidade do bug, pois alguns bugs podem ser postergados a resolução, mas se o bug for maior do que o cosmético ou se for no núcleo principal do projeto, descreva e coloque os tipos de severidade (Blocker, Critical, Major, Minor, Trivial, Enhancement).
 
 ## Processo de pull requests 
 
