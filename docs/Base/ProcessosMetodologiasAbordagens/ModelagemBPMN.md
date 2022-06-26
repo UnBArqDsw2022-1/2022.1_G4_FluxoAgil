@@ -6,6 +6,7 @@
 | -------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 22/06/22 | 1.0    | Criação do Documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
+
 ## Introdução
 
 A notação BPMN tem como objetivo servir de apoio ao uso do BPM, permitindo a visualização dos processos por meio de representações gráficas. Com isso é possível visualizar o processo de negócio em seu estado atual e, após feita a análise do processo, representar possíveis melhorias (como ficaria o negócio após a alteração do

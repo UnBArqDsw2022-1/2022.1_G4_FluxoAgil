@@ -1,6 +1,7 @@
 # Rich Picture
 
 ## Histórico de versões
+
 | Data     | Versão | Descrição            | Autor(a)                                                                                  | Revisor(a)                                                   |
 | -------- | ------ | -------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 19/06/22 | 1.0    | Criação do documento | [Lucas Braun](https://github.com/lbvx) e [Mateus Maia](https://github.com/mateusmaiamaia) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |

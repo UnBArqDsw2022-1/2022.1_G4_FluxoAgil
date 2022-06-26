@@ -73,6 +73,7 @@ Com Resultado da discursão e das ideias dos participantes, os seguintes requisi
 
 ### Requistios não funcionais
 
+
 | ID     | Requisitos Não Funcionais                           |
 | ------ | --------------------------------------------------- |
 | BSNF01 | O sistema deve ser responsivo                       |
@@ -80,7 +81,6 @@ Com Resultado da discursão e das ideias dos participantes, os seguintes requisi
 | BSNF03 | O sistema resolver os problemas de pré requisitos   |
 | BSNF04 | O sistema deve ter navegabilidade fácil             |
 | BSNF05 | O sistema deverá tratar pdf de historico inválidos  |
-
 
 <figcation>Tabela 2: Requisitos não funcionais. </figcation>
 ## Referências
