@@ -47,7 +47,7 @@ As escalas utilizadas para os componentes **impacto** e **probabilidade** são d
 
 | # | Evento | Probabilidade | Impacto | Prevenção | Contenção |
 | - | ------ | ------------- | ------- | --------- | --------- |
-| 1 | Falta de comprometimento com o projeto | Média | Alto | Ações para manter o engajamento; Comunicação frequente e efetiva; Alocar membros baseado em seus interesses | Comunicar com o membro; Alocar membros em tarefas que tenham interesse |
+| 1 | Falta de comprometimento com o projeto | Média | Alto | Ações para manter o engajamento; Comunicação frequente e efetiva; Alocar membros baseado em seus interesses | Comunicar com o membro |
 | 2 | Distribuição de tarefas desbalanceada | Baixa | Médio | Participação nas sprints; Distribuir balanceadamente considerando a dificuldade das tarefas | Realocação das tarefas |
 | 3 | Desistência de um integrante | Baixa | Alto | Manter a motivação através de comunicação frequente | Realocação das tarefas; Distribuir tarefas baseado nos conhecimentos dos integrantes |
 | 4 | Alteração no escopo do projeto | Média | Médio | Elicitação e análise de requisitos efetiva desde o início do projeto; | Documentar bem os novos itens |
