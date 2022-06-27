@@ -33,23 +33,45 @@ Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
 
 ## Desenvolvedores
 
-| Matrícula  | Aluno            |
-| ---------- | ---------------- |
-| 19/0124997 | Amanda Nobre     |
-| 19/0101792 | Ana Carolina     |
-| 17/0105342 | Irwin Schmitt    |
-| 19/0033088 | Lucas Braun      |
-| 18/0106805 | Mateus Maia      |
-| 19/0055201 | Matheus Calixto  |
-| 17/0111059 | Matheus Fonseca  |
-| 18/0127969 | Matheus Monteiro |
-| 18/0078224 | Thaís Rebouças   |
-| 16/0149410 | Yudi Yamane      |
+| Matrícula  | Aluno            | Username GitHub                                                           |
+| ---------- | ---------------- | ------------------------------------------------------------------------- |
+| 19/0124997 | Amanda Nobre     | [AmandaNbr](https://github.com/AmandaNbr)                                 |
+| 19/0101792 | Ana Carolina     | [AnaCarolinaRodriguesLeite](https://github.com/AnaCarolinaRodriguesLeite) |
+| 17/0105342 | Irwin Schmitt    | [irwinschmitt](https://github.com/irwinschmitt)                           |
+| 19/0033088 | Lucas Braun      | [lbvx](https://github.com/lbvx)                                           |
+| 18/0106805 | Mateus Maia      | [mateusmaiamaia](https://github.com/mateusmaiamaia)                       |
+| 19/0055201 | Matheus Calixto  | [matheuscvp](https://github.com/matheuscvp)                               |
+| 17/0111059 | Matheus Fonseca  | [gatotabaco](https://github.com/gatotabaco)                               |
+| 18/0127969 | Matheus Monteiro | [matheusyanmonteiro](https://github.com/matheusyanmonteiro)               |
+| 18/0078224 | Thaís Rebouças   | [thais-ra](https://github.com/thais-ra)                                   |
+| 16/0149410 | Yudi Yamane      | [yudi-azvd](https://github.com/yudi-azvd)                                 |
+
+## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
+<img src="images/1a-entrega/print-prototipo.png" align="center" />
+<p align = "center"> 
+Figura 1 - Protótipo de alta fidelidade <br>
+Fonte: Figma da equipe
+</p>
+
+<br>
+<br>
+
+<img src="images/1a-entrega/print-rich-picture.png" align="center" />
+<p align = "center"> 
+Figura 2 - Rich Picture final <br>
+Fonte: <a href="https://unbarqdsw2022-1.github.io/2022.1_G4_FluxoAgil/#/Base/AbordagemNaoEspecifica/rich_picture?id=vers%c3%a3o-final">Site da documentação</a>
+</p>
+
+
+<img src="images/1a-entrega/print-priorizacao.png" align="center" />
+<p align = "center"> 
+Figura 2 - Requisitos depois da priorização MoSCoW <br>
+Fonte: <a href="http://localhost:3000/#/Base/AbordagemNaoEspecifica/priorizacao/moscow?id=resultados">Site da documentação</a>
+</p>
+
+
 
 <!--- 
-## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
-
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
 
