@@ -5,7 +5,7 @@
 | Data       | Versão | Descrição            | Autor(a)                                         | Revisor(a)                                       |
 | ---------- | ------ | -------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | 27/06/2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) | [Mateus Maia](https://github.com/mateusmaiamaia) |
-| 27/06/2022 | 1.1    | Criação do protótipo | [Irwin Schmitt](https://github.com/irwinschmitt) | [Mateus Calixto](https://github.com/matheuscvp)  |
+| 27/06/2022 | 1.1    | Criação do protótipo | [Irwin Schmitt](https://github.com/irwinschmitt) | [Amanda Nobre](https://github.com/AmandaNbr)     |
 
 ## Introdução
 
@@ -23,6 +23,11 @@ Para criarmos o protótipo de alta fidelidade, utilizamos a aplicação [Figma](
 ## Protótipo
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="800" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FUpEz5o0fnCiTMaGOuYQn6p%2FProt%25C3%25B3tipoDeAlta%3Fnode-id%3D5%253A3%26scaling%3Dscale-down-width%26page-id%3D5%253A2%26starting-point-node-id%3D5%253A3&hide-ui=1" allowfullscreen></iframe>
+
+<p align = "center">
+Figura 1 - Protótipo de Alta Fidelidade <br>
+Autor: Irwin Schmitt
+</p>
 
 ## Referências
 
