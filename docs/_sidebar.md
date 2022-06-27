@@ -64,6 +64,7 @@
     - [4.4. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
 
 - [Atas de Reunião](#)
+  - [Ata - 08/06](AtasDeReunião/Ata_08-06.md)
   - [Ata - 16/06](AtasDeReunião/Ata_16-06.md)
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
   - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
