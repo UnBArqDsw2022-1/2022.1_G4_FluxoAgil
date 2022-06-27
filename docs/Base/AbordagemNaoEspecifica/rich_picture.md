@@ -1,9 +1,10 @@
-# Título
+# Rich Picture
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
-| ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| 19.06.22   | 1.0    | Criação do documento | [Lucas Braun](https://github.com/lbvx) e [Mateus Maia](https://github.com/mateusmaiamaia) |[Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)  |
+
+| Data     | Versão | Descrição            | Autor(a)                                                                                  | Revisor(a)                                                   |
+| -------- | ------ | -------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 19/06/22 | 1.0    | Criação do documento | [Lucas Braun](https://github.com/lbvx) e [Mateus Maia](https://github.com/mateusmaiamaia) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
 
 ## Introdução
 
@@ -36,7 +37,7 @@ Resultados dos artefatos criados individualmente.
 
 ### Rich Picture 1
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_amanda.png" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture1" src="../../images/rich_picture/rich_picture_amanda.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 1 - Rich Picture individual <br>
 Autora: <a href="https://github.com/AmandaNbr">Amanda Nobre</a> 
@@ -44,7 +45,7 @@ Autora: <a href="https://github.com/AmandaNbr">Amanda Nobre</a>
 
 ### Rich Picture 2
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_ana.png" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture2" src="../../images/rich_picture/rich_picture_ana.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 2 - Rich Picture individual <br> 
 Autora: <a href="https://github.com/AnaCarolinaRodriguesLeite">Ana Carolina</a>    
@@ -52,7 +53,7 @@ Autora: <a href="https://github.com/AnaCarolinaRodriguesLeite">Ana Carolina</a>
 
 ### Rich Picture 3
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_irwin.png" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture3" src="../../images/rich_picture/rich_picture_irwin.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 3 - Rich Picture individual <br>
 Autor: <a href="https://github.com/irwinschmitt">Irwin Schmitt</a>    
@@ -60,7 +61,7 @@ Autor: <a href="https://github.com/irwinschmitt">Irwin Schmitt</a>
 
 ### Rich Picture 4
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_lucas.png" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture4" src="../../images/rich_picture/rich_picture_lucas.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 4 - Rich Picture individual <br>
 Autor: <a href="https://github.com/lbvx">Lucas Braun</a>
@@ -68,7 +69,7 @@ Autor: <a href="https://github.com/lbvx">Lucas Braun</a>
 
 ### Rich Picture 5
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_maia.jpg" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture5" src="../../images/rich_picture/rich_picture_maia.jpg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 5 - Rich Picture individual <br>
 Autor: <a href="https://github.com/mateusmaiamaia">Mateus Maia</a>
@@ -76,7 +77,7 @@ Autor: <a href="https://github.com/mateusmaiamaia">Mateus Maia</a>
 
 ### Rich Picture 6
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_pinheiro.jpg" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture6" src="../../images/rich_picture/rich_picture_pinheiro.jpg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 6 - Rich Picture individual <br>
 Autor: <a href="https://github.com/matheuscvp">Matheus Pinheiro</a>  
@@ -84,7 +85,7 @@ Autor: <a href="https://github.com/matheuscvp">Matheus Pinheiro</a>
 
 ### Rich Picture 7
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_monteiro.jpeg" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture7" src="../../images/rich_picture/rich_picture_monteiro.jpeg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 7 - Rich Picture individual <br>
 Autor: <a href="https://github.com/matheusyanmonteiro">Matheus Monteiro</a>
@@ -92,7 +93,7 @@ Autor: <a href="https://github.com/matheusyanmonteiro">Matheus Monteiro</a>
 
 ### Rich Picture 8
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_thais.jpeg" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture8" src="../../images/rich_picture/rich_picture_thais.jpeg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 8 - Rich Picture individual <br>
 Autora: <a href="https://github.com/Thais-ra">Thais Rebolça</a>
@@ -100,7 +101,7 @@ Autora: <a href="https://github.com/Thais-ra">Thais Rebolça</a>
 
 ### Rich Picture 9
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_yudi.png" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture9" src="../../images/rich_picture/rich_picture_yudi.png" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 9 - Rich Picture individual <br>
 Autor: <a href="https://github.com/yudi-azvd">Yudi Yamane</a>
@@ -112,7 +113,7 @@ Resultado final do artefato criado após a reunião entre os autores do mesmo.
 
 ### Versão Final
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_final.jpg" height="500px" width="800px" /> </p>
+<p align = "center"> <img alt="richpicture10" src="../../images/rich_picture/rich_picture_final.jpg" height="500px" width="800px" /> </p>
 <p align = "center"> 
 Figura 10 - Rich Picture final <br>
 Autores: <a href="https://github.com/lbvx">Lucas Braun</a> e <a href="https://github.com/mateusmaiamaia">Mateus Maia</a>
@@ -120,7 +121,7 @@ Autores: <a href="https://github.com/lbvx">Lucas Braun</a> e <a href="https://gi
 
 ### Legenda da Versão Final
 
-<p align = "center"> <img src="../../images/rich_picture/rich_picture_legenda.jpg" height="500px" width="600px" /> </p>
+<p align = "center"> <img alt="richpicture11" src="../../images/rich_picture/rich_picture_legenda.jpg" height="500px" width="600px" /> </p>
 <p align = "center"> 
 Figura 11 - Legenda do Rich Picture final <br>
 Autores: <a href="https://github.com/lbvx">Lucas Braun</a> e <a href="https://github.com/mateusmaiamaia">Mateus Maia</a> 
@@ -128,9 +129,6 @@ Autores: <a href="https://github.com/lbvx">Lucas Braun</a> e <a href="https://gi
 
 ## Referências
 
-[1] Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/
+Leite, Julio Cesar Sampaio do Prado. Livro Vivo - Engenharia de Requisitos. Disponível em: http://livrodeengenhariaderequisitos.blogspot.com.br/
 
-[2] Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.
-
-
-
+Young, Ralph. Requirements Engineering Handbook. Norwood, US: Artech House Books, 2003.

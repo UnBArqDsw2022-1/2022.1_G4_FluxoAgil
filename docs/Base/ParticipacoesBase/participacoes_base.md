@@ -1,0 +1,31 @@
+# Participações Base
+
+## Histórico de versões
+| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
+| ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
+| 26/06/22   | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Thaís Rebouças](https://github.com/Thais-ra) |
+
+## Introdução
+
+Esse documento tem como objetivo explicitar a participação dos integrantes no desenvolvimento do Modulo Base do projeto.
+
+## Metodologia
+
+A equipe se reuniu pelo Discord e preencheu uma planilha com os artefatos que: Participou, escreveu e revisou. No final cada um avaliou a aignificância da própria contribuição para o projeto.
+
+## Participantes
+
+- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)
+- [Irwin Schmitt](https://github.com/irwinschmitt)
+- [Lucas Braun](https://github.com/lbvx)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
+- [Matheus Calixto](https://github.com/matheuscvp)
+- [Matheus Fonseca](https://github.com/gatotabaco) 
+- [Matheus Monteiro](https://github.com/matheusyanmonteiro)
+- [Thaís Rebouças](https://github.com/thais-ra)
+- [Yudi Yamane](https://github.com/yudi-azvd)
+
+## Resultados
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-Yyzco-rth7s0jd174yjfchbgC1jwm-NUhR_gWo_X3kYby9fkjxULu7qjZxuRBhBvW_kIaev_w00U/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1000px"></iframe>

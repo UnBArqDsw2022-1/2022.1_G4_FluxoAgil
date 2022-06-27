@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
 | ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| dd.mm.aa   | x.x    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Thaís Rebouças](https://github.com/Thais-ra) |
+| dd/mm/aa   | x.x    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Thaís Rebouças](https://github.com/Thais-ra) |
 
 ## Introdução
 

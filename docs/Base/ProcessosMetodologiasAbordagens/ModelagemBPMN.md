@@ -2,9 +2,10 @@
 
 ## Histórico de versão
 
-| Data | Versão | Descrição | Autor(a) |  Revisor(a)  |
-| -------- | -------- | -------- | ---| ------- |
-|  22/06/2022   |  1.0    |  Criação do Documento    | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)  |  [Amanda Nobre](https://github.com/AmandaNbr)  |
+| Data     | Versão | Descrição            | Autor(a)                                                                                                       | Revisor(a)                                   |
+| -------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 22/06/22 | 1.0    | Criação do Documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
+
 
 ## Introdução
 
@@ -58,10 +59,10 @@ Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus M
 
 ## Referências
 
-> Notação BPMN, a mais usada para modelar processos. Disponível em: [https://www.heflo.com/pt-br/bpm/notacao-bpmn/](https://www.heflo.com/pt-br/bpm/notacao-bpmn/). Data de acesso: 22/06/2022
+Notação BPMN, a mais usada para modelar processos. Disponível em: [https://www.heflo.com/pt-br/bpm/notacao-bpmn/](https://www.heflo.com/pt-br/bpm/notacao-bpmn/). Data de acesso: 22/06/2022
 
-> Diagrama BPMN e BPMN 2.0. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-bpmn](https://www.lucidchart.com/pages/pt/diagrama-bpmn). Data de acesso: 22/06/2022
+Diagrama BPMN e BPMN 2.0. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-bpmn](https://www.lucidchart.com/pages/pt/diagrama-bpmn). Data de acesso: 22/06/2022
 
-> GRAPHICAL NOTATIONS FOR BUSINESS PROCESSES. Disponível em: [https://www.omg.org/bpmn/](https://www.omg.org/bpmn/). Data de acesso: 22/06/2022
+GRAPHICAL NOTATIONS FOR BUSINESS PROCESSES. Disponível em: [https://www.omg.org/bpmn/](https://www.omg.org/bpmn/). Data de acesso: 22/06/2022
 
-> Guia simplificado de boas práticas em modelagem de processos com BPMN. Disponível em: [https://www.ufmg.br/dti/wp-content/uploads/2019/01/POP-0001-ANEXO-A-Guia-simplificado-de-boas-praticas-em-modelagem.pdf](https://www.ufmg.br/dti/wp-content/uploads/2019/01/POP-0001-ANEXO-A-Guia-simplificado-de-boas-praticas-em-modelagem.pdf). Data de acesso: 22/06/2022
+Guia simplificado de boas práticas em modelagem de processos com BPMN. Disponível em: [https://www.ufmg.br/dti/wp-content/uploads/2019/01/POP-0001-ANEXO-A-Guia-simplificado-de-boas-praticas-em-modelagem.pdf](https://www.ufmg.br/dti/wp-content/uploads/2019/01/POP-0001-ANEXO-A-Guia-simplificado-de-boas-praticas-em-modelagem.pdf). Data de acesso: 22/06/2022

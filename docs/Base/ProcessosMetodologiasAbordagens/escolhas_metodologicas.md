@@ -1,9 +1,9 @@
-# Metodologias
+# Escolhas Metodológicas
 
 ## Histórico de versões
 | Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                             |
 | -------- | ------ | -------------------- | -------------------------------------------- | -------------------------------------- |
-| 20.06.22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
+| 20/06/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
 
 ## Introdução
 
@@ -29,7 +29,7 @@ certas práticas que fazem mais sentido para o contexto do desenvolvimento do pr
 
 Scrum é uma metodologia de gerenciamento de projetos amplamente utilizada, com foco em ciclos de entregas.
 
-<p align = "center"> <img src="../../images/metodologia/scrum.png" width="500px" /> </p>
+<p align = "center"> <img alt="scrum" src="../../images/metodologia/scrum.png" width="500px" /> </p>
 <p align = "center"> 
 Figura 1 - Scrum <br>
 Fonte: Lakeworks
@@ -50,7 +50,7 @@ Esta metodologia ágil é voltada para as práticas de Engenharia de Software, d
 
 A metodologia possui cinco principais valores, sendo eles: Simplicidade, Feedback, Coragem, Respeito e Comunicação. E seus princípios básicos são: feedback rápido, presumir simplicidade, mudanças incrementais, abraçar mudanças e trabalho de qualidade.
 
-<p align = "center"> <img src="../../images/metodologia/xp.png" width="400px" /> </p>
+<p align = "center"> <img alt="xp" src="../../images/metodologia/xp.png" width="400px" /> </p>
 <p align = "center"> 
 Figura 2 - XP <br>
 Fonte: Jose Cuéllar
@@ -82,7 +82,7 @@ Contém as tarefas que precisam ser revisadas.
 
 Tarefas que não foram concluídas por algum motivo.
 
-<p align = "center"> <img src="../../images/metodologia/kanban.png"/> </p>
+<p align = "center"> <img alt="kanban" src="../../images/metodologia/kanban.png"/> </p>
 <p align = "center"> 
 Figura 3 - Kanban <br>
 Fonte: Equipe
@@ -90,15 +90,15 @@ Fonte: Equipe
 
 ## Ferramentas
 
-|                                                                  | Ferramenta | Finalidade                                               |
-| ---------------------------------------------------------------- | ---------- | -------------------------------------------------------- |
-| <img src="../../images/metodologia/github.png" width="50px" />   | Github     | Versionamento do projeto e quadro kanban com o Projects. |
-| <img src="../../images/metodologia/telegram.png" width="50px" /> | Telegram   | Comunicação por texto entre os integrantes.              |
-| <img src="../../images/metodologia/discord.png" width="50px" />  | Discord    | Comunicação por voz entre os integrantes.                |
-| <img src="../../images/metodologia/zenhub.png" width="50px" />   | Zenhub     | Gráficos para análise.                                   |
-| <img src="../../images/metodologia/drawio.png" width="50px" />   | Draw.io    | Criação de rich pitcures e modelagens                    |
-| <img src="../../images/metodologia/miro.png" width="50px" />     | Miro       | Quadro branco interativo para reuniões virtuais.         |
-| <img src="../../images/metodologia/figma.png" width="50px" />    | Figma      | Criação de protótipos                                    |
+|                                                                                 | Ferramenta | Finalidade                                               |
+| ------------------------------------------------------------------------------- | ---------- | -------------------------------------------------------- |
+| <img alt="github" src="../../images/metodologia/github.png" width="50px" />     | Github     | Versionamento do projeto e quadro kanban com o Projects. |
+| <img alt="telegram" src="../../images/metodologia/telegram.png" width="50px" /> | Telegram   | Comunicação por texto entre os integrantes.              |
+| <img alt="discord" src="../../images/metodologia/discord.png" width="50px" />   | Discord    | Comunicação por voz entre os integrantes.                |
+| <img alt="zenhub" src="../../images/metodologia/zenhub.png" width="50px" />     | Zenhub     | Gráficos para análise.                                   |
+| <img alt="drawio" src="../../images/metodologia/drawio.png" width="50px" />     | Draw.io    | Criação de rich pitcures e modelagens                    |
+| <img alt="miro" src="../../images/metodologia/miro.png" width="50px" />         | Miro       | Quadro branco interativo para reuniões virtuais.         |
+| <img alt="figma" src="../../images/metodologia/figma.png" width="50px" />       | Figma      | Criação de protótipos                                    |
 
 ## Referências
 
