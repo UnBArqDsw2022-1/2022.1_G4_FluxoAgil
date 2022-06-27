@@ -28,6 +28,7 @@
 
       - [Padrões de projeto](#)
         - [Guia de Estilo]()
+        - [Protótipo de média fidelidade](Base/AbordagemNaoEspecifica/prototipo-media-fidelidade.md)
         - [Protótipo de alta fidelidade](Base/IniciativasExtras/prototipo-alta-fidelidade.md)
 
     - Módulo Processos, Metodologias e Abordagens
