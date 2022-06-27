@@ -1,9 +1,9 @@
 # Estimativa de Esforço e de Tempo
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
-| ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| 25/06/22   | 1.0    | Criação do documento | [Lucas Braun](https://github.com/lbvx) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| Data     | Versão | Descrição            | Autor(a)                               | Revisor(a)                                  |
+| -------- | ------ | -------------------- | -------------------------------------- | ------------------------------------------- |
+| 25/06/22 | 1.0    | Criação do documento | [Lucas Braun](https://github.com/lbvx) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
@@ -43,17 +43,17 @@ Com as características do projeto em mente, foi escolhido o modelo **COCOMO Int
 
 Esses atributos são então classificados em uma escala que varia de "muito baixo" a "extremamente elevado", e a partir disso se determina o multiplicador de esforço de cada atributo. A tabela a seguir traz os multiplicadores de esforço dos atributos escolhidos (de acordo com Boehm, 1981), onde os números **destacados** são as classificações escolhidas para esse projeto.
 
-| Direcionadores de Custo | Muito Baixo | Baixo | Normal | Elevado | Muito Elevado | Extremamente Elevado |
-| ----------------------- | ----------- | ----- | ------ | ------- | ------------- | -------------------- |
-| Confiabilidade exigida do software | 0.75 | 0.88 | **1.00** | 1.15 | 1.40 | - |
-| Tamanho do banco de dados | - | **0.94** | 1.00 | 1.08 | 1.16 | - |
-| Complexidade do produto | 0.70 | **0.85** | 1.00 | 1.15 | 1.30 | 1.65 |
-| Restrições ao tempo de execução | - | - | **1.00** | 1.11 | 1.30 | 1.66 |
-| Experiência em aplicações | 1.29 | **1.13** | 1.00 | 0.91 | 0.82 | - |
-| Capacidade do programador | 1.42 | **1.17** | 1.00 | 0.86 | 0.70 | - |
-| Uso de práticas modernas de programação | 1.24 | 1.10 | 1.00 | **0.91** | 0.82 | - |
-| Uso de ferramentas de software | 1.24 | 1.10 | 1.00 | **0.91** | 0.83 | - |
-| Cronograma exigido de desenvolvimento | 1.23 | 1.08 | 1.00 | **1.04** | 1.10 | - |
+| Direcionadores de Custo                 | Muito Baixo | Baixo    | Normal   | Elevado  | Muito Elevado | Extremamente Elevado |
+| --------------------------------------- | ----------- | -------- | -------- | -------- | ------------- | -------------------- |
+| Confiabilidade exigida do software      | 0.75        | 0.88     | **1.00** | 1.15     | 1.40          | -                    |
+| Tamanho do banco de dados               | -           | **0.94** | 1.00     | 1.08     | 1.16          | -                    |
+| Complexidade do produto                 | 0.70        | **0.85** | 1.00     | 1.15     | 1.30          | 1.65                 |
+| Restrições ao tempo de execução         | -           | -        | **1.00** | 1.11     | 1.30          | 1.66                 |
+| Experiência em aplicações               | 1.29        | **1.13** | 1.00     | 0.91     | 0.82          | -                    |
+| Capacidade do programador               | 1.42        | **1.17** | 1.00     | 0.86     | 0.70          | -                    |
+| Uso de práticas modernas de programação | 1.24        | 1.10     | 1.00     | **0.91** | 0.82          | -                    |
+| Uso de ferramentas de software          | 1.24        | 1.10     | 1.00     | **0.91** | 0.83          | -                    |
+| Cronograma exigido de desenvolvimento   | 1.23        | 1.08     | 1.00     | **1.04** | 1.10          | -                    |
 <p align = "center"> 
 Tabela 1 - Multiplicadores de esforço <br>
 Fonte: Boehm (1981) 
@@ -61,11 +61,11 @@ Fonte: Boehm (1981)
 
 Além disso, na estimativa também são usados coeficientes pre-determinados, representados na tabela a seguir, onde os coeficientes **a** e **b** são do COCOMO Intermediário, e **c** e **d** são reutilizados do COCOMO Básico. 
 
-| Projeto de Software | a | b | c | d |
-| ------------------- | - | - | - | - |
-| Orgânico | 3.20 | 1.05 | 2.50 | 0.38 |
-| Semidestacado | 3.00 | 1.12 | 2.50 | 0.35 |
-| Embutido | 2.80 | 1.20 | 2.50 | 0.32 |
+| Projeto de Software | a    | b    | c    | d    |
+| ------------------- | ---- | ---- | ---- | ---- |
+| Orgânico            | 3.20 | 1.05 | 2.50 | 0.38 |
+| Semidestacado       | 3.00 | 1.12 | 2.50 | 0.35 |
+| Embutido            | 2.80 | 1.20 | 2.50 | 0.32 |
 <p align = "center"> 
 Tabela 2 - Coeficientes <br>
 Fonte: Boehm (1981) 
