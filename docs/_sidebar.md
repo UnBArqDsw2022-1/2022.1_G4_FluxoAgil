@@ -20,7 +20,7 @@
         - [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md)
         - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
         - [Instrospecção](Base/AbordagemNaoEspecifica/elicitacao/introspeccao.md)
-        - [Personas]()
+        - [Personas](requisitos/personas.md)
         - [StoryBoard](Base/IniciativasExtras/storyboards.md)
       
       - [Priorização](#)
