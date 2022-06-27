@@ -33,7 +33,7 @@ Fonte: <a href="https://color.adobe.com/pt/explore">Adobe Color</a>
 As fontes escolhidas foram:
 
 Rubik - <a href="https://fonts.google.com/specimen/Rubik">Google Fonts</a>
-Será utilizada em titulos e Sub Titulos, nos pesos semibold e medium, no tamanho de 20px.
+Será utilizada em titulos e Sub Titulos, nos pesos semibold, medium e regular, no tamanho de 20px.
 Exemplo:
 
 <img src="docs/images/preview-title.png" align = "center" />
