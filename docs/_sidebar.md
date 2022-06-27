@@ -22,6 +22,9 @@
         - [Instrospecção](Base/AbordagemNaoEspecifica/elicitacao/introspeccao.md)
         - [Personas]()
         - [StoryBoard](Base/IniciativasExtras/storyboards.md)
+      
+      - [Priorização](#)
+        - [MoSCoW](Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
 
       - [Padrões de projeto](#)
         - [Guia de Estilo]()
