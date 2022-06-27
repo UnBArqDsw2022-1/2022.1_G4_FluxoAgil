@@ -36,7 +36,7 @@ Rubik - <a href="https://fonts.google.com/specimen/Rubik">Google Fonts</a>
 Será utilizada em titulos e Sub Titulos, nos pesos semibold, medium e regular, no tamanho de 20px.
 Exemplo:
 
-<img src="docs/images/preview-title.png" align = "center" />
+<img src="../../images/preview-title.png" align = "center" />
 <p align = "center"> 
 Figura 2 - exemplo Rubik <br>
 Fonte: Autores
@@ -45,11 +45,15 @@ Fonte: Autores
 Inter - <a href="https://fonts.google.com/specimen/Inter">Google Fonts</a>
 Será utilizada em textos e corpo, nos pesos regular e light, no tamanho de 16px.
 
-<img src="docs/images/preview-body.png" align = "center" />
+<img src="../../images/preview-body.png" align = "center" />
 <p align = "center"> 
 Figura 3 - exemplo Inter <br>
 Fonte: Autores
 </p>
+
+## Componentes
+
+
 
 ## Referências
 
