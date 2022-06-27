@@ -27,7 +27,7 @@ características de um usuário típico ou atípico (antipersonas). Uma persona 
 
 _"Gostaria de me organizar com mais facilidade nos estudos"._
 
-Julia já está no quarto semestre do curso, mas ainda não conseguiu organizar de maneira apropriada quais matérias vai cursar durante os semestres da sua graduação. Ela normalmente escolhe as matérias que vai fazer apenas levando em conta a conveniencia dos horários disponíveis de cada disciplina.
+Julia já está no quarto semestre do curso, mas ainda não conseguiu organizar de maneira apropriada quais matérias vai cursar durante os semestres da sua graduação. Ela normalmente escolhe as matérias que vai fazer apenas levando em conta a conveniência dos horários disponíveis de cada disciplina.
 
 Julia entende a importância de priorizar as matérias que vai cursar, bem como se organizar com sua grade. Por isso, precisa de uma maneira fácil de definir o que vai cursar e quando.
 
@@ -47,9 +47,9 @@ Julia entende a importância de priorizar as matérias que vai cursar, bem como 
 
 _"Sou muito metódico"_
 
-Rafael, 20 anos, é extremamente organizado e metódico com suas atividades. Todo semestre, após a aprovação ou não em cada uma das disciplinas que cursou, ele precisa reservar um tempo para organizar o que vai fazer daqui para frente no curso. Isso toma um tempo razoavelmente grande dele no inicio de cada semestre quando as disciplinas vão ser ofertadas, porque precisa se atentar com os requisitos e corequisitos de cada disciplina que precisa planejar de cursar.
+Rafael, 20 anos, é extremamente organizado e metódico com suas atividades. Todo semestre, após a aprovação ou não em cada uma das disciplinas que cursou, ele precisa reservar um tempo para organizar o que vai fazer daqui para frente no curso. Isso toma um tempo razoavelmente grande no inicio de cada semestre quando as disciplinas vão ser ofertadas, porque precisa se atentar com os requisitos e co-requisitos de cada disciplina que precisa planejar de cursar.
 
-Rafael quer uma maneira mais simples de saber o que falta para ele poder cursar cada disciplina, além de uma maior facilidade para lidar com os requisitos e corequisitos das disciplinas.
+Rafael quer uma maneira mais simples de saber o que falta para ele poder cursar cada disciplina, além de uma maior facilidade para lidar com os requisitos e co-requisitos das disciplinas.
 
 
 ### Araci da Fonseca
