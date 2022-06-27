@@ -28,7 +28,7 @@
 
       - [Padrões de projeto](#)
         - [Guia de Estilo]()
-        - [Protótipo de média e alta fidelidade]()
+        - [Protótipo de alta fidelidade](Base/IniciativasExtras/prototipo-alta-fidelidade.md)
 
     - Módulo Processos, Metodologias e Abordagens
       - [Escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
