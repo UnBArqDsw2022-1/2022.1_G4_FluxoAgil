@@ -26,7 +26,7 @@ Para criarmos o protótipo de alta fidelidade, utilizamos a aplicação [Figma](
 
 <p align = "center">
 Figura 1 - Protótipo de Alta Fidelidade <br>
-Autor: Irwin Schmitt
+Autor: Irwin Schmitt e Mateus Calixto
 </p>
 
 ## Referências
