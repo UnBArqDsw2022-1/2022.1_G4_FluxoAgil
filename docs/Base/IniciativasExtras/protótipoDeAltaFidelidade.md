@@ -1,13 +1,13 @@
 # Protótipo de Alta Fidelidade
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                         | Revisor(a) |
-| ---------- | ------ | -------------------- | ------------------------------------------------ | ---------- |
-| 26.06.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) |            |
+| Data       | Versão | Descrição            | Autor(a)                                         | Revisor(a)                                       |
+| ---------- | ------ | -------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| 26.06.2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) | [Mateus Maia](https://github.com/mateusmaiamaia) |
 
 ## Introdução
 
-O Protótipo de Alta Fidelidade é um modelo de iniciativa que visa simular com fidelidade o estado final que o sistema terá.
+O Protótipo de Alta Fidelidade é um modelo de iniciativa que visa simular com fidelidade o estado final que o sistema terá, para assim obter uma validação dos requisitos do sistema.
 
 ## Metodologia
 
