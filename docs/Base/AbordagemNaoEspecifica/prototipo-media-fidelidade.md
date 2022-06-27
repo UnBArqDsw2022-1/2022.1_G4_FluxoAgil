@@ -4,7 +4,7 @@
 
 | Data       | Versão | Descrição            | Autor(a)                                         | Revisor(a)                                      |
 | ---------- | ------ | -------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| 27/06/2022 | 1.0    | Criação do protótipo | [Irwin Schmitt](https://github.com/irwinschmitt) | [Mateus Calixto](https://github.com/matheuscvp) |
+| 27/06/2022 | 1.0    | Criação do protótipo | [Irwin Schmitt](https://github.com/irwinschmitt) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 ## Introdução
 
