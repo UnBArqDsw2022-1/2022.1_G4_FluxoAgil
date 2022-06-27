@@ -17,8 +17,9 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 
 **Número do Grupo**: 04
 
-**Fluxo Ágil** é um aplicativo que recomenda um fluxo de disciplinas para o 
-aluno da UnB baseado em seu histórico acadêmico.
+**Fluxo Ágil** é um aplicativo que recomenda um fluxo de disciplinas para 
+estudantes de graduação da Universidade de Brasília baseado em seu histórico 
+acadêmico.
 
 Esse site hospeda a documentação do projeto, diretrizes de desenvolvimento,
 decisões de arquitetura, guia de estilo e outros artefatos. Esses artefatos
