@@ -12,8 +12,8 @@
       - [Mapa Mental](Base/AbordagemNaoEspecifica/mapa_mental.md)
       - [Diagrama de Causa e Efeito](Base/AbordagemNaoEspecifica/causaEfeito.md)
       - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md)
-      - [Plano de risco]()
-      - [Plano de custo e tempo]()
+      - [Plano de Riscos](Base/AbordagemNaoEspecifica/riscos.md)
+      - [Estimativa de Esforço e Tempo](Base/AbordagemNaoEspecifica/estimativa.md)
       - [Léxicos](Base/AbordagemNaoEspecifica/lexico.md)
 
       - [Elicitação](#)
