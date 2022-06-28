@@ -4,7 +4,7 @@
 
 | Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a)                                       |
 | -------- | ------ | -------------------- | --------------------------------------------- | ------------------------------------------------ |
-| 26.06.22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Matheus Calixto](https://github.com/matheuscvp) |
+| 26/06/22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Matheus Calixto](https://github.com/matheuscvp) |
 
 
 ## Introdução

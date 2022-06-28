@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
 | ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| 22.06.22   | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Irwin Schmitt](https://github.com/irwinschmitt) |
+| 22/06/22   | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Irwin Schmitt](https://github.com/irwinschmitt) |
 
 ## Introdução
 

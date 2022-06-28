@@ -4,6 +4,7 @@
 | Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                  |
 | -------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------- |
 | 18/06/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| 27/06/22 | 1.1    | Adição de links      | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
@@ -39,7 +40,7 @@ que foi realizado da mesma maneira que o mapa mental.
 
 ### Sketch ou Esboço (14 e 15/06/2022)
 No dia anterior foi realizado a confecção de rich pictures individuais, sendo assim, a equipe se reuniu por meio de aplicativos de reunião e foram decididos técnicas de elicitação e os membros que
-fariam parte de cada técnica, portanto, a equipe optou por elicitar requisitos através de [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md), [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md), [Introspecção](), [Personas]() e [StoryBoard]().
+fariam parte de cada técnica, portanto, a equipe optou por elicitar requisitos através de [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md), [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md), [Instrospecção](Base/AbordagemNaoEspecifica/elicitacao/introspeccao.md), [Personas](Base/AbordagemNaoEspecifica/elicitacao/personas.md) e [StoryBoard](Base/AbordagemNaoEspecifica/elicitacao/storyboards.md).
 
 ### Decision ou Decisão (15/06/2022)
 Nessa etapa foram discutidos os rich pictures, de forma que um integrante ficou responsável por sintetizar os melhores modelos em um só [Rich Picture](). A equipe também deixou agendada uma reunião
@@ -47,7 +48,7 @@ para priorizar os artefatos elicitados através da técina [MoSCoW]().
 
 ### Prototype ou Prototipação (16/06/2022)
 O time se reuniu com o propósito de discutir e validar o protótipo de média fidelidade que o integrante Irwin criou, após essa breve discussão, o grupo foi dividido de maneira a facilitar a
-realização dos seguinte artefatos: [Léxicos](Base/AbordagemNaoEspecifica/lexico.md), [Plano de risco](), [Plano de custo e tempo](), [Documento sobre as escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md), [BPMN](Base/ProcessosMetodologiasAbordagens/ModelagemBPMN.md) e [Guia de estilo]().
+realização dos seguinte artefatos: [Léxicos](Base/AbordagemNaoEspecifica/lexico.md), [Plano de risco](Base/AbordagemNaoEspecifica/riscos.md), [Estimativa de Esforço e Tempo](Base/AbordagemNaoEspecifica/estimativa.md), [Documento sobre as escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md), [BPMN](Base/ProcessosMetodologiasAbordagens/ModelagemBPMN.md) e [Guia de Estilo](Base/AbordagemNaoEspecifica/guiaDeEstilo.md).
 
 ## Referências
 
