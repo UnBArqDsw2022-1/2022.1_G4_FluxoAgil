@@ -12,20 +12,24 @@
       - [Mapa Mental](Base/AbordagemNaoEspecifica/mapa_mental.md)
       - [Diagrama de Causa e Efeito](Base/AbordagemNaoEspecifica/causaEfeito.md)
       - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md)
-      - [Plano de risco]()
-      - [Plano de custo e tempo]()
+      - [Plano de Riscos](Base/AbordagemNaoEspecifica/riscos.md)
+      - [Estimativa de Esforço e Tempo](Base/AbordagemNaoEspecifica/estimativa.md)
       - [Léxicos](Base/AbordagemNaoEspecifica/lexico.md)
 
       - [Elicitação](#)
         - [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md)
         - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
-        - [Instrospecção]()
-        - [Personas]()
-        - [StoryBoard]()
+        - [Instrospecção](Base/AbordagemNaoEspecifica/elicitacao/introspeccao.md)
+        - [Personas](requisitos/personas.md)
+        - [StoryBoard](Base/IniciativasExtras/storyboards.md)
+      
+      - [Priorização](#)
+        - [MoSCoW](Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
 
       - [Padrões de projeto](#)
         - [Guia de Estilo]()
-        - [Protótipo de média e alta fidelidade]()
+        - [Protótipo de média fidelidade](Base/AbordagemNaoEspecifica/prototipo-media-fidelidade.md)
+        - [Protótipo de alta fidelidade](Base/IniciativasExtras/prototipo-alta-fidelidade.md)
 
     - Módulo Processos, Metodologias e Abordagens
       - [Escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
@@ -60,6 +64,7 @@
     - [4.4. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
 
 - [Atas de Reunião](#)
+  - [Ata - 08/06](AtasDeReunião/Ata_08-06.md)
   - [Ata - 16/06](AtasDeReunião/Ata_16-06.md)
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
   - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
