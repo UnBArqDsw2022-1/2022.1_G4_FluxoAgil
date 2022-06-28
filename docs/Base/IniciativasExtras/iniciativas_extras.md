@@ -17,7 +17,7 @@ O objetivo desse documento é informar de maneira clara e objetiva quais foram o
 
 - [HeatMap](Base/AbordagemNaoEspecifica/heatmap.md)
 
-- [Guia de Estilo]()
+- [Guia de Estilo](Base/IniciativasExtras/guiaDeEstilio.md)
 
 - Atas de Reunião
 

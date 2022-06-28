@@ -27,7 +27,7 @@
         - [MoSCoW](Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
 
       - [Padrões de projeto](#)
-        - [Guia de Estilo]()
+        - [Guia de Estilo](Base/IniciativasExtras/guiaDeEstilo.md)
         - [Protótipo de média fidelidade](Base/AbordagemNaoEspecifica/prototipo-media-fidelidade.md)
         - [Protótipo de alta fidelidade](Base/IniciativasExtras/prototipo-alta-fidelidade.md)
 
