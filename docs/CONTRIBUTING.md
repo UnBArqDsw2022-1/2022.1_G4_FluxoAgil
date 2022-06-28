@@ -34,9 +34,9 @@ Para isso a equipe desenvolveu um documento de [politicas de branch.](https://gi
 
 ## Padrões de commits 
 
-Como ultizaremos github que é  uma ferramenta que serve para controlar um projeto de software e as mudanças que ocorrem neste projeto ao longo do tempo, e o commit é a peça fundamental para isso. Um commit serve como um ponto de retorno no projeto, possibilitando que os contribuidores adicione trexos de codigo no repositório virtual no github. 
+Como ultizaremos github que é  uma ferramenta que serve para controlar um projeto de software e as mudanças que ocorrem neste projeto ao longo do tempo, e o commit é a peça fundamental para isso. Um commit serve como um ponto de retorno no projeto, possibilitando que os contribuidores adicionem trexos de código no repositório virtual no github. 
 
-Para que os commits sejam feitos de forma clara e padronizados a equipe desenolveu uma [politica de commit.](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/blob/main/policies/commit.md)
+Para que os commits sejam feitos de forma clara e padronizada a equipe desenvolveu uma [politica de commit.](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/blob/main/policies/commit.md)
 
 ## Processo de pull requests 
 
@@ -47,7 +47,7 @@ Este é um dos passos mais importantes para um projeto então siga a risca todas
 1. Sempre mantenha atualizado o README.md com os detalhes de mudanças e inclua se possível as variáveis de ambiente que você utilizou. Assim como expor as portas das aplicações tanto no docker quanto local e suas respectivas rotas de parâmetros. 
 2. Coloque o número da versão e algum expemplo de requisição para facilitar 
 3. Você pode fazer o merge quando dois ou mais revisores comentarem a aprovação.
-4. siga todos os passos orientados no tamplate padrão do github.
+4. siga todos os passos orientados no Template padrão do github.
 5. Após submeter seu pull request verifique constantemente o status de verificação. 
 
 Lembrasse que todos os requisitos da issue devem ser contemplados para que seu pull request seja aceito! 
