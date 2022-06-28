@@ -14,11 +14,11 @@ características de um usuário típico ou atípico (antipersonas). Uma persona 
 
 ### Julia Bastos
 
-<figure markdown>
-  ![Julia Bastos](images/julia-bastos.jpg){ width="200" }
-  <figcaption> Imagem 1: persona Julia Bastos </figcaption>
-  Fonte: thispersondoesnotexist
-</figure>
+<p align = "center"> <img src="images/julia-bastos.jpg" height="200px" width="200px" /> </p>
+<p align = "center"> 
+Imagem 1: Persona Julia Bastos <br>
+Fonte: thispersondoesnotexist
+</p>
 
 - Idade: 25
 - Sexo: Feminino
@@ -34,11 +34,11 @@ Julia entende a importância de priorizar as matérias que vai cursar, bem como 
 
 ### Rafael Carvalho
 
-<figure markdown>
-  ![Rafael Carvalho](images/persona-rafael-carvalho.jpg){ width="200" }
-  <figcaption> Imagem 2: persona Rafael Carvalho </figcaption>
-  Fonte: thispersondoesnotexist
-</figure>
+<p align = "center"> <img src="images/persona-rafael-carvalho.jpg" height="200px" width="200px" /> </p>
+<p align = "center"> 
+Imagem 2: persona Rafael Carvalho <br>
+Fonte: thispersondoesnotexist
+</p>
 
 - Idade: 20
 - Sexo: Masculino
@@ -54,11 +54,11 @@ Rafael quer uma maneira mais simples de saber o que falta para ele poder cursar 
 
 ### Araci da Fonseca
 
-<figure markdown>
-  ![Araci da Fonseca](images/persona-araci-fonseca.jpg){ width="200" }
-  <figcaption> Imagem 3: persona Araci da Fonseca </figcaption>
-  Fonte: thispersondoesnotexist
-</figure>
+<p align = "center"> <img src="images/persona-araci-fonseca.jpg" height="200px" width="200px" /> </p>
+<p align = "center"> 
+Imagem 3: persona Araci da Fonseca <br>
+Fonte: thispersondoesnotexist
+</p>
 
 - Idade: 64
 - Sexo: Feminino
@@ -75,11 +75,11 @@ Araci é psicóloga e decidiu fazer uma segunda graduação em engenharia automo
 
 ### Mateus Oliveira
 
-<figure markdown>
-  ![Mateus Oliveira](images/persona-dona-lurdes.jpg){ width="200" }
-  <figcaption> Imagem 4: antipersona Mateus Oliveira </figcaption>
-  Fonte: thispersondoesnotexist
-</figure>
+<p align = "center"> <img src="images/anti-persona-mateus-oliveira.jpg" height="200px" width="200px" /> </p>
+<p align = "center"> 
+Imagem 4: antipersona Mateus Oliveira <br>
+Fonte: thispersondoesnotexist
+</p>
 
 - Idade: 19
 - Sexo: Masculino
