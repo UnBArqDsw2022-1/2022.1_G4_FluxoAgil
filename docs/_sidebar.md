@@ -20,16 +20,16 @@
         - [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md)
         - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
         - [Instrospecção](Base/AbordagemNaoEspecifica/elicitacao/introspeccao.md)
-        - [Personas](requisitos/personas.md)
-        - [StoryBoard](Base/IniciativasExtras/storyboards.md)
+        - [Personas](Base/AbordagemNaoEspecifica/elicitacao/personas.md)
+        - [StoryBoard](Base/AbordagemNaoEspecifica/elicitacao/storyboards.md)
       
       - [Priorização](#)
         - [MoSCoW](Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
 
       - [Padrões de projeto](#)
-        - [Guia de Estilo](Base/IniciativasExtras/guiaDeEstilo.md)
+        - [Guia de Estilo](Base/AbordagemNaoEspecifica/guiaDeEstilo.md)
         - [Protótipo de média fidelidade](Base/AbordagemNaoEspecifica/prototipo-media-fidelidade.md)
-        - [Protótipo de alta fidelidade](Base/IniciativasExtras/prototipo-alta-fidelidade.md)
+        - [Protótipo de alta fidelidade](Base/AbordagemNaoEspecifica/prototipo-alta-fidelidade.md)
 
     - Módulo Processos, Metodologias e Abordagens
       - [Escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)

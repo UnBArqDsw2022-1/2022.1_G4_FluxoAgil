@@ -3,8 +3,8 @@
 ## Histórico de versões
 | Data       | Versão | Descrição                    | Autor(a)                               | Revisor(a)                                  |
 | ---------- | ------ | ---------------------------- | -------------------------------------- | ------------------------------------------- |
-| 18.06.2022 | 1.0    | Criação do documento         | [Lucas Braun](https://github.com/lbvx) | [Yudi Yamane](https://github.com/yudi-azvd) |
-| 27.06.2022 | 1.1    | Pequenas alterações no texto | [Lucas Braun](https://github.com/lbvx) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| 18/06/2022 | 1.0    | Criação do documento         | [Lucas Braun](https://github.com/lbvx) | [Yudi Yamane](https://github.com/yudi-azvd) |
+| 27/06/2022 | 1.1    | Pequenas alterações no texto | [Lucas Braun](https://github.com/lbvx) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 

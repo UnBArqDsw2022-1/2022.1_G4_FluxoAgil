@@ -24,7 +24,7 @@ O protótipo pode ser acessado através do [link](https://whimsical.com/fluxo-ag
 
 ### Versão 1
 
-<img alt="Protótipo de média fidelidade versão 1" src="../../images/prototipos/fluxo-agil-media-v1.png" align="center" />
+<img alt="Protótipo de média fidelidade versão 1" src="images/prototipos/fluxo-agil-media-v1.png" align="center" />
 <p align = "center">
 Figura 1 - Versão 1 do Protótipo de Média Fidelidade <br>
 Autor: Irwin Schmitt

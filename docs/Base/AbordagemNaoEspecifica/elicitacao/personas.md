@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor(es)                                                                                                                                   | Revisor(es)                                  |
 | ---------- | ------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 25.06.2022 | 1.0    | Criação do documento | [Matheus Sousa](https://github.com/gatotabaco) | [Thais Rebouças](https://github.com/Thais-ra) |
+| 25/06/2022 | 1.0    | Criação do documento | [Matheus Sousa](https://github.com/gatotabaco) | [Thais Rebouças](https://github.com/Thais-ra) |
 
 ## Introdução
 
@@ -15,7 +15,7 @@ características de um usuário típico ou atípico (antipersonas). Uma persona 
 ### Julia Bastos
 
 <figure markdown>
-  ![Julia Bastos](../../img/julia-bastos.jpg){ width="200" }
+  ![Julia Bastos](images/julia-bastos.jpg){ width="200" }
   <figcaption> Imagem 1: persona Julia Bastos </figcaption>
   Fonte: thispersondoesnotexist
 </figure>
@@ -35,7 +35,7 @@ Julia entende a importância de priorizar as matérias que vai cursar, bem como 
 ### Rafael Carvalho
 
 <figure markdown>
-  ![Rafael Carvalho](../../img/persona-rafael-carvalho.jpg){ width="200" }
+  ![Rafael Carvalho](images/persona-rafael-carvalho.jpg){ width="200" }
   <figcaption> Imagem 2: persona Rafael Carvalho </figcaption>
   Fonte: thispersondoesnotexist
 </figure>
@@ -55,7 +55,7 @@ Rafael quer uma maneira mais simples de saber o que falta para ele poder cursar 
 ### Araci da Fonseca
 
 <figure markdown>
-  ![Araci da Fonseca](../../img/persona-araci-fonseca.jpg){ width="200" }
+  ![Araci da Fonseca](images/persona-araci-fonseca.jpg){ width="200" }
   <figcaption> Imagem 3: persona Araci da Fonseca </figcaption>
   Fonte: thispersondoesnotexist
 </figure>
@@ -76,7 +76,7 @@ Araci é psicóloga e decidiu fazer uma segunda graduação em engenharia automo
 ### Mateus Oliveira
 
 <figure markdown>
-  ![Mateus Oliveira](../../img/persona-dona-lurdes.jpg){ width="200" }
+  ![Mateus Oliveira](images/persona-dona-lurdes.jpg){ width="200" }
   <figcaption> Imagem 4: antipersona Mateus Oliveira </figcaption>
   Fonte: thispersondoesnotexist
 </figure>
