@@ -97,7 +97,7 @@ Aqui serão mostrados os componentes a serem utilizados no projeto, que foram co
 
 ### Header
 
-<img src="/images/componentes/Header.png" align = "center" />
+<img src="images/componentes/Header.png" align = "center" />
 <p align = "center"> 
 Figura 8 - Header <br>
 Fonte: Autores
@@ -105,7 +105,7 @@ Fonte: Autores
 
 ### Footer
 
-<img src="/images/componentes/Footer.png" align = "center" />
+<img src="images/componentes/Footer.png" align = "center" />
 <p align = "center"> 
 Figura 9 - Footer <br>
 Fonte: Autores
@@ -113,7 +113,7 @@ Fonte: Autores
 
 ### Botões
 
-<img src="/images/componentes/Button.png" align = "center" />
+<img src="images/componentes/Button.png" align = "center" />
 <p align = "center"> 
 Figura 10 - Botões <br>
 Fonte: Autores
@@ -121,7 +121,7 @@ Fonte: Autores
 
 ### Campo de texto
 
-<img src="/images/componentes/Input.png" align = "center" />
+<img src="images/componentes/Input.png" align = "center" />
 <p align = "center"> 
 Figura 11 - Campo de texto <br>
 Fonte: Autores
@@ -129,7 +129,7 @@ Fonte: Autores
 
 ### Checkbox
 
-<img src="/images/componentes/Checkbox.png" align = "center" />
+<img src="images/componentes/Checkbox.png" align = "center" />
 <p align = "center"> 
 Figura 12 - Checkbox <br>
 Fonte: Autores
@@ -137,7 +137,7 @@ Fonte: Autores
 
 ### Modal
 
-<img src="/images/componentes/Modal.png" align = "center" />
+<img src="images/componentes/Modal.png" align = "center" />
 <p align = "center"> 
 Figura 13 - Modal <br>
 Fonte: Autores
@@ -145,7 +145,7 @@ Fonte: Autores
 
 ### Link
 
-<img src="/images/componentes/Link.png" align = "center" />
+<img src="images/componentes/Link.png" align = "center" />
 <p align = "center"> 
 Figura 14 - Link <br>
 Fonte: Autores
@@ -153,7 +153,7 @@ Fonte: Autores
 
 ### Upload
 
-<img src="/images/componentes/Upload.png" align = "center" />
+<img src="images/componentes/Upload.png" align = "center" />
 <p align = "center"> 
 Figura 15 - Upload <br>
 Fonte: Autores
