@@ -5,6 +5,7 @@
 | ---------- | ------ | ---------------------- | ------------------------------------------------ | ------------------------------------------------ |
 | 25.06.2022 | 1.0    | Criação do documento   | [Matheus Calixto](https://github.com/matheuscvp) | [Mateus Maia](https://github.com/mateusmaiamaia) |
 | 26.06.2022 | 1.1    | Adição dos componentes | [Matheus Calixto](https://github.com/matheuscvp) | [Mateus Maia](https://github.com/mateusmaiamaia) |
+| 01.07.2022 | 1.2    | Corrigindo as imagens  | [Matheus Calixto](https://github.com/matheuscvp) | [Mateus Maia](https://github.com/mateusmaiamaia) |
 
 ## Introdução
 
@@ -23,7 +24,7 @@ Para a criação do guia de estilo, foi feito a escolha da paleta de cores e fon
 
 A paleta de cores escolhida foi:
 
-<img src="/images/guiaDeEstilo/AdobeColor-Teals.jpeg" align = "center" />
+<img src="images/guiaDeEstilo/AdobeColor-Teals.jpeg" align = "center" />
 <p align = "center"> 
 Figura 1 - Paleta de cores <br>
 Fonte: <a href="https://color.adobe.com/pt/explore">Adobe Color</a>
@@ -33,7 +34,7 @@ Também utilizamos o web app, [coolors.co](https://coolors.co), para verificar c
 
 ### Achromatopsia
 
-<img src="/images/guiaDeEstilo/variações da paleta/Achromatopsia.png" align = "center" />
+<img src="images/guiaDeEstilo/variações da paleta/Achromatopsia.png" align = "center" />
 <p align = "center"> 
 Figura 2 - Achromatopsia <br>
 Fonte: <a href="https://coolors.co">coolors.co</a>
@@ -41,7 +42,7 @@ Fonte: <a href="https://coolors.co">coolors.co</a>
 
 ### Deuteranopia
 
-<img src="/images/guiaDeEstilo/variações da paleta/Deuteranopia.png" align = "center" />
+<img src="images/guiaDeEstilo/variações da paleta/Deuteranopia.png" align = "center" />
 <p align = "center"> 
 Figura 3 - Deuteranopia <br>
 Fonte: <a href="https://coolors.co">coolors.co</a>
@@ -49,7 +50,7 @@ Fonte: <a href="https://coolors.co">coolors.co</a>
 
 ### Protanopia
 
-<img src="/images/guiaDeEstilo/variações da paleta/Protanotopia.png" align = "center" />
+<img src="images/guiaDeEstilo/variações da paleta/Protanotopia.png" align = "center" />
 <p align = "center"> 
 Figura 4 - Protanopia <br>
 Fonte: <a href="https://coolors.co">coolors.co</a>
@@ -57,7 +58,7 @@ Fonte: <a href="https://coolors.co">coolors.co</a>
 
 ### Tritanopia
 
-<img src="/images/guiaDeEstilo/variações da paleta/Tritanopia.png" align = "center" />
+<img src="images/guiaDeEstilo/variações da paleta/Tritanopia.png" align = "center" />
 <p align = "center"> 
 Figura 5 - Tritanopia <br>
 Fonte: <a href="https://color.adobe.com/pt/explore">coolors.co</a>
