@@ -153,7 +153,7 @@ Fonte: Autores
 
 ### Upload
 
-<img src="fix:/images/componentes/Upload.png" align = "center" />
+<img src="/images/componentes/Upload.png" align = "center" />
 <p align = "center"> 
 Figura 15 - Upload <br>
 Fonte: Autores
