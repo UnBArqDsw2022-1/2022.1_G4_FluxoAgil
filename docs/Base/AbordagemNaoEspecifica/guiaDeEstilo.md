@@ -23,7 +23,7 @@ Para a criação do guia de estilo, foi feito a escolha da paleta de cores e fon
 
 A paleta de cores escolhida foi:
 
-<img src="../../images/guiaDeEstilo/AdobeColor-Teals.jpeg" align = "center" />
+<img src="/images/guiaDeEstilo/AdobeColor-Teals.jpeg" align = "center" />
 <p align = "center"> 
 Figura 1 - Paleta de cores <br>
 Fonte: <a href="https://color.adobe.com/pt/explore">Adobe Color</a>
@@ -33,7 +33,7 @@ Também utilizamos o web app, [coolors.co](https://coolors.co), para verificar c
 
 ### Achromatopsia
 
-<img src="../../images/guiaDeEstilo/variações da paleta/Achromatopsia.png" align = "center" />
+<img src="/images/guiaDeEstilo/variações da paleta/Achromatopsia.png" align = "center" />
 <p align = "center"> 
 Figura 2 - Achromatopsia <br>
 Fonte: <a href="https://coolors.co">coolors.co</a>
@@ -41,7 +41,7 @@ Fonte: <a href="https://coolors.co">coolors.co</a>
 
 ### Deuteranopia
 
-<img src="../../images/guiaDeEstilo/variações da paleta/Deuteranopia.png" align = "center" />
+<img src="/images/guiaDeEstilo/variações da paleta/Deuteranopia.png" align = "center" />
 <p align = "center"> 
 Figura 3 - Deuteranopia <br>
 Fonte: <a href="https://coolors.co">coolors.co</a>
@@ -49,7 +49,7 @@ Fonte: <a href="https://coolors.co">coolors.co</a>
 
 ### Protanopia
 
-<img src="../../images/guiaDeEstilo/variações da paleta/Protanotopia.png" align = "center" />
+<img src="/images/guiaDeEstilo/variações da paleta/Protanotopia.png" align = "center" />
 <p align = "center"> 
 Figura 4 - Protanopia <br>
 Fonte: <a href="https://coolors.co">coolors.co</a>
@@ -57,7 +57,7 @@ Fonte: <a href="https://coolors.co">coolors.co</a>
 
 ### Tritanopia
 
-<img src="../../images/guiaDeEstilo/variações da paleta/Tritanopia.png" align = "center" />
+<img src="/images/guiaDeEstilo/variações da paleta/Tritanopia.png" align = "center" />
 <p align = "center"> 
 Figura 5 - Tritanopia <br>
 Fonte: <a href="https://color.adobe.com/pt/explore">coolors.co</a>
@@ -74,7 +74,7 @@ A fonte Rubik - <a href="https://fonts.google.com/specimen/Rubik">Google Fonts</
 Será utilizada em titulos e Sub Titulos, nos pesos semibold, medium e regular, no tamanho de 20px.
 Exemplo:
 
-<img src="../../images/guiaDeEstilo/preview-title.png" align = "center" />
+<img src="/images/guiaDeEstilo/preview-title.png" align = "center" />
 <p align = "center"> 
 Figura 6 - exemplo Rubik <br>
 Fonte: Autores
@@ -85,7 +85,7 @@ Fonte: Autores
 A fonte Inter - <a href="https://fonts.google.com/specimen/Inter">Google Fonts</a>
 Será utilizada em textos e corpo, nos pesos regular e light, no tamanho de 16px.
 
-<img src="../../images/guiaDeEstilo/preview-body.png" align = "center" />
+<img src="/images/guiaDeEstilo/preview-body.png" align = "center" />
 <p align = "center"> 
 Figura 7 - exemplo Inter <br>
 Fonte: Autores
@@ -97,7 +97,7 @@ Aqui serão mostrados os componentes a serem utilizados no projeto, que foram co
 
 ### Header
 
-<img src="../../images/componentes/Header.png" align = "center" />
+<img src="/images/componentes/Header.png" align = "center" />
 <p align = "center"> 
 Figura 8 - Header <br>
 Fonte: Autores
@@ -105,7 +105,7 @@ Fonte: Autores
 
 ### Footer
 
-<img src="../../images/componentes/Footer.png" align = "center" />
+<img src="/images/componentes/Footer.png" align = "center" />
 <p align = "center"> 
 Figura 9 - Footer <br>
 Fonte: Autores
@@ -113,7 +113,7 @@ Fonte: Autores
 
 ### Botões
 
-<img src="../../images/componentes/Button.png" align = "center" />
+<img src="/images/componentes/Button.png" align = "center" />
 <p align = "center"> 
 Figura 10 - Botões <br>
 Fonte: Autores
@@ -121,7 +121,7 @@ Fonte: Autores
 
 ### Campo de texto
 
-<img src="../../images/componentes/Input.png" align = "center" />
+<img src="/images/componentes/Input.png" align = "center" />
 <p align = "center"> 
 Figura 11 - Campo de texto <br>
 Fonte: Autores
@@ -129,7 +129,7 @@ Fonte: Autores
 
 ### Checkbox
 
-<img src="../../images/componentes/Checkbox.png" align = "center" />
+<img src="/images/componentes/Checkbox.png" align = "center" />
 <p align = "center"> 
 Figura 12 - Checkbox <br>
 Fonte: Autores
@@ -137,7 +137,7 @@ Fonte: Autores
 
 ### Modal
 
-<img src="../../images/componentes/Modal.png" align = "center" />
+<img src="/images/componentes/Modal.png" align = "center" />
 <p align = "center"> 
 Figura 13 - Modal <br>
 Fonte: Autores
@@ -145,7 +145,7 @@ Fonte: Autores
 
 ### Link
 
-<img src="../../images/componentes/Link.png" align = "center" />
+<img src="/images/componentes/Link.png" align = "center" />
 <p align = "center"> 
 Figura 14 - Link <br>
 Fonte: Autores
@@ -153,7 +153,7 @@ Fonte: Autores
 
 ### Upload
 
-<img src="../../images/componentes/Upload.png" align = "center" />
+<img src="fix:/images/componentes/Upload.png" align = "center" />
 <p align = "center"> 
 Figura 15 - Upload <br>
 Fonte: Autores
