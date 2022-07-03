@@ -11,7 +11,7 @@ Esse documento tem como objetivo explicitar a participação dos integrantes no 
 
 ## Metodologia
 
-A equipe se reuniu pelo Discord e preencheu uma planilha com os artefatos que: Participou, escreveu e revisou. No final cada um avaliou a aignificância da própria contribuição para o projeto.
+A equipe se reuniu pelo Discord e preencheu uma planilha com os artefatos que: Participou, escreveu e revisou. No final cada um avaliou a significância da própria contribuição para o projeto.
 
 ## Participantes
 
