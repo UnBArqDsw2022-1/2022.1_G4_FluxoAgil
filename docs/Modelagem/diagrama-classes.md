@@ -7,11 +7,18 @@
 
 ## Introdução
 
-Introduçao explicando o artefato ou a técnica.
+Introdução explicando o artefato ou a técnica.
 
 ## Metodologia
 
-Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes.
+Para começar o diagrama, os participantes analizaram o documento de 
+[léxico](../Base/AbordagemNaoEspecifica/lexico.md) extrair as principais
+entidades, seus atributos e relacionamentos. Também foi analisado brevemente, o 
+documento de [requisitos priorizados](../Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
+para extrair alguns comportamentos. Foi possível também prever a utilização
+de alguns padrões de projeto.
+
+<!-- Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes. -->
 
 ## Participantes
 
@@ -20,17 +27,13 @@ Explicação de como a equipe usou a técnica/criou o artefato: Em qual platafor
 
 ## Resultados
 
-Resultados da técnica/artefato.
+As principais entidades que se tornaram classes foram: Curriculum, Graduation e 
+Course e CourseType, que está mais para uma enumeração.
 
-<img src="img/heatmap.jpeg" align = "center" />
-<p align = "center"> <img alt="" src="images/modelagem/diagramas-estaticos-classes.png"/> </p>
+<p align = "center"> <img alt="Diagrama de Classes" src="images/modelagem/diagramas-estaticos-classes.png"/> </p>
 Figura 1 - Diagrama de classes <br>
 Fonte: Draw.io
 </p>
-
-### Subtópico
-
-Texto do subtópico.
 
 ## Conclusão (se necessário)
 
@@ -38,6 +41,8 @@ Texto da conclusão.
 
 ## Referências
 
-As referências devem estar em formato ABNT:
+<!-- https://referenciabibliografica.net/a/pt-br/ref/abnt -->
 
-Titulo do site. Disponível em <site.com>. Acesso em xx de mês de aaaa
+FAKHROUTDINOV, Kirill. UML Class and Object Diagrams Overview. 6 ago. 2011. 
+Disponível em: https://www.uml-diagrams.org/class-diagrams-overview.html. Acesso 
+em: 6 jul. 2022.
