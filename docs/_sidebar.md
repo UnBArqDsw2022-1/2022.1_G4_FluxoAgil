@@ -69,5 +69,7 @@
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
   - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
   - [Ata - 25/06](AtasDeReunião/Ata_25-06.md)
+  - [Ata - 02/07](AtasDeReunião/Ata_02-06.md)
+  - [Ata - 06/07](AtasDeReunião/Ata_06-07.md)
 
 - [Guia de Contribuição](CONTRIBUTING.md)
