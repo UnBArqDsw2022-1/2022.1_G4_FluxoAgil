@@ -44,6 +44,7 @@
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](Modelagem/2.1.2.UMLDinamicos.md)
+        - [Diagrama de Atividades](Modelagem/UMLDinamicos/diagramaDeAtividade.md)
       - [2.1.3. Modelagem Ágil](Modelagem/2.1.3.Agil.md)
     - [2.2. Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
     - [2.3. Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
