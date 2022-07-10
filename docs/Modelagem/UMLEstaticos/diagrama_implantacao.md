@@ -1,17 +1,17 @@
 # Diagrama de Implantação
 
 ## Histórico de versões
-| Data     | Versão | Descrição            | Autor(a)                                                                                                   | Revisor(a) |
-| -------- | ------ | -------------------- | ---------------------------------------------------------------------------------------------------------- | ---------- |
-| 05/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr), [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | -          |
+| Data     | Versão | Descrição            | Autor(a)                                                                                                   | Revisor(a)                             |
+| -------- | ------ | -------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 05/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr), [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Lucas Braun](https://github.com/lbvx) |
 
 ## Introdução
 
-O que é um diagrama de implantação
+Os diagramas de implementação modelam a arquitetura física de um sistema mostrando os relacionamentos entre os componentes de software e hardware no sistema e a distribuição física do processamento.
 
 ## Metodologia
 
-Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes.
+Após estudo prévio, as integrantes resposáveis pelo artefato modelaram o diagrama seguindo o UML na plataforma Draw.io, mantendo contato através do Discord. Posteriormente a equipe teve a oportunidade de visualizar e validar o diagrama, além de sugerir algumas mudanças e melhoras.
 
 ## Participantes
 
@@ -20,7 +20,11 @@ Explicação de como a equipe usou a técnica/criou o artefato: Em qual platafor
 
 ## Resultados
 
--- diagrama aqui --
+<p align = "center"> <img src="images/diagramas/diagramaImplantacao.png" /> </p>
+<p align = "center"> 
+Figura 1 - Diagrama de Implantação <br>
+Autoras: Amanda Nobre e Ana Carolina</a> 
+</p>
 
 ## Referências
 
