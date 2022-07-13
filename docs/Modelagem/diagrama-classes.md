@@ -1,9 +1,9 @@
-# Título
+# Diagrama de classes
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                                                            | Revisor(a)                                      |
-| ---------- | ------ | -------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 06/06/2022 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra), [Yudi](https://github.com/yudi-azvd) | [Irwin](https://github.com/irwinschmitt) |
+| Data       | Versão | Descrição            | Autor(a)                                                                                                                      | Revisor(a)                               |
+| ---------- | ------ | -------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 06/06/2022 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra), [Yudi](https://github.com/yudi-azvd), [Irwin](https://github.com/irwinschmitt) | [Irwin](https://github.com/irwinschmitt) |
 
 
 ## Introdução
@@ -37,12 +37,14 @@ documento de [requisitos priorizados](../Base/AbordagemNaoEspecifica/priorizacao
 para extrair alguns comportamentos. Foi possível também adiantar a utilização
 de alguns padrões de projeto.
 
-<!-- Explicação de como a equipe usou a técnica/criou o artefato: Em qual plataforma foi a reunião, quanto tempo durou, data da reunião, passos que o grupo seguiu e outras informações que o grupo julgar pertinentes. -->
+A ferramenta utilizada para confeccionar o diagrama foi o Diagrams.net (antigo
+Draw.io).
 
 ## Participantes
 
 - [Thaís Rebouças](https://github.com/Thais-ra)
 - [Yudi Yamane](https://github.com/yudi-azvd)
+- [Irwin Schimitt](https://github.com/irwinschmitt)
 
 ## Resultados
 
