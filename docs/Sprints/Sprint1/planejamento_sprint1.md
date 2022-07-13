@@ -7,6 +7,7 @@ Como a equipe está utilizando a metodologia Scrum, optamos por documentar os pl
 | Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                       |
 | -------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------------ |
 | 05/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
+| 10/07/22 | 1.1    | Adição de issues     | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
 
 ## Tamanho da Sprint
 
@@ -30,7 +31,11 @@ Como a equipe está utilizando a metodologia Scrum, optamos por documentar os pl
 | [#71](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/71) | Diagrama de atividade                                  | [Amanda Nobre](https://github.com/AmandaNbr), [Lucas Braun](https://github.com/lbvx)                        |
 | [#72](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/72) | Diagrama de sequencia                                  | [Irwin Schmitt](https://github.com/irwinschmitt), [Matheus Monteiro](https://github.com/matheusyanmonteiro) |
 | [#73](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/73) | Ata de reunião do dia 29/06                            | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)                                                |
-| [#74](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/74) | Ata de reunião do dia 02/07                            | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)                                                |
+| [#75](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/75) | Ata de reunião do dia 02/07                            | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)                                                |
+| [#77](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/77) | Criar o documento de backlog do produto                | [Irwin Schmitt](https://github.com/irwinschmitt), [Matheus Fonseca](https://github.com/gatotabaco)          |
+| [#78](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/78) | Adicionar o backlog do produto no quadro               | [Irwin Schmitt](https://github.com/irwinschmitt)                                                            |
+| [#85](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/85) | Adicionar Diagrama de Pacotes                          | [Matheus Fonseca](https://github.com/gatotabaco), [Mateus Maia](https://github.com/mateusmaiamaia)          |
+| [#89](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/89) | Ata de reunião - 06/07                                 | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)                                                |
 
 ## Dívidas alocadas
 
