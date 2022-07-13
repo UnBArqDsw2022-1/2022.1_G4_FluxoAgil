@@ -48,13 +48,56 @@ Draw.io).
 
 ## Resultados
 
-As principais entidades que se tornaram classes foram: Curriculum, Graduation e 
-Course e CourseType, que está mais para uma enumeração.
+As principais entidades do domínio que se tornaram classes foram: Curriculum, 
+Graduation e Course e CourseType, que está mais para uma enumeração. O 
+relacionamento entre eles está representado na Figura 1.
 
-<p align = "center"> <img alt="Diagrama de Classes" src="images/modelagem/diagramas-estaticos-classes.png"/> </p>
-Figura 1 - Diagrama de classes <br>
-Fonte: Draw.io
+<p align="center"> <img alt="Diagrama de Classes: entidades" 
+  src="images/modelagem/diagramas-estaticos-classes-1.png"/> </p>
+<p align="center">
+Figura 1 - Diagrama de classes das entidades<br>
+Fonte: Diagrams.net
 </p>
+
+<br/>
+
+Uma disciplina (`Course`) pode ser dos tipos `mandatory`, `optional` ou 
+`módulo livre` (até o momento não encontramos o termo apropriado em inglês).
+
+Uma graduação (`Graduation`) pode ter vários currículos (`Curriculum`),
+cada um com suas datas de início de vigência. Dado um currículo, a graduação
+e suas disciplinas obrigatórias e optativas são definidas e assim é possível 
+calcular a recomendação de um fluxo.
+
+A Figura 2 mostra quais classes são utilizadas desde a requisição HTTP até a
+camada de dados.
+
+<p align="center"> <img alt="Diagrama de Classes: controladoras e casos de uso" 
+  src="images/modelagem/diagramas-estaticos-classes-2.png"/> </p>
+<p align="center">
+Figura 1 - Diagrama de classes: controladoras e casos de uso<br>
+Fonte: Diagrams.net
+</p>
+
+Por exemplo, o frontend faz uma requisição HTTP POST na rota `/flow` com os 
+dados necessários para o cálculo. A controladora `FlowController` intercepta a 
+requisição, extrai os dados entrados pelo usuário e os repassa para um objeto
+da classe `CalculateFlowUseCase`.
+
+Por injeção de dependência, `CalculateFlowUseCase` recebe 1) um algoritmo para
+resolver as disciplinas pré requisitos e 2) um objeto com acesso ao banco de dados
+para consultar currículos.
+
+1) Para maior flexibilidade, a resolução das disciplinas deve estar embrulhada
+em um objeto de classe que implementa `IPreRequisiteSolver`. Atualmente, pretendemos
+utilizar uma biblioteca para resolver isso. Entretanto, pode ser que no futuro a equipe 
+deseje implementar o próprio algoritmo. Essa configuração minimiza os riscos 
+de fazer essa troca.
+
+2) Para calcular a recomendação de fluxo, `CalculateFlowUseCase` precisa de acesso
+aos currículos e para isso é usado o padrão de repositório em 
+`CurriculumRepository`, que é injetado como dependência.
+
 
 ## Referências
 
