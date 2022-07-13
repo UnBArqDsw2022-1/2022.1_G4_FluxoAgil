@@ -1,17 +1,20 @@
 # Introspecção
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
-| ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| 22/06/22   | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Irwin Schmitt](https://github.com/irwinschmitt) |
+| Data     | Versão | Descrição              | Autor(a)                                      | Revisor(a)                                       |
+| -------- | ------ | ---------------------- | --------------------------------------------- | ------------------------------------------------ |
+| 22/06/22 | 1.0    | Criação do documento   | [Thaís Rebouças](https://github.com/Thais-ra) | [Irwin Schmitt](https://github.com/irwinschmitt) |
+| 12/07/22 | 1.1    | Detalhamento do método | [Thaís Rebouças](https://github.com/Thais-ra) |                                                  |
 
 ## Introdução
 
-A introspecção é o método que prevê estimar e imaginar quais funcionalidades o sistema deve ter a partir da perspectiva do usuário. Para a realiazação dessa técnica é necessário se colocar no lugar do usuário final para levantar os requisitos do sistema.
+A introspecção é uma técnica onde analistas de sistema usam sua experiência para determinar o que os usuários precisam.
+Ela é ideal como primeira escolha de elicitação técnica, principalmente quando o cliente não está disponível ou o projeto tem restrições de tempo e custo.
+Um pré-requisito para esta técnica é que os analistas de sistema devem ter conhecimento de domínio e consciência dos processos de negócios.
 
 ## Metodologia
 
-Os participantes se reuniram via discord para discutir os requisitos que a aplicação deveria ter.
+Os participantes se reuniram via discord onde foram listando ideias de quais requisitos que a aplicação deveria ter, sempre os colocando no lugar do usuário final. Depois foi analisado e discutido cada tópico, chegando ao resultado final mostrado logo abaixo.
 
 ## Participantes
 
@@ -51,4 +54,4 @@ Os participantes se reuniram via discord para discutir os requisitos que a aplic
 
 ## Referências
 
-REQUISITOS DE SOFTWARE, 2021.2-AntennaPod. Introspecção. Disponível em: https://requisitos-de-software.github.io/2021.2-AntennaPod/elicitacao/introspeccao/. Acesso em: 22 de junho de 2022.
+AMIN, Tauqeer ul. Economical Requirements Elicitation Techniques During COVID-19: A Systematic Literature Review. Tech science Press, 2021. Disponível em: https://file.techscience.com/uploads/attached/file/20210129/20210129014013_64195.pdf. Acesso em: 12 de julho de 2022.
