@@ -4,6 +4,7 @@
 | Data     | Versão | Descrição            | Autor(a)                                                                                                   | Revisor(a)                             |
 | -------- | ------ | -------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 05/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr), [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Lucas Braun](https://github.com/lbvx) |
+| 13/07/22 | 1.1    | Correção no diagrama | [Amanda Nobre](https://github.com/AmandaNbr)                                                               | [Lucas Braun](https://github.com/lbvx) |
 
 ## Introdução
 
