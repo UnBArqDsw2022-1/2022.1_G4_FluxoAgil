@@ -14,15 +14,15 @@ características e métodos para seu compartamentos) e interfaces. Além disso,
 diagramas de classes também podem apresentar diferentes relacionamentos entre as
 classes.
 
-**Classe:** compoenete básico. É uma caixa com o nome da classe em Pascal Case
-e em negrito. O nome de uma classe geralmente é um substantivos no singular.
+**Classe:** componente básico. É uma caixa com o nome da classe em Pascal Case
+e em negrito. O nome de uma classe geralmente é um substantivo no singular.
 
 **Relacionamento:** ligações (linhas) entre classes. Podem ser dos tipos: dependência
 (mais básico), associação, agregação, composição. Esses tipos de relacionamentos são 
 representados pode diferentes terminações nas linhas (seta, losango fechado/aberto,
 triângulo etc). 
 
-Nas pontas de um relacionamento também podem ser expressada a sua cardinalidade:
+Nas pontas de um relacionamento também podem ser expressadas a sua cardinalidade:
 um pra um, um pra muitos (e vice versa) e muitos pra muitos.
 
 ## Metodologia
