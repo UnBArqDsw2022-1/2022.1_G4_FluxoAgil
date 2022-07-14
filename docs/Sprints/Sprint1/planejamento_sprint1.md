@@ -9,6 +9,7 @@ Como a equipe está utilizando a metodologia Scrum, optamos por documentar os pl
 | 05/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
 | 10/07/22 | 1.1    | Adição de issues     | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
 
+
 ## Tamanho da Sprint
 
 **Início**: 30/06/22
@@ -36,6 +37,7 @@ Como a equipe está utilizando a metodologia Scrum, optamos por documentar os pl
 | [#78](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/78) | Adicionar o backlog do produto no quadro               | [Irwin Schmitt](https://github.com/irwinschmitt)                                                            |
 | [#85](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/85) | Adicionar Diagrama de Pacotes                          | [Matheus Fonseca](https://github.com/gatotabaco), [Mateus Maia](https://github.com/mateusmaiamaia)          |
 | [#89](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/89) | Ata de reunião - 06/07                                 | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)                                                |
+
 
 ## Dívidas alocadas
 
