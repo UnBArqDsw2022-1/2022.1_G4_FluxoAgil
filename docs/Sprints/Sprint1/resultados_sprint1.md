@@ -50,3 +50,4 @@ A partir do Velocity é possível ver a carga de trabalho que a equipe se propô
 ## Avaliação da Scrum Master
 
 Essa sprint não está dentro do ideal esperado pela equipe, porém como já foi dito, a equipe está passando por um processo de adaptação. Outro fator que agrava o atraso nas entregas é a quantidade de artefatos que a equipe alocou para uma sprint só. Talvez após a entrega a equipe converse e decida outro dia de planejmaneto, pois não está sendo produtivo da maneira que está.
+
