@@ -9,6 +9,7 @@ Como a equipe está utilizando a metodologia Scrum, optamos por documentar os pl
 | 05/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
 | 10/07/22 | 1.1    | Adição de issues     | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
 
+
 ## Tamanho da Sprint
 
 **Início**: 30/06/22
