@@ -35,18 +35,28 @@
       - [Escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
       - [BPMN](Base/ProcessosMetodologiasAbordagens/ModelagemBPMN.md)
 
-    - [Iniciativas Extras](Base/IniciativasExtras/iniciativas_extras.md)
+    - [Iniciativas Extras - Base](Base/IniciativasExtras/iniciativas_extras.md)
 
-    - [Participações](Base/ParticipacoesBase/participacoes_base.md)
+    - [Participações - Base](Base/ParticipacoesBase/participacoes_base.md)
 
 - **Modelagem**
-  - [2. Desenho de Software (Modelagem)](Modelagem/2.Modelagem.md)
-    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](Modelagem/2.1.ModelagemTradicional.md)
-      - [2.1.1. Notação UML – Diagramas Estáticos](Modelagem/2.1.1.UMLEstaticos.md)
-      - [2.1.2. Notação UML – Diagramas Dinâmicos](Modelagem/2.1.2.UMLDinamicos.md)
-      - [2.1.3. Modelagem Ágil](Modelagem/2.1.3.Agil.md)
-    - [2.2. Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
-    - [2.3. Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
+  - Módulo Projeto Orientado a Abordagens Tradicionais
+    - Notação UML – Diagramas Estáticos
+      - [Diagrama de Classe](caminho)
+      - [Diagrama de Pacote](caminho)
+      - [Diagrama de Componente](caminho)
+      - [Diagrama de Implantação](caminho)
+    - Notação UML – Diagramas Dinâmicos
+      - [Diagrama de Sequência](caminho)
+      - [Diagrama de Comunicação](caminho)
+      - [Diagrama de Estados](caminho)
+      - [Diagrama de Atividades](caminho)
+    - Modelagem Ágil
+      - [Backlog e Priorização](caminho)
+  - [Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
+    - [NFRFramework](caminho)
+    - [Modelagem de Banco de dados](caminho)
+  - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
