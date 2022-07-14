@@ -1,9 +1,11 @@
 # Modelagem do Banco de Dados
 
 ## Histórico de versões
-| Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a)                                                   |
-| -------- | ------ | -------------------- | --------------------------------------------- | ------------------------------------------------------------ |
-| 13/07/22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+| Data     | Versão | Descrição                      | Autor(a)                                      | Revisor(a)                                                   |
+| -------- | ------ | ------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
+| 13/07/22 | 1.0    | Criação do documento           | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+| 14/07/22 | 1.1    | Adição da introdução e tabelas | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+
 
 ## Introdução
 
@@ -20,9 +22,9 @@ O postgreSQL é um sistema de gerenciamento de banco de dados relacional de obje
 
 Os participantes se reuniram presencialmente e rascunharam um possível fluxo de dados, listaram os atributos e entidades necessárias a princípio para a modelagem do banco. 
 No primeiro nível de abstração foi utilizado o modelo de entidade relacionamento para descrever as entidades, os atributos e como eles se relacionam entre si.
-No segundo nível foi utilizado um diagrama de entidade-relacionamento que é um fluxograma para ilustrar entidades e como eles se relacionam, para finalmente chegar ao nível lógico, aonde foi ilustrado as tabelas que o banco de dados deverá ter.
+No segundo nível foi utilizado um diagrama de entidade-relacionamento que é um fluxograma para ilustrar entidades e como eles se relacionam, para finalmente chegar ao nível lógico, onde foi ilustrado as tabelas que o banco de dados deverá ter.
 <br>
-Para decidir em qual idioma o código do projeto será escrito, foi criada uma votação no nosso meio de comunicação mais rápido, o telegram e ficou decidido que todo o código será escrito em inglês, por esse motivo os atributos, entidades e relacionamentos estão em inglês.
+Para decidir em qual idioma o código do projeto será escrito, foi criada uma votação no nosso meio de comunicação mais rápido, o Telegram, e ficou decidido que todo o código será escrito em inglês, por esse motivo os atributos, entidades e relacionamentos estão em inglês.
 
 
 ## Participantes
@@ -62,7 +64,6 @@ Cardinalidade **1:n**
 
 ### Diagrama Entidade-Relacionamento (DE-R)
 
-Exemplo:
 <img src="images/diagramaConceitual.jpg" align = "center" />
 <p align = "center"> 
 Figura 1 - Diagrama Conceitual <br>
@@ -71,7 +72,6 @@ Autor: Thaís
 
 ### Diagrama Lógico de Dados
 
-Exemplo:
 <img src="images/diagramaLogico.jpg" align = "center" />
 <p align = "center"> 
 Figura 2 - Diagrama Lógico<br>
@@ -421,6 +421,10 @@ Texto da conclusão.
 
 ## Referências
 
-As referências devem estar em formato ABNT:
+o que é um diagrama entidade relacionamento?, Lucidchart. Disponível em: https://www.lucidchart.com/pages/pt/o-que-e-diagrama-entidade-relacionamento. Acesso em: 14 de julho de 2022.
 
-Titulo do site. Disponível em <site.com>. Acesso em xx de mês de aaaa
+O que é a modelagem de banco de dados e quais os seus principais conceitos, Escola superior de redes. Disponível em: https://esr.rnp.br/desenvolvimento-de-sistemas/open-5/. Acesso em: 14 de julho de 2022.
+
+Documentation PostgreSQL 14, PostgreSQL. Disponível em: https://www.postgresql.org/docs/current/intro-whatis.html. Acesso em: 14 de julho de 2022.
+
+MER e DER: Modelagem de bancos de dados, DevMedia. Disponível em: https://www.devmedia.com.br/mer-e-der-modelagem-de-bancos-de-dados/14332. Acesso em: 14 de julho de 2022.
