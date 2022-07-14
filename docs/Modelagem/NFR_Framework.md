@@ -4,17 +4,18 @@
 
 | Data     | Versão | Descrição  | Autor | Revisor |
 | -------- | ------ | ---------- | ----- | ------- |
-| 08/07/22 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | - |
-| 09/07/22 | 1.1    | Inclusão das imagens | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | - |
+| 08/07/22 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Thaís Rebouças](https://github.com/thais-ra) |
+| 09/07/22 | 1.1    | Inclusão das imagens | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Thaís Rebouças](https://github.com/thais-ra) |
+| 13/07/22 | 1.2    | Revisão dos paragráfos | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Thaís Rebouças](https://github.com/thais-ra) |
 
 ##  Introdução 
 O NFR Framework é uma abordagem proposta por Chung na universidade de Toronto para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem requisitos não-funcionais, requisitos funcionais, prioridades e carga de trabalho. 
 
-O framework utiliza as softgoals para representar os requisitos não-funcionais, e também, possui um método de análise qualitativa para decidir os status dos softgoals, dado que outros softgoals relacionados foram ou não satisfeitos.
+O framework utiliza as softgoals, que são características abstratas, a qual se deseja considerar na análise, visando saber se a mesma será cumprida ou não cumprida, ou seja, escolhida ou não escolhida para ser implementada. Para representar os requisitos não-funcionais, e também, possui um método de análise qualitativa para decidir os status dos softgoals, dado que outros softgoals relacionados foram ou não satisfeitos.
 
 
 ## Metodologia 
-Através desse documento definimos as funcionalidades dos requisitos através das possíveis análises, que serão feitas depois da implementação dos diagramas do NFR Framework. Foi utilizada a ferramenta Miro para serem criados os diagramas nfr. 
+Nesse documento definimos as funcionalidades dos requisitos através das possíveis análises, que serão feitas depois da implementação dos diagramas do NFR Framework. Foi utilizada a ferramenta Miro para serem criados os diagramas NFR. 
 
 ## Participantes
 
