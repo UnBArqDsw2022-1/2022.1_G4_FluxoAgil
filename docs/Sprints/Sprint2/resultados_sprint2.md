@@ -41,13 +41,9 @@
 
 ![image](https://user-images.githubusercontent.com/44625056/179085643-3e88c87d-2668-4916-b52f-df0acc71d99d.png)
 
-.
-
 ## Velocity 
 
 ![image](https://user-images.githubusercontent.com/44625056/179085529-7c73ad08-1eef-421f-b8c7-cf7f1e1b624f.png)
-
-Comentário sobre o Velocity.
 
 ## Avaliação da Scrum Master
 
