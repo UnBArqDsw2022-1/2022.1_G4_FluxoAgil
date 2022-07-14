@@ -45,17 +45,21 @@
       - [Diagrama de Classe](caminho)
       - [Diagrama de Pacote](caminho)
       - [Diagrama de Componente](caminho)
-      - [Diagrama de Implantação](caminho)
+      - [Diagrama de Implantação](Modelagem/UMLEstaticos/diagrama_implantacao.md)
+
     - Notação UML – Diagramas Dinâmicos
       - [Diagrama de Sequência](caminho)
       - [Diagrama de Comunicação](caminho)
       - [Diagrama de Estados](caminho)
-      - [Diagrama de Atividades](caminho)
+      - [Diagrama de Atividades](Modelagem/UMLDinamicos/diagramaDeAtividade.md)
+
     - Modelagem Ágil
       - [Backlog e Priorização](caminho)
+
   - [Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
     - [NFRFramework](caminho)
     - [Modelagem de Banco de dados](caminho)
+    
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
@@ -79,5 +83,7 @@
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
   - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
   - [Ata - 25/06](AtasDeReunião/Ata_25-06.md)
+  - [Ata - 02/07](AtasDeReunião/Ata_02-06.md)
+  - [Ata - 06/07](AtasDeReunião/Ata_06-07.md)
 
 - [Guia de Contribuição](CONTRIBUTING.md)
