@@ -4,7 +4,7 @@
 | Data     | Versão | Descrição                      | Autor(a)                                      | Revisor(a)                                                   |
 | -------- | ------ | ------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
 | 13/07/22 | 1.0    | Criação do documento           | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
-| 14/07/22 | 1.1    | Adição da introdução e tabelas | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+| 14/07/22 | 1.1    | Adição da introdução, metodologia, diagramas, tabelas e referências | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
 
 
 ## Introdução
@@ -414,10 +414,6 @@ Autor: Thaís
 </tbody>
 </table>
 <br>
-
-## Conclusão
-
-Texto da conclusão.
 
 ## Referências
 
