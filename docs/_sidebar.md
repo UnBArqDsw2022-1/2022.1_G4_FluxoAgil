@@ -59,7 +59,7 @@
   - [Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
     - [NFRFramework](caminho)
     - [Modelagem de Banco de dados](caminho)
-    
+
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
@@ -76,6 +76,14 @@
     - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
     - [4.4. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+
+- [Sprints](#)
+  - [Sprint 1]
+    - [Planejamento](Sprints/Sprint1/planejamento_sprint1.md)
+    - [Resultados](Sprints/Sprint1/resultados_sprint1.md)
+  - [Sprint 2]
+    - [Planejamento](Sprints/Sprint2/planejamento_sprint2.md)
+    - [Resultados](Sprints/Sprint2/resultados_sprint2.md)
 
 - [Atas de Reunião](#)
   - [Ata - 08/06](AtasDeReunião/Ata_08-06.md)
