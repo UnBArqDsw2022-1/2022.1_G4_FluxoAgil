@@ -4,14 +4,14 @@
 | Data     | Versão | Descrição                      | Autor(a)                                      | Revisor(a)                                                   |
 | -------- | ------ | ------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
 | 13/07/22 | 1.0    | Criação do documento           | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
-| 14/07/22 | 1.1    | Adição da introdução, metodologia, diagramas, tabelas e referências | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+| 14/07/22 | 1.1    | Adição da introdução, metodologia, diagramas, tabelas e referências | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) e [Matheus Monteiro](https://github.com/matheusyanmonteiro)|
 
 
 ## Introdução
 
 Modelagem de banco de dados é o processo de levantamento, análise, categorização e exploração de todos os dados e tipos de informações que irão sustentar uma aplicação. Esta é uma etapa primordial no trabalho do desenvolvimento de sistemas, porque todo software é criado com determinados objetivos, para atender às necessidades dos usuários dentro deste cenário.
 
-Assim, se um sistema for desenvolvido sem que haja uma modelagem de banco de dados bem executada no início do projeto, as chances de ele apresentar falhas ou até mesmo de não suprir os objetivos para os quais foi criado são grandes.
+Assim, se um sistema for desenvolvido sem que haja uma modelagem de banco de dados bem executada no início do projeto, as chances dele apresentar falhas ou até mesmo de não suprir os objetivos para os quais foi criado são grandes.
 
 ## PostgreSQL
 
@@ -67,7 +67,7 @@ Cardinalidade **1:n**
 <img src="images/diagramaConceitual.jpg" align = "center" />
 <p align = "center"> 
 Figura 1 - Diagrama Conceitual <br>
-Autor: Thaís 
+Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a> 
 </p>
 
 ### Diagrama Lógico de Dados
@@ -75,7 +75,7 @@ Autor: Thaís
 <img src="images/diagramaLogico.jpg" align = "center" />
 <p align = "center"> 
 Figura 2 - Diagrama Lógico<br>
-Autor: Thaís 
+Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a> 
 </p>
 
 ### Dicionário de Dados
