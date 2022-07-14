@@ -1,12 +1,11 @@
 # Resultados Sprint 1
 
-Descrição de como foi a sprint.
-
 ## Histórico de versões
 
 | Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                       |
 | -------- | ------ | -------------------- | -------------------------------------------- | ------------------------------------------------ |
 | 10/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
+| 14/07/22 | 1.1    | Adição de gráficos   | [Amanda Nobre](https://github.com/AmandaNbr) | [Matheus Calixto](https://github.com/matheuscvp) |
 
 ## Objetivos
 
@@ -38,16 +37,16 @@ Descrição de como foi a sprint.
 
 ## Burndown
 
-![image](link)
+![image](https://user-images.githubusercontent.com/44625056/179085570-18279150-c085-4b24-9415-1008454ca8db.png)
 
-Comentário sobre o Burndown.
+O Burndown da equipe está longe do ideal, parte disso deriva da fase de adaptação que a equipe está passando após a definição do dia do planejamento, porém, também há o fator de que são bastante artefatos e apenas daus sprints para fazê-los, dessa maneira, várias issues não foram completadas.
 
 ## Velocity 
 
-![image](link)
+![image](https://user-images.githubusercontent.com/44625056/179085529-7c73ad08-1eef-421f-b8c7-cf7f1e1b624f.png)
 
-Comentário sobre o Velocity.
+A partir do Velocity é possível ver a carga de trabalho que a equipe se propôs a pegar, que é bastante pesada, e infelizmente não foram concluídas muitas tarefas.
 
 ## Avaliação da Scrum Master
 
-Avaliação geral do andamento da sprint.
+Essa sprint não está dentro do ideal esperado pela equipe, porém como já foi dito, a equipe está passando por um processo de adaptação. Outro fator que agrava o atraso nas entregas é a quantidade de artefatos que a equipe alocou para uma sprint só. Talvez após a entrega a equipe converse e decida outro dia de planejmaneto, pois não está sendo produtivo da maneira que está.
