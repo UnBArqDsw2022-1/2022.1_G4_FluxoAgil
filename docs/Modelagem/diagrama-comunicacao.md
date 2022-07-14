@@ -8,10 +8,10 @@
 
 ## Introdução
 
-Assim como o [diagrama de classes](), o diagrama de comunicação também utiliza
-Unified Modeling Language como 
-
-para ilustrar a sequência de interações entre as entidades de um módulo.
+Assim como o [diagrama de classes](../Modelagem/diagrama-classes.md), o diagrama
+de comunicação também utiliza Unified Modeling Language, mas para ilustrar a 
+sequência de interações entre objetos de um módulo, como aconteceria em tempo
+de execução.
 
 ## Metodologia
 
@@ -30,6 +30,17 @@ A ferramenta utilizada foi o Diagrams.net.
 Figura 1 - Diagrama de comunicação <br>
 Fonte: Diagrams.net
 </p>
+
+Esse diagrama ilustra apenas uma das requisições que acontece no servidor.
+
+O usuário, através do navegador, envia uma requisição POST para o 
+`fluxo-agil-server`. O Flask REST invoca o método `post` de um objeto 
+`FlowController`, que extrai as informações do corpo da requisição e as
+redireciona para um objeto `CalculateFlowUseCase` pelo método `execute`. O objeto
+`CalculateFlowUseCase` consulta o currículo desejado pelo usuário através do 
+método `getById`. Com o currículo e os dados da requisição em mãos, o método 
+`execute` de `LibPreRequisiteSolver` é chamado para finalmente devolver a 
+recomendação para o usuário.
 
 ## Referências
 
