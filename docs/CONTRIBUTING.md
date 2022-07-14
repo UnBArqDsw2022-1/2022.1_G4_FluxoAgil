@@ -25,7 +25,7 @@ A seguir o modelo de como fazer um relatório de bug.
 - Sistemas operacional, pois cada sistema operacional trabalha de forma diferente algumas politicas de enfileiramento e poder computacional.
 - prioridade e severidade do bug, pois alguns bugs podem ser postergados a resolução, mas se o bug for maior do que o cosmético ou se for no núcleo principal do projeto, descreva e coloque os tipos de severidade (Blocker, Critical, Major, Minor, Trivial, Enhancement).
 
-## Abertura de branchs
+## Abertura de branches
 
 Você pode usar os branches para experimentar com segurança as alterações no seu projeto. Os branches isolam seu trabalho de desenvolvimento de outros branches do repositório. Por exemplo, você poderia usar um branch para desenvolver um novo recurso ou corrigir um erro. 
 

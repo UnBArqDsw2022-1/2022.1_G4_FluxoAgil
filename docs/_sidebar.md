@@ -48,7 +48,7 @@
       - [Diagrama de Implantação](Modelagem/UMLEstaticos/diagrama_implantacao.md)
 
     - Notação UML – Diagramas Dinâmicos
-      - [Diagrama de Sequência](caminho)
+      - [Diagrama de Sequencia](Modelagem/UMLDinamicos/diagramaDeSequencia.md.md)
       - [Diagrama de Comunicação](caminho)
       - [Diagrama de Estados](caminho)
       - [Diagrama de Atividades](Modelagem/UMLDinamicos/diagramaDeAtividade.md)
