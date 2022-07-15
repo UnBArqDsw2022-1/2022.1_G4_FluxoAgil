@@ -30,8 +30,8 @@ Autores: Mateus Maia e Matheus Fonseca
 ## Referências
 
 
-> [1] Tudo sobre diagramas de pacotes UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-pacotes-uml>. Acesso em: 13 de julho de 2022.
+Tudo sobre diagramas de pacotes UML. Disponível em: <https://www.lucidchart.com/pages/pt/diagrama-de-pacotes-uml>. Acesso em: 13 de julho de 2022.
 
-> [2] LARMAN, Craig. Utilizando UML e padrões. Bookman Editora, 2000. Disponível em: <https://integrada.minhabiblioteca.com.br/books/9788577800476>. Acesso em 13 de julho de 2022.
+LARMAN, Craig. Utilizando UML e padrões. Bookman Editora, 2000. Disponível em: <https://integrada.minhabiblioteca.com.br/books/9788577800476>. Acesso em 13 de julho de 2022.
 
 
