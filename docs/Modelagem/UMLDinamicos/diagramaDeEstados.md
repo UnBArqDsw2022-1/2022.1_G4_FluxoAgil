@@ -12,7 +12,7 @@ Um diagrama de estado é um diagrama que exibe discretamente o comportamento esp
 
 ## Metodologia
 
-Os respoáveis pelo diagrama se reuniram, após uma sessão de estudos individuais, para realizar a criação do diagrama. A reunião aconteceu de maneira remota, utilizando do lucidchart para a criação do diagrama e o discord para a comunicação e para transmissão da tela. Com o diagrama feito, foi realizado de maneira assíncrona, uma avaliação dos outros membros da equipe sobre o que foi criado, que sugeriu algumas modificações dos diagramas para ficar mais condizente com o que esperado na disciplina.
+Os resposáveis pelo diagrama se reuniram, após uma sessão de estudos individuais, para realizar a criação do diagrama. A reunião aconteceu de maneira remota, utilizando do lucidchart para a criação do diagrama e o discord para a comunicação e para transmissão da tela. Com o diagrama feito, foi realizado de maneira assíncrona, uma avaliação dos outros membros da equipe sobre o que foi criado, que sugeriu algumas modificações dos diagramas para ficar mais condizente com o que esperado na disciplina.
 
 
 ## Participantes
