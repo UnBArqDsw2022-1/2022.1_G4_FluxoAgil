@@ -49,8 +49,8 @@
   - Módulo Projeto Orientado a Abordagens Tradicionais
 
     - Notação UML – Diagramas Estáticos
-
-      - [Diagrama de Classe](caminho)
+    
+      - [Diagramas de Classes](Modelagem/diagrama-classes.md)
       - [Diagrama de Pacote](Modelagem/UMLEstaticos/diagrama_pacotes.md)
       - [Diagrama de Componente](caminho)
       - [Diagrama de Implantação](Modelagem/UMLEstaticos/diagrama_implantacao.md)
