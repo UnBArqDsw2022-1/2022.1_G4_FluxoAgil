@@ -1,9 +1,10 @@
 # Diagrama de classes
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                                                                                                                      | Revisor(a)                               |
-| ---------- | ------ | -------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 06/06/2022 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra), [Yudi](https://github.com/yudi-azvd), [Irwin](https://github.com/irwinschmitt) | [Irwin](https://github.com/irwinschmitt) |
+| Data       | Versão | Descrição                        | Autor(a)                                                                                                                      | Revisor(a)                                   |
+| ---------- | ------ | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 06/06/2022 | 1.0    | Criação do documento             | [Thaís Rebouças](https://github.com/Thais-ra), [Yudi](https://github.com/yudi-azvd), [Irwin](https://github.com/irwinschmitt) | [Irwin](https://github.com/irwinschmitt)     |
+| 15/06/2022 | 1.1    | Especificação de relacionamentos | [Yudi Yamane](https://github.com/yudi-azvd)                                                                                   | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 
 ## Introdução
@@ -97,7 +98,6 @@ de fazer essa troca.
 2) Para calcular a recomendação de fluxo, `CalculateFlowUseCase` precisa de acesso
 aos currículos e para isso é usado o padrão de repositório em 
 `CurriculumRepository`, que é injetado como dependência.
-
 
 ## Referências
 
