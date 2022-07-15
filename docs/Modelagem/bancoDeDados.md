@@ -64,7 +64,7 @@ Cardinalidade **1:n**
 
 ### Diagrama Entidade-Relacionamento (DE-R)
 
-<img src="images/Modelagem/diagramaConceitual.jpg" align = "center" />
+<img src="images/diagramas/diagramaConceitual.jpg" align = "center" />
 <p align = "center"> 
 Figura 1 - Diagrama Conceitual <br>
 Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a> 
@@ -72,7 +72,7 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
 
 ### Diagrama Lógico de Dados
 
-<img src="images/Modelagem/diagramaLogico.jpg" align = "center" />
+<img src="images/diagramas/diagramaLogico.jpg" align = "center" />
 <p align = "center"> 
 Figura 2 - Diagrama Lógico<br>
 Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a> 
