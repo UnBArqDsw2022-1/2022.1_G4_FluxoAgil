@@ -65,15 +65,27 @@ Fonte: <a href="https://unbarqdsw2022-1.github.io/2022.1_G4_FluxoAgil/#/Base/Abo
 
 <img src="images/1a-entrega/print-priorizacao.png" align="center" />
 <p align = "center"> 
-Figura 2 - Requisitos depois da priorização MoSCoW <br>
+Figura 3 - Requisitos depois da priorização MoSCoW <br>
 Fonte: <a href="http://localhost:3000/#/Base/AbordagemNaoEspecifica/priorizacao/moscow?id=resultados">Site da documentação</a>
 </p>
 
 
+## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
+
+<img src="images/2a-entrega/diag-classes.png" align="center" />
+<p align = "center"> 
+Figura 4 - Diagrama de classes <br>
+Fonte: <a href="https://unbarqdsw2022-1.github.io/2022.1_G4_FluxoAgil/#/Modelagem/diagrama-classes?id=resultados">Site da documentação</a>
+</p>
+
+<img src="images/2a-entrega/diag-atividades.png" align="center" />
+<p align = "center"> 
+Figura 4 - Diagrama de atividades <br>
+Fonte: <a href="https://unbarqdsw2022-1.github.io/2022.1_G4_FluxoAgil/#/Modelagem/UMLDinamicos/diagramaDeAtividade">Site da documentação</a>
+</p>
+
 
 <!--- 
-## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
