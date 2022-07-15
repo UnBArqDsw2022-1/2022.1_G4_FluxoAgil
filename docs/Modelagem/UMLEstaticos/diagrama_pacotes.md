@@ -3,7 +3,7 @@
 ## Histórico de versões
 | Data     | Versão | Descrição            | Autor(a)                                                                                                   | Revisor(a)                             |
 | -------- | ------ | -------------------- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| 13/07/22 | 1.0    | Criação do documento | [Mateus Maia](https://github.com/mateusmaiamaia), [Matheus Fonseca](https://github.com/gatotabaco) | [Matheus Monteiro](https://github.com/matheusyanmonteiro) |
+| 13/07/22 | 1.0    | Criação do documento | [Mateus Maia](https://github.com/mateusmaiamaia), [Matheus Fonseca](https://github.com/gatotabaco) | [Thais Rebouças](https://github.com/Thais-ra) e [Yudi Amane](https://github.com/yudi-azvd) |
 
 
 ## Introdução
@@ -12,7 +12,7 @@ Diagramas de pacote são diagramas organizadores simplificados, frequentemente u
 
 ## Metodologia
 
-Inicialmente os participantes realizaram um estudo prévio acerca do conteúdo, depois foi realizada uma reunião no discord para poder criar o diagrama. Os integrantes decidiram utilizar o lucidchart para fazer o artefato e foi utilizada a ferramenta do compartilhamento de tela do discord para mostrar o que estava sendo feito. Com o documento criado, o diagrama foi mostrado no telegram para que os outros membros da equipe pudessem realizar a validação, de maneira assíncorna, e o time concordou com o que foi criado.
+Inicialmente os participantes realizaram um estudo prévio acerca do conteúdo, depois foi realizada uma reunião no discord para poder criar o diagrama. Os integrantes decidiram utilizar o lucidchart para fazer o artefato e foi utilizada a ferramenta do compartilhamento de tela do discord para mostrar o que estava sendo feito. Com o documento criado, o diagrama foi mostrado no Telegram para que os outros membros da equipe pudessem realizar a validação, de maneira assíncrona, e o time concordou com o que foi criado.
 
 ## Participantes
 
