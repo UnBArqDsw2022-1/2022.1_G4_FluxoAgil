@@ -56,7 +56,7 @@ Figura 2 - XP <br>
 Fonte: Jose Cuéllar
 </p>
 
-As práticas exercidas pela XP que a equipe busca utilizar são: Pareamento, onde dois desenvolvedores trabalham em uma mesma máquina, nesse formato de programação ambos estão constantemente se comunicando e trocando ideias, os Testes onde todo código escrito deve passar por testes para, se houver, o erro ser resolvido rapidamente, garantindo a qualidade de acordo com os requisitos para entrar no código principal do projeto e, por fim, a Refatoração com o objetivo de sempre deixar o código mais simples, mantendo sempre as funcionalidades já desenvolvidas.
+As práticas exercidas pela XP que a equipe busca utilizar são: Pareamento, onde dois desenvolvedores trabalham em uma mesma máquina, nesse formato de programação ambos estão constantemente se comunicando e trocando ideias, e a Refatoração com o objetivo de sempre deixar o código mais simples, mantendo sempre as funcionalidades já desenvolvidas.
 
 ### Quadro Kanban
 
