@@ -4,6 +4,8 @@
 | Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a)                                       |
 | -------- | ------ | -------------------- | --------------------------------------------- | ------------------------------------------------ |
 | 19.06.22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Matheus Fonseca](https://github.com/gatotabaco) |
+| 14.07.22 | 1.1    | Alteração nas nomenclaturas para feat, fix e docs | [Thaís Rebouças](https://github.com/Thais-ra) | [Matheus Fonseca](https://github.com/gatotabaco) |
+
 
 ## Introdução
 
@@ -26,35 +28,35 @@ A branch dev contém a versão mais atualizada do código que está sendo desenv
         Essa branch está sempre sincronizada com a branch main.
 
 ## Branches de Desenvolvimento
-### Feature
-As branches feature representam as funcionalidades do sistema a serem desenvolvidas, elas devem ter a branch dev como sua origem e fim.
+### Feat
+As branches feat(feature) representam as funcionalidades do sistema a serem desenvolvidas, elas devem ter a branch dev como sua origem e fim.
 
     Regras:
         Essa branch sempre é criada a partir da branch dev.
         Essa branch sempre é mesclada à branch dev.
 
     Regras de nomenclatura:
-        issueID-feature/titulo-da-issue
+        issueID-feat/titulo-da-issue
 
-### Hotfix
-A branch hotfix é utilizada para implementar soluções para problemas urgentes encontrados no ambiente de produção. Isso significa que essa branch deve ter a branch main como sua origem e fim.
+### Fix
+A branch fix(hotfix) é utilizada para implementar soluções para problemas urgentes encontrados no ambiente de produção. Isso significa que essa branch deve ter a branch main como sua origem e fim.
 
     Regras:
         Essa branch sempre é criada a partir da branch main.
         Essa branch sempre é mesclada à branch main e a dev.
 
     Regras de nomenclatura:
-        issueID-hotfix/titulo-da-issue
+        issueID-fix/titulo-da-issue
 
-## Documentation
-A branch documentation é utilizada para atualizações na documentação de todo o projeto. Essa branch deve ter a branch main como sua origem e fim.
+## Docs
+A branch docs(documentation) é utilizada para atualizações na documentação de todo o projeto. Essa branch deve ter a branch main como sua origem e fim.
 
     Regras:
         Essa branch sempre é criada a partir da branch main.
         Essa branch sempre é mesclada à branch main.
 
     Regras de nomenclatura:
-        issueID-documentation/titulo-da-issue
+        issueID-docs/titulo-da-issue
 
 
 ## Referências
