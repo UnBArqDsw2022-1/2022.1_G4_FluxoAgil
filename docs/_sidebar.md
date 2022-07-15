@@ -50,7 +50,7 @@
     - Notação UML – Diagramas Dinâmicos
       - [Diagrama de Sequência](Modelagem/UMLDinamicos/diagramaDeSequencia.md.md)
       - [Diagrama de Comunicação](Modelagem/diagrama-comunicacao.md)
-      - [Diagrama de Estados](caminho)
+      - [Diagrama de Estados](Modelagem/UMLDinamicos/diagramaDeEstados.md)
       - [Diagrama de Atividades](Modelagem/UMLDinamicos/diagramaDeAtividade.md)
 
     - Modelagem Ágil
