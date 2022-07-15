@@ -30,7 +30,7 @@ um pra um, um pra muitos (e vice versa) e muitos pra muitos.
 As dicussões para elaborar o diagrama de classes foram realizadas presencialmente
 e por Telegram.
 
-Para começar o diagrama, os participantes analizaram o documento de 
+Para começar o diagrama, os participantes analisaram o documento de 
 [léxico](../Base/AbordagemNaoEspecifica/lexico.md) para extrair as principais
 entidades, seus atributos e relacionamentos. Também foi analisado, brevemente, o 
 documento de [requisitos priorizados](../Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
