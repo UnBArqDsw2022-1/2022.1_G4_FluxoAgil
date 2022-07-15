@@ -21,7 +21,7 @@ Inicialmente os participantes realizaram um estudo prévio acerca do conteúdo, 
 
 ## Resultados
 
-<p align = "center"> <img src="images/diagramas/diagramaDePacotes.jpeg"/> </p>
+<p align = "center"> <img src="images/diagramaDePacotes.jpeg"/> </p>
 <p align = "center"> 
 Figura 1 - Diagrama de Pacotes <br>
 Autores: Mateus Maia e Matheus Fonseca
