@@ -1,9 +1,9 @@
 # Diagrama de Atividade
 
 ## Histórico de versões
-| Data     | Versão | Descrição            | Autor(a)                                                                             | Revisor(a)                                       |
-| -------- | ------ | -------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| 14/07/22 |  1.0   | Criação do documento | [Mateus Maia](https://github.com/mateusmaiamaia), [Matheus Pinheiro](https://github.com/matheuscvp) |  |
+| Data     | Versão | Descrição            | Autor(a)                                                                                            | Revisor(a)                                  |
+| -------- | ------ | -------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 14/07/22 | 1.0    | Criação do documento | [Mateus Maia](https://github.com/mateusmaiamaia), [Matheus Pinheiro](https://github.com/matheuscvp) | [Yudi Yamane](https://github.com/yudi-azvd) |
 
 ## Introdução
 
