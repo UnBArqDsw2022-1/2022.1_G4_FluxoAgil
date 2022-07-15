@@ -12,8 +12,7 @@ Diagramas de pacote são diagramas organizadores simplificados, frequentemente u
 
 ## Metodologia
 
-Foi realizado um estudo prévio, entre os integrantes responsáveis, foi realizado uma reunião no discord para poder realizar a criação do diagrama. Os integrantes descidiram utilizar o lucidchart para realizar essa confecção e foi utilizado a ferramenta do compartilhamento de tela do discord, para mostrar o que estava sendo feito. Com o docuemnto criado, o diagrama foi mostrado no telegram para que os outros membros da equipe pudessem realizar a validação, de maneira assíncorna, e o time concordou com o que foi criado.
-
+Inicialmente os participantes realizaram um estudo prévio acerca do conteúdo, depois foi realizada uma reunião no discord para poder criar o diagrama. Os integrantes decidiram utilizar o lucidchart para fazer o artefato e foi utilizada a ferramenta do compartilhamento de tela do discord para mostrar o que estava sendo feito. Com o documento criado, o diagrama foi mostrado no telegram para que os outros membros da equipe pudessem realizar a validação, de maneira assíncorna, e o time concordou com o que foi criado.
 
 ## Participantes
 
