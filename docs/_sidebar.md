@@ -52,7 +52,7 @@
     
       - [Diagramas de Classes](Modelagem/diagrama-classes.md)
       - [Diagrama de Pacote](Modelagem/UMLEstaticos/diagrama_pacotes.md)
-      - [Diagrama de Componente](caminho)
+      - [Diagrama de Componente](Modelagem/UMLEstaticos/diagrama_componentes.md)
       - [Diagrama de Implantação](Modelagem/UMLEstaticos/diagrama_implantacao.md)
 
     - Notação UML – Diagramas Dinâmicos
