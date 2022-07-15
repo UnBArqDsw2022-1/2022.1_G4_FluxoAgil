@@ -5,64 +5,75 @@
 <!-- - [Diretrizes](Diretrizes/Diretrizes.md) -->
 
 - **Base**
-    - Módulo Projeto Não Orientado a Abordagens Específicas
-      - [Design Sprint](Base/AbordagemNaoEspecifica/design_sprint.md)
-      - [Heatmap](Base/AbordagemNaoEspecifica/heatmap.md)
-      - [5W2H](Base/AbordagemNaoEspecifica/5w2h.md)
-      - [Mapa Mental](Base/AbordagemNaoEspecifica/mapa_mental.md)
-      - [Diagrama de Causa e Efeito](Base/AbordagemNaoEspecifica/causaEfeito.md)
-      - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md)
-      - [Plano de Riscos](Base/AbordagemNaoEspecifica/riscos.md)
-      - [Estimativa de Esforço e Tempo](Base/AbordagemNaoEspecifica/estimativa.md)
-      - [Léxicos](Base/AbordagemNaoEspecifica/lexico.md)
 
-      - [Elicitação](#)
-        - [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md)
-        - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
-        - [Instrospecção](Base/AbordagemNaoEspecifica/elicitacao/introspeccao.md)
-        - [Personas](Base/AbordagemNaoEspecifica/elicitacao/personas.md)
-        - [StoryBoard](Base/AbordagemNaoEspecifica/elicitacao/storyboards.md)
-      
-      - [Priorização](#)
-        - [MoSCoW](Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
+  - Módulo Projeto Não Orientado a Abordagens Específicas
 
-      - [Padrões de projeto](#)
-        - [Guia de Estilo](Base/AbordagemNaoEspecifica/guiaDeEstilo.md)
-        - [Protótipo de média fidelidade](Base/AbordagemNaoEspecifica/prototipo-media-fidelidade.md)
-        - [Protótipo de alta fidelidade](Base/AbordagemNaoEspecifica/prototipo-alta-fidelidade.md)
+    - [Design Sprint](Base/AbordagemNaoEspecifica/design_sprint.md)
+    - [Heatmap](Base/AbordagemNaoEspecifica/heatmap.md)
+    - [5W2H](Base/AbordagemNaoEspecifica/5w2h.md)
+    - [Mapa Mental](Base/AbordagemNaoEspecifica/mapa_mental.md)
+    - [Diagrama de Causa e Efeito](Base/AbordagemNaoEspecifica/causaEfeito.md)
+    - [Rich Picture](Base/AbordagemNaoEspecifica/rich_picture.md)
+    - [Plano de Riscos](Base/AbordagemNaoEspecifica/riscos.md)
+    - [Estimativa de Esforço e Tempo](Base/AbordagemNaoEspecifica/estimativa.md)
+    - [Léxicos](Base/AbordagemNaoEspecifica/lexico.md)
 
-    - Módulo Processos, Metodologias e Abordagens
-      - [Escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
-      - [BPMN](Base/ProcessosMetodologiasAbordagens/ModelagemBPMN.md)
+    - [Elicitação](#)
 
-    - [Iniciativas Extras - Base](Base/IniciativasExtras/iniciativas_extras.md)
+      - [Brainstorming](Base/AbordagemNaoEspecifica/elicitacao/brainstorming.md)
+      - [Entrevista](Base/AbordagemNaoEspecifica/elicitacao/entrevista.md)
+      - [Instrospecção](Base/AbordagemNaoEspecifica/elicitacao/introspeccao.md)
+      - [Personas](Base/AbordagemNaoEspecifica/elicitacao/personas.md)
+      - [StoryBoard](Base/AbordagemNaoEspecifica/elicitacao/storyboards.md)
 
-    - [Participações - Base](Base/ParticipacoesBase/participacoes_base.md)
+    - [Priorização](#)
+
+      - [MoSCoW](Base/AbordagemNaoEspecifica/priorizacao/moscow.md)
+
+    - [Padrões de projeto](#)
+      - [Guia de Estilo](Base/AbordagemNaoEspecifica/guiaDeEstilo.md)
+      - [Protótipo de média fidelidade](Base/AbordagemNaoEspecifica/prototipo-media-fidelidade.md)
+      - [Protótipo de alta fidelidade](Base/AbordagemNaoEspecifica/prototipo-alta-fidelidade.md)
+
+  - Módulo Processos, Metodologias e Abordagens
+
+    - [Escolhas metodológicas](Base/ProcessosMetodologiasAbordagens/escolhas_metodologicas.md)
+    - [BPMN](Base/ProcessosMetodologiasAbordagens/ModelagemBPMN.md)
+
+  - [Iniciativas Extras - Base](Base/IniciativasExtras/iniciativas_extras.md)
+
+  - [Participações - Base](Base/ParticipacoesBase/participacoes_base.md)
 
 - **Modelagem**
+
   - Módulo Projeto Orientado a Abordagens Tradicionais
+
     - Notação UML – Diagramas Estáticos
-      - [Diagrama de Classe](caminho)
-      - [Diagrama de Pacote](caminho)
+    
+      - [Diagramas de Classes](Modelagem/diagrama-classes.md)
+      - [Diagrama de Pacote](Modelagem/UMLEstaticos/diagrama_pacotes.md)
       - [Diagrama de Componente](Modelagem/UMLEstaticos/diagrama_componentes.md)
       - [Diagrama de Implantação](Modelagem/UMLEstaticos/diagrama_implantacao.md)
 
     - Notação UML – Diagramas Dinâmicos
-      - [Diagrama de Sequencia](Modelagem/UMLDinamicos/diagramaDeSequencia.md.md)
-      - [Diagrama de Comunicação](caminho)
-      - [Diagrama de Estados](caminho)
+
+      - [Diagrama de Sequência](Modelagem/UMLDinamicos/diagramaDeSequencia.md.md)
+      - [Diagrama de Comunicação](Modelagem/diagrama-comunicacao.md)
+      - [Diagrama de Estados](Modelagem/UMLDinamicos/diagramaDeEstados.md)
       - [Diagrama de Atividades](Modelagem/UMLDinamicos/diagramaDeAtividade.md)
 
     - Modelagem Ágil
-      - [Backlog e Priorização](caminho)
+      - [Backlog e Priorização](Modelagem/backlog.md)
 
   - [Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
+
     - [NFRFramework](Modelagem/NFR_Framework.md)
-    - [Modelagem de Banco de dados](caminho)
+    - [Modelagem de Banco de dados](Modelagem/bancoDeDados.md)
 
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
+
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
     - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
@@ -71,6 +82,7 @@
     - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
+
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
@@ -78,6 +90,7 @@
     - [4.4. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
 
 - [Sprints](#)
+
   - Sprint 1
     - [Planejamento](Sprints/Sprint1/planejamento_sprint1.md)
     - [Resultados](Sprints/Sprint1/resultados_sprint1.md)
@@ -86,6 +99,7 @@
     - [Resultados](Sprints/Sprint2/resultados_sprint2.md)
 
 - [Atas de Reunião](#)
+
   - [Ata - 08/06](AtasDeReunião/Ata_08-06.md)
   - [Ata - 16/06](AtasDeReunião/Ata_16-06.md)
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
