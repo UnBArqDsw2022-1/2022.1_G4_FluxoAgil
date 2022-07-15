@@ -44,7 +44,7 @@
     - Notação UML – Diagramas Estáticos
       - [Diagrama de Classe](caminho)
       - [Diagrama de Pacote](caminho)
-      - [Diagrama de Componente](caminho)
+      - [Diagrama de Componente](Modelagem/UMLEstaticos/diagrama_componentes.md)
       - [Diagrama de Implantação](Modelagem/UMLEstaticos/diagrama_implantacao.md)
 
     - Notação UML – Diagramas Dinâmicos
