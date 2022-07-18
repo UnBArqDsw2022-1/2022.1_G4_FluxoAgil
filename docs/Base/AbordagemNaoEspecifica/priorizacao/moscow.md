@@ -2,10 +2,10 @@
 
 ## Histórico de versões
 
-| Data     | Versão | Descrição            | Autor(a)                                      | Revisor(a)                                       |
-| -------- | ------ | -------------------- | --------------------------------------------- | ------------------------------------------------ |
-| 26/06/22 | 1.0    | Criação do documento | [Thaís Rebouças](https://github.com/Thais-ra) | [Matheus Calixto](https://github.com/matheuscvp) |
-
+| Data     | Versão | Descrição               | Autor(a)                                         | Revisor(a)                                       |
+| -------- | ------ | ----------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| 26/06/22 | 1.0    | Criação do documento    | [Thaís Rebouças](https://github.com/Thais-ra)    | [Matheus Calixto](https://github.com/matheuscvp) |
+| 18/07/22 | 2.0    | Correção dos requisitos | [Irwin Schmitt](https://github.com/irwinschmitt) | [Nome](https://github.com/)                      |
 
 ## Introdução
 
@@ -16,16 +16,13 @@ O MoSCoW é uma técnica de priorização onde cada requisito é classificado en
 - Should: Algo que deveria fazer mas não necessariamente agora;
 - Could: Algo que poderia ser feito;
 - Won't: Algo que não deve ser feito por enquanto.
-  
 
 ## Metodologia
 
 Foi criado uma tabela no planilhas google onde cada membro indicou sua opinião entre as classificações MoSCoW. Para facilitar a classificação substituímos must por 1, should por 2, could por 3 e won't por 4, a partir disso foi feito uma média para definir a classificação final.
-  
 
 ## Participantes
 
-  
 - [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)
 - [Amanda Nobre](https://github.com/AmandaNbr)
 - [Irwin Schmitt](https://github.com/irwinschmitt)
@@ -36,12 +33,10 @@ Foi criado uma tabela no planilhas google onde cada membro indicou sua opinião 
 - [Thais Rebouças](https://github.com/Thais-ra)
 - [Yudi Yamane](https://github.com/yudi-azvd)
 
-  
-
 ## Resultados
 
 ### Requisitos Funcionais
-  
+
 | Id   | Requisito                                                                                                                      | Prioridade |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------ | ---------- |
 | RF01 | O usuário deve poder enviar o histórico para informar ao sistema quais disciplinas que já cursou                               | Must       |
@@ -56,7 +51,6 @@ Foi criado uma tabela no planilhas google onde cada membro indicou sua opinião 
 | RF10 | O sistema deve informar quantas horas pendentes de optativas faltam para formação                                              | Must       |
 | RF11 | O sistema deve mostrar quantas disciplinas obrigatórias faltam para formação                                                   | Must       |
 | RF12 | O sistema deve recomendar optativas segundo o curso do usuário                                                                 | Would      |
-| RF13 | O sistema deve mostrar a quantidade de horas já escolhidas                                                                     | Would      |
 | RF14 | O sistema deve mostrar a porcentagem que falta para a formação                                                                 | Would      |
 | RF15 | O sistema deve informar qual é a quantidade mínima de semestres para se formar                                                 | Must       |
 | RF16 | O usuário deve poder escolher o semestre em que cursar determinada disciplina                                                  | Could      |
@@ -71,18 +65,13 @@ Foi criado uma tabela no planilhas google onde cada membro indicou sua opinião 
 | RF25 | O sistema deve diferenciar as disciplinas obrigatórias e optativas por cor                                                     | Would      |
 | RF26 | O sistema deve apresentar o fluxo original de cada semestre                                                                    | Won't      |
 | RF27 | O usuário deve poder visualizar a descrição da disciplina                                                                      | Could      |
-| RF28 | O sistema deve obter informações de currículo                                                                                  | Must       |
-| RF29 | O sistema deve obter informações de disciplina                                                                                 | Must       |
 | RF30 | O sistema deve mostrar o horários das turmas disciplinas                                                                       | Could      |
 | RF31 | O sistema deve recomendar um fluxo onde os horários das disciplinas não geram conflitos                                        | Won't      |
 | RF32 | O sistema deve informar a metodologia do professor da disciplina                                                               | Won't      |
 | RF33 | O sistema deve mostrar os professores que ministram cada disciplina                                                            | Won't      |
-| RF34 | O sistema deve mostrar a qualidade do professor segundo os estudantes                                                          | Won't      |
 | RF35 | O usuario deve poder consultar um fórum com recomendações de outros alunos                                                     | Won't      |
 | RF36 | O sistema deve converter horas em créditos                                                                                     | Would      |
-| RF37 | O usuário deve poder escolher várias turmas da mesma disciplina                                                                | Won't      |
 | RF38 | O usuário deve poder escolher entre tema claro e escuro                                                                        | Could      |
-
 
 ### Requisitos Não Funcionais
 
@@ -100,8 +89,8 @@ Foi criado uma tabela no planilhas google onde cada membro indicou sua opinião 
 | RNF10 | O sistema deve recomendar um fluxo de acordo com os pré-requisitos de porcentagem de curso              | Must       |
 | RNF11 | O sistema deve ter navegabilidade fácil                                                                 | Must       |
 | RNF12 | O sistema deve tratar pdf de histórico inválidos                                                        | Would      |
-
-
+| RNF13 | O sistema deve **obter** informações de currículo                                                       | Must       |
+| RNF14 | O sistema deve obter informações de disciplina                                                          | Must       |
 
 ## Referências
 
