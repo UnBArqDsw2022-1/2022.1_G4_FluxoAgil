@@ -5,7 +5,7 @@
 | Data     | Versão | Descrição            | Autor(a)                                                                                                       | Revisor(a)                                   |
 | -------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 22/06/22 | 1.0    | Criação do Documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
-| 18/07/22 | 1.1    | Inserção da imagem corrigida do diagrama, Inserção dos novos diagramas | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | - |
+| 18/07/22 | 1.1    | Inserção da imagem corrigida do diagrama, Inserção dos novos diagramas | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 
 ## Introdução
