@@ -5,6 +5,7 @@
 | Data     | Versão | Descrição            | Autor(a)                                                                                                       | Revisor(a)                                   |
 | -------- | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 22/06/22 | 1.0    | Criação do Documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
+| 18/07/22 | 1.1    | Inserção da imagem corrigida do diagrama, Inserção dos novos diagramas | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia) | [Amanda Nobre](https://github.com/AmandaNbr) |
 
 
 ## Introdução
@@ -56,6 +57,31 @@ Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus M
 [BPMN - Sprint.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/8962808/BPMN.-.Sprint.pdf)
 
 Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
+
+### Projeto
+![BPMN-BPMN-projeto-geral drawio (1)](https://user-images.githubusercontent.com/49570180/179637380-ff67a4eb-91d9-4a4b-8469-9425b5a7fa43.png)
+
+[BPMN-projeto.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/9136402/BPMN-projeto.pdf)
+
+Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
+
+### Subprocesso do projeto
+
+![BPMN-BPMN-subprocesso drawio](https://user-images.githubusercontent.com/49570180/179637061-08f59f89-193b-428f-aed5-22cab8771018.png)
+
+[BPMN-subprocesso.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/9136407/BPMN-subprocesso.pdf)
+
+Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
+
+### Versão 2 - BPMN / Sprint
+
+![BPMN - Sprint - BPMN - Sprint](https://user-images.githubusercontent.com/49570180/179636870-94f6e53a-29be-4277-b82d-240761d184e1.png)
+
+[BPMN - Sprint - BPMN - Sprint.pdf](https://github.com/UnBArqDsw2021-1/2021.1_G5_ProjetoDonner/files/9136366/BPMN.-.Sprint.-.BPMN.-.Sprint.pdf)
+
+Autores: [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Mateus Maia](https://github.com/mateusmaiamaia)
+
+
 
 ## Referências
 
