@@ -6,7 +6,8 @@
 | -------- | ------ | ---------- | ----- | ------- |
 | 08/07/22 | 1.0    | Criação do documento | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Thaís Rebouças](https://github.com/thais-ra) |
 | 09/07/22 | 1.1    | Inclusão das imagens | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Thaís Rebouças](https://github.com/thais-ra) |
-| 13/07/22 | 1.2    | Revisão dos paragráfos | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Thaís Rebouças](https://github.com/thais-ra) |
+| 13/07/22 | 1.2    | Revisão dos parágrafos | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Thaís Rebouças](https://github.com/thais-ra) |
+| 23/07/22 | 1.3    | Correção dos diagramas | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |  [Matheus Fonseca](https://github.com/gatotabaco) |
 
 ##  Introdução 
 O NFR Framework é uma abordagem proposta por Chung na universidade de Toronto para representar e analisar Requisitos Não-Funcionais. Seu objetivo é ajudar desenvolvedores na implementação de soluções personalizadas, levando em consideração as características do domínio e do sistema em questão. Tais características incluem requisitos não-funcionais, requisitos funcionais, prioridades e carga de trabalho. 
@@ -95,18 +96,44 @@ Abaixo estão listados os requisitos não-funcionais levantados pelas das técni
   <figcaption> Imagem 4: Diagrama NFR Framework de confiabilidade </figcaption>
 
 
+### Versão 2
+![Brainstorm](https://user-images.githubusercontent.com/49570180/180622938-a0e48e45-2a96-48a7-bdac-8a30ed1fa91f.jpg)
+
+<figcaption> Imagem 5: Diagrama NFR Framework de confiabilidade </figcaption>
+
 ### Diagrama de confiabilidade com propagação
 ![confiabilidade_propagacao](https://user-images.githubusercontent.com/49570180/178126693-4c5dfd0a-7b1d-48db-921b-170facb2c4c4.jpg)
-  <figcaption> Imagem 5: Diagrama NFR Framework de confiabilidade com propagação </figcaption>
+  <figcaption> Imagem 6: Diagrama NFR Framework de confiabilidade com propagação </figcaption>
+
+  ### Versão 2
+
+![Brainstorm (1)](https://user-images.githubusercontent.com/49570180/180623003-868d3f4c-a243-4c15-951c-24db4a94b0b2.jpg)
+
+  <figcaption> Imagem 7: Diagrama NFR Framework de confiabilidade com propagação </figcaption>
 
 ### Diagrama de usabilidade
 ![usabilidade](https://user-images.githubusercontent.com/49570180/178126833-08b2d136-32af-471d-92e4-6cefcb2755fb.jpg)
-  <figcaption> Imagem 6: Diagrama NFR Framework de usabilidade</figcaption>
+  <figcaption> Imagem 8: Diagrama NFR Framework de usabilidade</figcaption>
+
+
+
+### Versão 2
+![Brainstorm (2)](https://user-images.githubusercontent.com/49570180/180623041-ad4c685e-37c2-4292-84c8-f8718170fc5f.jpg)
+  <figcaption> Imagem 9: Diagrama NFR Framework de usabilidade</figcaption>
+
 
 ### Diagrama de usabilidade com propagação
 ![usabilidade_propagacao](https://user-images.githubusercontent.com/49570180/178126932-bf411b3e-eb4b-4b9d-9dce-d1c8cbb60b48.jpg)
 
-  <figcaption> Imagem 7: Diagrama NFR Framework de usabilidade com propagação </figcaption>
+  <figcaption> Imagem 10: Diagrama NFR Framework de usabilidade com propagação </figcaption>
+
+
+### Versão 2
+
+![Brainstorm (3)](https://user-images.githubusercontent.com/49570180/180623080-360d5cac-0179-40fd-881e-fbbb62184e20.jpg)
+
+  <figcaption> Imagem 11: Diagrama NFR Framework de usabilidade com propagação </figcaption>
+
 
 ## Referências
 
