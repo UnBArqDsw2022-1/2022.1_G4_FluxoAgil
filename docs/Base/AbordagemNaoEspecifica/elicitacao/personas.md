@@ -5,6 +5,7 @@
 | ---------- | ------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 25/06/2022 | 1.0    | Criação do documento | [Matheus Sousa](https://github.com/gatotabaco) | [Thais Rebouças](https://github.com/Thais-ra) |
 | 14/07/2022 | 1.1    | Adicionando a metodologia | [Matheus Sousa](https://github.com/gatotabaco) | [Thais Rebouças](https://github.com/Thais-ra) |
+| 25/07/2022 | 1.2    | Pequena correção na metodologia | [Matheus Sousa](https://github.com/gatotabaco) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
 
 ## Introdução
 
@@ -13,7 +14,7 @@ características de um usuário típico ou atípico (antipersonas). Uma persona 
 
 ## Metologia
 
-A elaboração das personas passou por um processo criativo de pensar o usuário médio da aplicação e desenvolver um contexto em que ele a utilizaria. Inicialmente foi aberto o site [thispersondoesnotexist](https://this-person-does-not-exist.com/en) para gerar rostos aleatórios de pessoas que não existem. Com base em um rosto, foi pensada uma personalidade e possível uso ou não uso da aplicação, inserido no contexto de vida da persona.
+A elaboração do artefato de personas foi embasada por um processo criativo, pensando em como o usuário médio da aplicação a usaria, desenvolvendo um contexto para a utilização desse usuário. Inicialmente foi aberto o site [thispersondoesnotexist](https://this-person-does-not-exist.com/en) para gerar rostos aleatórios de pessoas que não existem. Com base em um rosto, foi pensada uma personalidade e possível uso ou não uso da aplicação, inserido no contexto de vida da persona.
 
 ## Personas
 
