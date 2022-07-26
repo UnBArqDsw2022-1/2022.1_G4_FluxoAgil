@@ -3,7 +3,8 @@
 ## Histórico de versões
 | Data       | Versão | Descrição            | Autor(a)                                     | Revisor(a)                                    |
 | ---------- | ------ | -------------------- | -------------------------------------------- | --------------------------------------------- |
-| 14/07/2022 | 1.0    | Criação do documento | [Lucas Braun](https://github.com/lbvx), [Matheus Pinheiro](https://github.com/matheuscvp) |  |
+| 14/07/2022 | 1.0    | Criação do documento | [Lucas Braun](https://github.com/lbvx), [Matheus Pinheiro](https://github.com/matheuscvp) | [Matheus Fonseca](https://github.com/gatotabaco) |
+| 25/07/2022 | 1.1    | Atualizando diagrama | [Lucas Braun](https://github.com/lbvx) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
 
 ## Introdução
 
@@ -11,7 +12,7 @@ O diagrama de componentes mostra os componentes e suas interfaces e portas. Os c
 
 ## Metodologia
 
-O diagrama foi feito pela plataforma [Lucidchart](https://www.lucidchart.com/pages/) pelos participantes, que se comunicavam via Discord.
+O diagrama foi feito na plataforma [drawio](https://app.diagrams.net/) pelos participantes, que se comunicavam via Discord.
 
 ## Participantes
 
