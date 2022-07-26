@@ -1,6 +1,6 @@
 # Planejamento Sprint 3
 
-Essa sprint durou 7 dias, e no 2º dia houve a apresentação e a segunda entrega, por esse motivo as issues conteplaram tarefas de finalizar artefatos e melhorias para a entrega. 
+Essa sprint durou 7 dias, e no 2º dia houve a apresentação e a segunda entrega, por esse motivo as issues contemplaram tarefas de finalizar artefatos e melhorias para a entrega. 
 Além disso, a equipe decidiu usar o resto da sprint como um "descanso" pois a semana da entrega foi bastante pesada para os integrantes por ser uma semana de provas e entregas. 
 
 ## Histórico de versões
