@@ -4,11 +4,17 @@
 | Data       | Versão | Descrição            | Autor(es)                                                                                                                                   | Revisor(es)                                  |
 | ---------- | ------ | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
 | 25/06/2022 | 1.0    | Criação do documento | [Matheus Sousa](https://github.com/gatotabaco) | [Thais Rebouças](https://github.com/Thais-ra) |
+| 14/07/2022 | 1.1    | Adicionando a metodologia | [Matheus Sousa](https://github.com/gatotabaco) | [Thais Rebouças](https://github.com/Thais-ra) |
+| 25/07/2022 | 1.2    | Pequena correção na metodologia | [Matheus Sousa](https://github.com/gatotabaco) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
 
 ## Introdução
 
 Uma persona é um personagem fictício que pertence a um grupo de usuários e descreve as
 características de um usuário típico ou atípico (antipersonas). Uma persona é definida a partir dos objetivos do usuário na aplicação, com base em sua personalidade, idade, ocupação, etc.
+
+## Metologia
+
+A elaboração do artefato de personas foi embasada por um processo criativo, pensando em como o usuário médio da aplicação a usaria, desenvolvendo um contexto para a utilização desse usuário. Inicialmente foi aberto o site [thispersondoesnotexist](https://this-person-does-not-exist.com/en) para gerar rostos aleatórios de pessoas que não existem. Com base em um rosto, foi pensada uma personalidade e possível uso ou não uso da aplicação, inserido no contexto de vida da persona.
 
 ## Personas
 
