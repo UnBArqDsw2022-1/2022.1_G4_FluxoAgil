@@ -1,12 +1,13 @@
 # Planejamento Sprint 4
 
-Essa foi a última sprint antes da entrega, portanto a equipe precisou focar em terminar os artefatos que ainda não foram concluídos, e realizar algumas melhorias em artefatos já entregues.
+Essa sprint foi uma "transição", pois a equipe chegou a conclusão de que estávamos sendo menos produtivos devido ao dia do planejamento, então foi decidido que o planejamento seria na segunda-feira a partir da próxima sprint, então essa foi uma sprint menor e com poucas tarefas, que foram focadas nas melhorias da entrega passada.
 
 ## Histórico de versões
 
-| Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a) |
-| -------- | ------ | -------------------- | -------------------------------------------- | ---------- |
-| 23/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | -          |
+| Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a)                             |
+| -------- | ------ | -------------------- | -------------------------------------------- | -------------------------------------- |
+| 23/07/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
+| 02/08/22 | 1.1    | Adição de issues     | [Amanda Nobre](https://github.com/AmandaNbr) | [Lucas Braun](https://github.com/lbvx) |
 
 ## Tamanho da Sprint
 
@@ -18,30 +19,17 @@ Essa foi a última sprint antes da entrega, portanto a equipe precisou focar em 
 
 ## Objetivos
 
-| Issue                                                                     | Título                                | Responsáveis                                                 |
-| ------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------ |
-| [#88](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/88)   | Aprimorar personas                    | [Matheus Fonseca](https://github.com/gatotabaco)             |
-| [#90](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/90)   | Criar o NFR Framework                 | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
-| [#91](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/91)   | Atualizar e incremetar o BPMN         | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
-| [#96](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/96)   | Melhoria no documento de introspecção | [Thaís Rebouças](https://github.com/thais-ra)                |
-| [#99](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/99)   | Melhorar doc de Metodologia           | [Amanda Nobre](https://github.com/AmandaNbr)                 |
-| [#100](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/100) | Documentar sprint 2                   | [Amanda Nobre](https://github.com/AmandaNbr)                 |
-| [#101](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/101) | Ata de reunião - 13/07                | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
-
+| Issue                                                                     | Título                            | Responsáveis                                                 |
+| ------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------------ |
+| [#141](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/141) | Documentar sprint 3               | [Amanda Nobre](https://github.com/AmandaNbr)                 |
+| [#149](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/149) | Documentar a reunião do dia 25/07 | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
 
 ## Dívidas alocadas
 
-| Issue                                                                   | Título                                                 | Responsáveis                                                                                                |
-| ----------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| [#65](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/65) | Adicionar diagrama de classes                          | [Thaís Rebouças](https://github.com/thais-ra), [Yudi Yamane](https://github.com/yudi-azvd)                  |
-| [#66](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/66) | Iniciativa Extra: Adicionar diagrama de banco de dados | [Thaís Rebouças](https://github.com/thais-ra), [Yudi Yamane](https://github.com/yudi-azvd)                  |
-| [#67](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/67) | Adicionar diagrama de comunicação                      | [Yudi Yamane](https://github.com/yudi-azvd)                                                                 |
-| [#68](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/68) | Adicionar Diagrama de Estados                          | [Matheus Calixto](https://github.com/matheuscvp), [Mateus Maia](https://github.com/mateusmaiamaia)          |
-| [#69](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/69) | Adicionar Diagrama de Componentes                      | [Matheus Calixto](https://github.com/matheuscvp), [Lucas Braun](https://github.com/lbvx)                    |
-| [#70](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/70) | Diagrama estático - Implantação                        | [Amanda Nobre](https://github.com/AmandaNbr), [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite)  |
-| [#71](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/71) | Diagrama de atividade                                  | [Amanda Nobre](https://github.com/AmandaNbr), [Lucas Braun](https://github.com/lbvx)                        |
-| [#72](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/72) | Diagrama de sequencia                                  | [Irwin Schmitt](https://github.com/irwinschmitt), [Matheus Monteiro](https://github.com/matheusyanmonteiro) |
-| [#77](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/77) | Criar o documento de backlog do produto                | [Irwin Schmitt](https://github.com/irwinschmitt), [Matheus Fonseca](https://github.com/gatotabaco)          |
-| [#78](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/78) | Adicionar o backlog do produto no quadro               | [Irwin Schmitt](https://github.com/irwinschmitt)                                                            |
-| [#85](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/85) | Adicionar Diagrama de Pacotes                          | [Matheus Fonseca](https://github.com/gatotabaco), [Mateus Maia](https://github.com/mateusmaiamaia)          |
-
+| Issue                                                                     | Título                                 | Responsáveis                                                 |
+| ------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| [#88](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/88)   | Aprimorar personas                     | [Matheus Fonseca](https://github.com/gatotabaco)             |
+| [#101](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/101) | Ata de reunião - 13/07                 | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+| [#129](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/129) | Corrigir diagrama de pacotes           | [Matheus Fonseca](https://github.com/gatotabaco)             |
+| [#136](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/136) | Correção do documento de NFR Framework | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+| [#137](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/137) | Correção dos requisitos elicitados     | [Irwin Schmitt](https://github.com/irwinschmitt)             |
