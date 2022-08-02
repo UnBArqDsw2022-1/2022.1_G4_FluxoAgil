@@ -74,12 +74,12 @@
 
 - **Padrões de Projeto**
 
-  - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
-    - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
-    - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
-    - [3.3. Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
-    - [3.4. Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
-    - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
+  - [Padrões de Projeto](PadroesDeProjeto/3.PadroesDeProjeto.md)
+    - [Padrões de Projeto GRASPs](PadroesDeProjeto/GRASPS/grasps.md)
+    - [Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
+    - [Padrões de Projeto Extra](PadroesDeProjeto/3.3.PadroesExtra.md)
+    - [Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
+    - [Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
 
@@ -96,7 +96,16 @@
     - [Resultados](Sprints/Sprint1/resultados_sprint1.md)
   - Sprint 2
     - [Planejamento](Sprints/Sprint2/planejamento_sprint2.md)
-    - [Resultados](Sprints/Sprint2/resultados_sprint2.md)
+    - [Resultados](Sprints/Sprint2/resultados_sprint2.md)  
+  - Sprint 3
+    - [Planejamento](Sprints/Sprint3/planejamento_sprint3.md)
+    - [Resultados](Sprints/Sprint3/resultados_sprint3.md)  
+  - Sprint 4
+    - [Planejamento](Sprints/Sprint2/planejamento_sprint4.md)
+    - [Resultados](Sprints/Sprint2/resultados_sprint4.md)
+  - Sprint 5
+    - [Planejamento](Sprints/Sprint2/planejamento_sprint5.md)
+    - [Resultados](Sprints/Sprint2/resultados_sprint5.md)
 
 - [Atas de Reunião](#)
 
