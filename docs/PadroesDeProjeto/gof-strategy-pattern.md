@@ -60,29 +60,7 @@ class TextExporter implements Exporter {
             resultText += coursesInPeriodAsString
         })
 
-        File.save('Fluxo de matérias.md', resultText)
-    }
-
-    // Outra opção
-    // https://code.tutsplus.com/tutorials/how-to-save-a-file-with-javascript--cms-41105
-    saveFile(resultText: string) {
-        // https://stackoverflow.com/questions/13405129/create-and-save-a-file-with-javascript
-        const file = new Blob([resultText])
-        const file = new Blob([data], {type: type});
-        if (window.navigator.msSaveOrOpenBlob) // IE10+
-            window.navigator.msSaveOrOpenBlob(file, filename);
-        else { // Others
-            const a = document.createElement("a");
-            const url = URL.createObjectURL(file);
-            a.href = url;
-            a.download = filename;
-            document.body.appendChild(a);
-            a.click();
-            setTimeout(function() {
-                document.body.removeChild(a);
-                window.URL.revokeObjectURL(url);  
-            }, 0); 
-        }
+        window.saveFile('Fluxo de matérias.md', resultText)
     }
 }
 
