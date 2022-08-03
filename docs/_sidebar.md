@@ -77,6 +77,7 @@
   - [3. Desenho de Software (Padrões de Projeto)](PadroesDeProjeto/3.PadroesDeProjeto.md)
     - [3.1. Módulo Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
     - [3.2. Módulo Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
+      - [GoF: Strategy Pattern](PadroesDeProjeto/gof-strategy-pattern.md)
     - [3.3. Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
     - [3.5. Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
