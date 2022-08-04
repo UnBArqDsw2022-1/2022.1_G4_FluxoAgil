@@ -1,9 +1,9 @@
 # GoF: Strategy Pattern
 
 ## Histórico de versões
-| Data       | Versão | Descrição            | Autor(a)                             | Revisor(a)                                                                     |
-| ---------- | ------ | -------------------- | ------------------------------------ | ------------------------------------------------------------------------------ |
-| 01/08/2022 | 1.0    | Criação do documento | [Yudi](https://github.com/yudi-azvd) | [Thaís](https://github.com/Thais-ra), [Irwin](https://github.com/irwinschmitt) |
+| Data       | Versão | Descrição            | Autor(a)                                                                   | Revisor(a)                               |
+| ---------- | ------ | -------------------- | -------------------------------------------------------------------------- | ---------------------------------------- |
+| 01/08/2022 | 1.0    | Criação do documento | [Yudi](https://github.com/yudi-azvd), [Thaís](https://github.com/Thais-ra) | [Irwin](https://github.com/irwinschmitt) |
 
 ## Introdução
 
@@ -31,6 +31,7 @@ ter a possibilidade de escolher entre essas opções de exportação.
 ## Participantes
 
 - [Yudi Yamane](https://github.com/yudi-azvd)
+- [Thaís Rebouças](https://github.com/Thais-ra)
 
 ## Resultados
 
