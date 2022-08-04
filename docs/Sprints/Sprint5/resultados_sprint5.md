@@ -2,47 +2,38 @@
 
 ## Histórico de versões
 
-| Data     | Versão | Descrição            | Autor(a)                                     | Revisor(a) |
-| -------- | ------ | -------------------- | -------------------------------------------- | ---------- |
-| 02/08/22 | 1.0    | Criação do documento | [Amanda Nobre](https://github.com/AmandaNbr) | -          |
+| Data     | Versão | Descrição                   | Autor(a)                                     | Revisor(a)                                       |
+| -------- | ------ | --------------------------- | -------------------------------------------- | ------------------------------------------------ |
+| 02/08/22 | 1.0    | Criação do documento        | [Amanda Nobre](https://github.com/AmandaNbr) | [Mateus Maia](https://github.com/mateusmaiamaia) |
+| 03/08/22 | 1.1    | Adição de issues e gráficos | [Amanda Nobre](https://github.com/AmandaNbr) | [Mateus Maia](https://github.com/mateusmaiamaia) |
 
 ## Objetivos
 
-| Issue                                                                     | Título                                                 | Status                   |
-| ------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------ |
-| [#65](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/65)   | Adicionar diagrama de classes                          | _Concluído_              |
-| [#66](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/66)   | Iniciativa Extra: Adicionar diagrama de banco de dados | _Concluído_              |
-| [#67](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/67)   | Adicionar diagrama de comunicação                      | _Concluído_              |
-| [#68](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/68)   | Adicionar Diagrama de Estados                          | _Concluído_              |
-| [#69](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/69)   | Adicionar Diagrama de Componentes                      | _Concluído_              |
-| [#72](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/72)   | Diagrama de sequencia                                  | _Concluído_              |
-| [#77](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/77)   | Criar o documento de backlog do produto                | _Concluído_              |
-| [#85](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/85)   | Adicionar Diagrama de Pacotes                          | _Concluído_              |
-| [#88](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/88)   | Aprimorar personas                                     | _Não foi iniciado_       |
-| [#91](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/91)   | Atualizar e incremetar o BPMN                          | _Concluído_              |
-| [#99](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/99)   | Melhorar doc de Metodologia                            | _Concluído_              |
-| [#100](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/100) | Documentar sprint 2                                    | _Concluído_              |
-| [#101](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/101) | Ata de reunião - 13/07                                 | _Parcialmente Concluído_ |
-| [#129](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/129) | Corrigir diagrama de pacotes                           | _Parcialmente Concluído_ |
-| [#136](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/136) | Correção do documento de NFR Framework                 | _Parcialmente Concluído_ |
-| [#137](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/137) | Correção dos requisitos elicitados                     | _Parcialmente Concluído_ |
+| Issue                                                                     | Título                        | Status                   |
+| ------------------------------------------------------------------------- | ----------------------------- | ------------------------ |
+| [#142](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/142) | Documentar Sprint 4           | _Parcialmente Concluído_ |
+| [#145](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/145) | GoF Comportamental: Strategy  | _Parcialmente Concluído_ |
+| [#148](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/148) | Padrões GRASP                 | _Parcialmente Concluído_ |
+| [#151](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/151) | Padrões de projeto emergentes | _Parcialmente Concluído_ |
 
-<!-- ## Quadro de conhecimentos
+## Quadro de conhecimentos
 
-![image](link)
+![image](https://user-images.githubusercontent.com/44625056/182629185-4422f302-e7e6-4192-be93-306ae3a0fd57.png)
+![image](https://user-images.githubusercontent.com/44625056/182629263-0329cb6d-a757-46e5-94c0-3cfe6a5e6fef.png)
 
 ## Squad Health Check
 
-![image](link) -->
+![image](https://user-images.githubusercontent.com/44625056/182629400-a780e785-a3d3-4309-bce9-c0472fae6a74.png)
+![image](https://user-images.githubusercontent.com/44625056/182629289-b6da09d7-246a-4346-b535-2235d98ff3b5.png) 
 
 ## Burndown
 
-![image](https://user-images.githubusercontent.com/44625056/180627176-91113dcf-7e0c-4e11-9c3e-1390869828ac.png)
+![image](https://user-images.githubusercontent.com/44625056/182629685-ab663a5e-0560-4f30-afd0-0c32f05841ba.png)
 
 ## Velocity 
 
-![image](https://user-images.githubusercontent.com/44625056/180627169-3e5878d0-c399-454a-8ad5-21294d68d83b.png)
+![image](https://user-images.githubusercontent.com/44625056/182629773-152e198c-7753-4140-94cc-ec041ef775fc.png)
 
 ## Avaliação da Scrum Master
 
-Essa é a sprint que antecede a entrega e apresentação, sendo assim o ideal seria a equipe concluir os artefatos obrigatórios e focar em extras e melhorias, porém essa semana foi puxada para os integrantes da equipe com provas e entregas de outras disciplinas, sendo assim, novamente terminamos a sprint com dividas. Na minha visão, pelo planejamento ser em uma quarta-feira a equipe tem sido pouco produtiva no resto da semana e no fim de semana, portanto creio que um tópico que será discutido entre a equipe vai ser acerca da mudança do planejamento para o começo da semana, com o foco de melhorar a produtividade da equipe.  
+Apesar da mudança na sprint, a equipe teve baixa produtividade. Creio que a causa disso foi a divisão de tarefas, pois muitas pessoas ficaram alocadas para fazer pesquisas e documentos que são iguais, e as tarefas não foram tão específicas.
