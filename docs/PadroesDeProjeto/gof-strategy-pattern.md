@@ -44,14 +44,26 @@ Fonte: Yudi Yamane
 
 Seguem as classes que implementam o contexto da Figura 1:
 
-```ts
+```tsx
 interface Exporter {
-    async export(courses: Courses[][]);
+    async export();
+}
+
+class ExporterContext {
+    exporter: Exporter
+
+    setExporter(exporter: Exporter) {
+        this.exporter = exporter
+    }
+
+    export() {
+        this.exporter.export()
+    }
 }
 
 // text-exporter.ts
 class TextExporter implements Exporter {
-    async export(courses: Courses[][]) {
+    async export() {
         let resultText = '# Fluxo de Disciplinas\n\n'
         courses.forEach((coursesInPeriod, semesterIndex) => {
             resultText += `## Período ${semesterIndex}\n\n`
@@ -60,27 +72,23 @@ class TextExporter implements Exporter {
             resultText += coursesInPeriodAsString
         })
 
+        // Função fictícia
         window.saveFile('Fluxo de matérias.md', resultText)
     }
 }
 
 // pdf-exporter.ts
-import ReactPDF from '@react-pdf/renderer'
-import { Page, Text, View, Document, StyleSheet } from '@react-pdf/renderer'
-
-const styles = { /* ... */ }
+import pdfMake from 'pdfmake/build/pdfmake';
 
 class PdfExporter implements Exporter {
-    async export(courses: Courses[][]) {
-        let resultText = '# Fluxo de Disciplinas\n\n'
-        courses.forEach((coursesInPeriod, semesterIndex) => {
-            resultText += `## Período ${semesterIndex}\n\n`
-            let coursesInPeriodAsString = coursesInPeriod
-                .reduce((accumulator, current) => accumulator + `- ${current}\n`, '')
-            resultText += coursesInPeriodAsString
-        })
+    constructor(
+        // é usado em pdfProps que é usado em documentDefinitions
+        private readonly htmlElementRef: HTMLElement
+    ) {}
 
-        PdfLibrary.save('Fluxo de matérias.md', resultText)
+    async export() {
+        // ... definição de estilos e props do PDF ...
+        pdfMake.createPdf(documentDefinitions).download()
     }
 }
 
@@ -88,19 +96,35 @@ class PdfExporter implements Exporter {
 import ImageLibrary from 'image-library'
 
 class ImageExporter implements Exporter {
-    async export(courses: Courses[][]) {
-        
+    constructor(
+        // é usado em pdfProps que é usado em documentDefinitions
+        private readonly courses: Course[][]
+    ) {}
+
+    async export() {
+        // código para salvar imagem
     }
 }
 
 // Fazendo o papel de Context
-function onExportButtonClick() {
+function onExportButtonClick(type: 'text' | 'pdf' | 'image') {
+    const exporterContext = new ExporterContext()
+
+    switch(type): {
+        case 'text': 
+            exporterContext.setExporter(new TextExporter(courses))
+            break
+        case 'pdf': 
+            exporterContext.setExporter(new PdfExporter(fluxogramRef))
+            break
+        case 'image': 
+            exporterContext.setExporter(new ImageExporter(courses))
+            break
+    }
         
-    exporter.export(courses)
+    exporterContext.export()
 }
-
 ```
-
 
 ## Referências
 
