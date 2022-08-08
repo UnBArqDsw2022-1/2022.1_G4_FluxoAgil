@@ -16,7 +16,7 @@ As partes que mais aparecem quando esse padrão é implementado são:
 - **Estratégia**: classe abstrata ou interface comum da qual as diferentes 
 estratégias concretas devem derivar. Se houver alguma rotina em comum para todas
 as rotinas concretas, ela pode ser implementada nessa classe para evitar repetição.
-- **Estratégia concreta**: classe concreta que extende ou implementa a classe 
+- **Estratégia concreta**: classe concreta que estende ou implementa a classe 
 abstrata ou interface de estratégia base. Cada estratégia concreta implementa um
 algoritmo diferente.
 - **Contexto**: classe que tem a referência para uma estratégia e a executa.
@@ -45,7 +45,7 @@ Fonte: Yudi Yamane
 
 Seguem as classes que implementam o contexto da Figura 1:
 
-```tsx
+```ts
 interface Exporter {
     async export();
 }
@@ -61,8 +61,11 @@ class ExporterContext {
         this.exporter.export()
     }
 }
+```
 
-// text-exporter.ts
+`text-exporter.ts`
+
+```ts
 class TextExporter implements Exporter {
     async export() {
         let resultText = '# Fluxo de Disciplinas\n\n'
@@ -77,8 +80,11 @@ class TextExporter implements Exporter {
         window.saveFile('Fluxo de matérias.md', resultText)
     }
 }
+```
 
-// pdf-exporter.ts
+`pdf-exporter.ts`
+
+```ts
 import pdfMake from 'pdfmake/build/pdfmake';
 
 class PdfExporter implements Exporter {
@@ -93,12 +99,15 @@ class PdfExporter implements Exporter {
     }
 }
 
-// image-exporter.ts
+```
+
+`image-exporter.ts`
+
+```ts
 import ImageLibrary from 'image-library'
 
 class ImageExporter implements Exporter {
     constructor(
-        // é usado em pdfProps que é usado em documentDefinitions
         private readonly courses: Course[][]
     ) {}
 
@@ -106,26 +115,36 @@ class ImageExporter implements Exporter {
         // código para salvar imagem
     }
 }
+```
 
-// Fazendo o papel de Context
-function onExportButtonClick(type: 'text' | 'pdf' | 'image') {
-    const exporterContext = new ExporterContext()
+Código cliente React: no componente de exportação
 
-    switch(type): {
-        case 'text': 
-            exporterContext.setExporter(new TextExporter(courses))
-            break
-        case 'pdf': 
-            exporterContext.setExporter(new PdfExporter(fluxogramRef))
-            break
-        case 'image': 
-            exporterContext.setExporter(new ImageExporter(courses))
-            break
-    }
-        
+```ts
+// o caminho para importação não é importante
+import ImageExporter from './ImageExporter'
+import TextExporter from './TextExporter'
+import PdfExporter from './PdfExporter'
+
+function onImageExportButtonClick() {
+    exporterContext.setExporter(new ImageExporter(courses))
+    exporterContext.export()
+}
+
+function onTextExportButtonClick() {
+    exporterContext.setExporter(new TextExporter(courses))
+    exporterContext.export()
+}
+
+function onPdfExportButtonClick() {
+    exporterContext.setExporter(new PdfExporter(fluxogramRef))
     exporterContext.export()
 }
 ```
+
+As funções `on...ExportButtonClick` são conectadas ao botões de exportar pela
+propriedade `onClick` dos botões, que foram omitidos por brevidade.
+
+Esse código ainda não foi implementado, por isso não há um link para ele.
 
 ## Referências
 
