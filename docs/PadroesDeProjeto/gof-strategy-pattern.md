@@ -35,7 +35,9 @@ ter a possibilidade de escolher entre essas opções de exportação.
 
 ## Resultados
 
-<img src="images/padroes-projeto/gofs-strategy.png" align = "center" />
+<p align="center">
+    <img src="images/padroes-projeto/gofs-strategy.png"/>
+</p>
 <p align = "center"> 
 Figura 1 - Diagrama ilustrando a ideia do padrão de estratégia.<br>
 Fonte: Yudi Yamane
