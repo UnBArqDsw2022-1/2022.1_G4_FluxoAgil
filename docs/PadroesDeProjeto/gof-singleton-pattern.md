@@ -9,7 +9,7 @@
 
 ## Introdução
 
-O singleton é um padrão de projeto que garante que haja somente uma intância de uma classe, ao mesmo tempo garante um acesso global para essa instância, tendo assim somente um ponto de acesso central a essa instancia da classe. O Singleton é bastante útil em duas situações, a primeira é quando existe a necessidade de controlar a concorrência de acesso a recursos compartilhados e a segunda é qaundo uma classe for utilizada com uma certa requência em várias partes do sistema.
+O singleton é um padrão de projeto que garante que haja somente uma intância de uma classe, ao mesmo tempo garante um acesso global para essa instância, tendo assim somente um ponto de acesso central a essa instancia da classe. O Singleton é bastante útil em duas situações, a primeira é quando existe a necessidade de controlar a concorrência de acesso a recursos compartilhados e a segunda é quando uma classe for utilizada com uma certa requência em várias partes do sistema.
 
 ## Metodologia
 
