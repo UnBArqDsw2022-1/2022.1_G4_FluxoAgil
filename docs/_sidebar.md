@@ -76,8 +76,19 @@
 
   - [Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
   - [Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
-    - [GoF: Strategy Pattern](PadroesDeProjeto/gof-strategy-pattern.md)
-  - [Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
+    - Criacionais
+      - [?](?)
+      - [?](?)
+
+    - Estruturais
+      - [?](?)
+      - [?](?)
+
+    - Comportamentais
+      - [Strategy Pattern](PadroesDeProjeto/gof-strategy-pattern.md)
+      - [?](?)
+      
+  - [Padroes Extra](PadroesDeProjeto/3.3.PadroesExtra.md)
   - [Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
   - [Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
