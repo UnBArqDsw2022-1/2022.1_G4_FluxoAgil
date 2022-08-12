@@ -8,7 +8,7 @@
 
 ## Introdução
 
-O padrão decorador é um dos padrões estruturais amplamente utilizados. Esse padrão altera dinamicamente a funcionalidade de um objeto em tempo de execução sem afetar a funcionalidade existente dos objetos. Em resumo, este padrão adiciona funcionalidades adicionais ao objeto envolvendo-o.
+O padrão decorator é um dos padrões estruturais amplamente utilizados. Esse padrão altera dinamicamente a funcionalidade de um objeto em tempo de execução sem afetar a funcionalidade existente dos objetos. Em resumo, este padrão adiciona funcionalidades adicionais ao objeto envolvendo-o.
 
 ## Metodologia
 
