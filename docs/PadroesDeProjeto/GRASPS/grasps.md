@@ -3,8 +3,8 @@
 ## Histórico de versões
 | Data     | Versão | Descrição                                               | Autor(a)                                                                                                    | Revisor(a) |
 | -------- | ------ | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
-| 31/07/22 | 1.0    | Criação do documento                                    | [Amanda Nobre](https://github.com/AmandaNbr) e [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | -          |
-| 08/08/22 | 1.1    | Inserção da definição de GRASPS, criador e especialista | [Amanda Nobre](https://github.com/AmandaNbr) e [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | -          |
+| 31/07/22 | 1.0    | Criação do documento                                    | [Amanda Nobre](https://github.com/AmandaNbr) e [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Matheus Fonseca](https://github.com/gatotabaco)           |
+| 08/08/22 | 1.1    | Inserção da definição de GRASPS, criador e especialista | [Amanda Nobre](https://github.com/AmandaNbr) e [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) | [Matheus Fonseca](https://github.com/gatotabaco)           |
 
 ## Introdução
 
