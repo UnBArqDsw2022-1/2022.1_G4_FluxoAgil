@@ -1,6 +1,6 @@
 # Planejamento Sprint 6
 
-Nessa sprint a equipe planeja começar a desenvolver o código, utilizando outros dois repositórios. Então a partir dessa sprint, a equipe traballhará tanto no desenvolvimento da aplicação quando na criação dos artefatos pedidos nas entregas. Nesse ciclo os ambientes serão configurados e a equipe continuará trabalhando nos grasp's e gof's.
+Nessa sprint a equipe planeja começar a desenvolver o código, utilizando outros dois repositórios. Então a partir dessa sprint, a equipe trabalhará tanto no desenvolvimento da aplicação quando na criação dos artefatos pedidos nas entregas. Nesse ciclo os ambientes serão configurados e a equipe continuará trabalhando nos grasp's e gof's.
 
 ## Histórico de versões
 
