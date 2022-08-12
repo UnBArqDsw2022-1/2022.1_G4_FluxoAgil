@@ -3,9 +3,9 @@
 ## Histórico de versões
 | Data       | Versão | Descrição                            | Autor(a)                                                                             | Revisor(a) |
 | ---------- | ------ | ------------------------------------ | ------------------------------------------------------------------------------------ | ---------- |
-| 10/08/2022 | 0.1    | Criação do rascunho com a intrução   | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |       -     |
-| 12/08/2022 | 0.2    | Alteração na introdução e referência | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |      -      |
-| 12/08/2022 | 0.3    | Adiciona exemplo de código, referência e diagrama | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) | - | 
+| 10/08/2022 | 0.1    | Criação do rascunho com a intrução   | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |       [Amanda Nobre](https://github.com/AmandaNbr)     |
+| 12/08/2022 | 0.2    | Alteração na introdução e referência | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |      [Amanda Nobre](https://github.com/AmandaNbr)      |
+| 12/08/2022 | 0.3    | Adiciona exemplo de código, referência e diagrama | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) | [Amanda Nobre](https://github.com/AmandaNbr) | 
 | 12/08/2022 | 1.0    | Adiciona versão final do documento | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) | [Amanda Nobre](https://github.com/AmandaNbr) | 
 
 ## Introdução
