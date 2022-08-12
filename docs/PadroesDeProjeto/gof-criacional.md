@@ -1,4 +1,4 @@
-# GOF - Factory Method
+# GOF - Factory
 
 ## Histórico de versões
 
