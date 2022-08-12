@@ -27,6 +27,7 @@ Para a escolha dos padrões Gof criacionais, durante a planning, a equipe se div
 O <b>Factory Method</b> é um padrão criacional, onde uma interface será fornecida para a criação de objetos em uma superclasse, mas permite que subclasses alterem o tipo de objetos que serão criados.
 
 ```java
+// Product
 abstract class Plan{
     protected double rate;
 
@@ -37,6 +38,7 @@ abstract class Plan{
     }
 }
 
+// Concrete Product
 class DomesticPlan extends Plan{
     public void getRate(){
         rate = 3.50;
@@ -55,6 +57,7 @@ class InstitutionalPlan extends Plan{
     }
 }
 
+// Creator
 class PlanFactory{
     public static Plan getPlan(String planType){
         switch(planType.toLowerCase()){
@@ -88,12 +91,12 @@ Como exemplificado acima a classe "Plan" irá declarar os métodos getRate e cal
 O <b>Abstract Factory</b> é um padrão criacional que permite que você produza famílias de objetos relacionados sem ter que especificar suas classes concretas.
 
 ```java
-// O que deve ser comúm a todos os Bancos
+// Abstract Product
 interface Bank {
     String getBankName();
 }
 
-// Banco Itau
+// Concrete Product
 class ItauBank implements Bank {
     private final String bankName;
 
@@ -106,7 +109,6 @@ class ItauBank implements Bank {
     }
 }
 
-// Banco Bradesco
 class BradescoBank implements Bank {
     private final String bankName;
 
@@ -119,6 +121,7 @@ class BradescoBank implements Bank {
     }
 }
 
+// Abstract Product 
 abstract class Loan {
     protected double rate;
     abstract void setInterestRate(double rate);
@@ -134,6 +137,7 @@ abstract class Loan {
     }
 }
 
+// Concrete Product
 class HomeLoan extends Loan {
     public void setInterestRate(double rate) {
         this.rate = rate;
@@ -146,12 +150,14 @@ class CarLoan extends Loan {
     }
 }
 
-abstract class AbstractFactory {
+// Abstract Factory
+interface AbstractFactory {
     public abstract Bank getBank(String bankName);
     public abstract Loan getLoan(String loanType);
 }
 
-class BankFactory extends AbstractFactory {
+// Concrete Factory
+class BankFactory implements AbstractFactory {
     public Bank getBank(String bankName) {
         switch(bankName.toLowerCase()) {
             case "itau":
@@ -168,7 +174,7 @@ class BankFactory extends AbstractFactory {
     }
 }
 
-class LoanFactory extends AbstractFactory {
+class LoanFactory implements AbstractFactory {
     public Bank getBank(String bankName) {
         return null;
     }
