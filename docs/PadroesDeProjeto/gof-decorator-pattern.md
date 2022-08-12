@@ -22,13 +22,11 @@ Decorator Design:
 
 - [matheusyanmonteiro](https://github.com/matheusyanmonteiro)
 
-## Resultados
+## Exemplo
 
 No nosso projeto o padrão decorator será amplamente utilizado na parte de front end com o react. O conceito de componentização e de spa faz uso constante de objetos que sempre modificação de estado mas sem perder as caracteristicas iniciais.
 
 Para exemplificar apresentaremos um codigo com comentarios de como usar de como funciona um decorator em typescript.
-
-### Exemplo de código
 
 ```ts
 /**
@@ -124,3 +122,7 @@ clientCode(decorator2);
 ```
 
 ## Referências
+
+Referência: DESIGN Pattern. Disponível em: https://refactoring.guru/design-patterns/decorator/typescript/example. Acesso em: 11 ago. 2022.
+
+Referência: DECORATOR GoFs. Disponível em: https://dzone.com/articles/gang-four-%E2%80%93-decorate-decorator. Acesso em: 11 ago. 2022.
