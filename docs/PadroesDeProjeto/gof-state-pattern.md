@@ -5,7 +5,7 @@
 | ---------- | ------ | ------------------------------------ | ------------------------------------------------------------------------------------ | ---------- |
 | 10/08/2022 | 0.1    | Criação do rascunho com a intrução   | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |            |
 | 12/08/2022 | 0.2    | Alteração na introdução e referência | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |            |
-| 12/08/2022 | 0.3    | Adiciona exemplo de código, referência e diagrama | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |            |
+| 12/08/2022 | 0.3    | Adiciona exemplo de código, referência e diagrama | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) |     | 12/08/2022 | 1.0    | Adiciona versão final do documento | [Matheus Sousa](https://github.com/gatotabaco), [Thaís](https://github.com/Thais-ra) | 
 
 ## Introdução
 
@@ -121,4 +121,4 @@ class Graduated extends State is
 
 State. Refactoring Guru, Elements of Reusable Object-Oriented Software. Disponível em: https://refactoring.guru/pt-br/design-patterns/state. Acesso em: 12 de agosto de 2022.
 
-Design Patterns - State Pattern. Disponível em: https://www.tutorialspoint.com/design_pattern/state_pattern.htm#
+Design Patterns - State Pattern. Disponível em: https://www.tutorialspoint.com/design_pattern/state_pattern.htm#. Acesso em: 12 de agosto de 2022.
