@@ -44,4 +44,3 @@ Essa foi a última sprint antes da entrega, portanto a equipe precisou focar em 
 | [#77](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/77) | Criar o documento de backlog do produto                | [Irwin Schmitt](https://github.com/irwinschmitt), [Matheus Fonseca](https://github.com/gatotabaco)          |
 | [#78](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/78) | Adicionar o backlog do produto no quadro               | [Irwin Schmitt](https://github.com/irwinschmitt)                                                            |
 | [#85](https://github.com/UnBArqDsw2022-1/2022.1_G4_FluxoAgil/issues/85) | Adicionar Diagrama de Pacotes                          | [Matheus Fonseca](https://github.com/gatotabaco), [Mateus Maia](https://github.com/mateusmaiamaia)          |
-
