@@ -13,7 +13,7 @@ O singleton é um padrão de projeto que garante que haja somente uma intância 
 
 ## Metodologia
 
-Uma possível aplicação do singleton no nosso projeto é relação a conexões do banco de dados, ela pode ser responsável pela gerência de criação, tempo de vida e distribuição de todas as conexões do banco de dados para o aplicativo, fazendo com que nenhuma conexão seja perdida. 
+Uma possível aplicação do singleton no nosso projeto é em relação as conexões do banco de dados, ela pode ser responsável pela gerência de criação, tempo de vida e distribuição de todas as conexões do banco de dados para o aplicativo, fazendo com que nenhuma conexão seja perdida. 
 
 ## Participantes
 
@@ -40,7 +40,7 @@ class  Database:
 
 ```
 
-Este código não foi implementado, ele servirar como base para a criação do banco de dados do scraper, que será utilizado para pegar os dados das disciplinas dos cursos da Universidade de Brasília.
+Este código não foi implementado, ele servirá como base para a criação do banco de dados do scraper, que será utilizado para pegar os dados das disciplinas dos cursos da Universidade de Brasília.
 
 ## Referências
 

@@ -13,7 +13,7 @@ Padrões GoF são todos aqueles que propõem soluções para problemas recorrent
 
 ## Metodologia
 
-Para a escolha dos padrões Gof criacionais, durante a planning, a equipe se dividiu para que cada individuo ficar com ao menos um padrão sendo o mesmo Gof ou GRASP, logo a escolha ficaria a cargo do encarregado do artefato. Neste artefato em questão ficaram responsáveis os alunos, Matheus Pinheiro e Matheus Maia.
+Para a escolha dos padrões Gof criacionais, durante a planning, a equipe se dividiu para que cada individuo ficasse com ao menos um padrão sendo o mesmo GoF ou GRASP, logo a escolha ficaria a cargo do encarregado do artefato. Neste artefato em questão ficaram responsáveis os alunos, Matheus Pinheiro e Matheus Maia.
 
 ## Participantes
 
