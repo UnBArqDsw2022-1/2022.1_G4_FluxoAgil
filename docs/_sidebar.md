@@ -76,9 +76,11 @@
 
   - [Padrões de Projeto GRASPs](PadroesDeProjeto/3.1.GRASPs.md)
   - [Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
-  - [Padrões de Projeto Extras](PadroesDeProjeto/3.3.PadroesExtra.md)
     - [GoF: Strategy Pattern](PadroesDeProjeto/gof-strategy-pattern.md)
+    - [GoF: Factory](PadroesDeProjeto/gof-criacional.md)
+    - [GoF: Singleton Pattern](PadroesDeProjeto/gof-singleton-pattern)
     - [Gof Estrutural Composite](PadroesDeProjeto/gof-estrutural-composite.md)
+  - [Padrões de Projeto Extras](PadroesDeProjeto/3.3.PadroesExtra.md)
   - [Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
   - [Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
   - [Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
