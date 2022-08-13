@@ -2,10 +2,9 @@
 
 ## Histórico de versões
 
-| Data       | Versão | Descrição            | Autor(a)                                          | Revisor(a) |
-| ---------- | ------ | -------------------- | ------------------------------------------------- | ---------- |
-| 10/08/2022 | 1.0    | Criação do documento | [Matheus Pinheiro](https://github.com/matheuscvp) |            |
-|            |        |                      |                                                   |            |
+| Data       | Versão | Descrição            | Autor(a)                                         | Revisor(a)                                                                                           |
+| ---------- | ------ | -------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------- |
+| 10/08/2022 | 1.0    | Criação do documento | [Matheus Calixto](https://github.com/matheuscvp) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite), [Lucas Braun](https://github.com/lbvx) |
 
 ## Introdução
 
@@ -18,7 +17,7 @@ Para a escolha dos padrões Gof criacionais, durante a planning, a equipe se div
 ## Participantes
 
 - [Mateus Maia](https://github.com/mateusmaiamaia)
-- [Matheus Pinheiro](https://github.com/matheuscvp)
+- [Matheus Calixto](https://github.com/matheuscvp)
 
 ## GoF's Criacionais
 
@@ -121,7 +120,7 @@ class BradescoBank implements Bank {
     }
 }
 
-// Abstract Product 
+// Abstract Product
 abstract class Loan {
     protected double rate;
     abstract void setInterestRate(double rate);
@@ -206,7 +205,7 @@ class FactoryCreator {
 
 class GenerateBill {
     public static void main(String args[])throws IOException {
-        
+
         const String bankName = "itau";
         const String loanType = "home";
         const double loanAmount = 100000;
