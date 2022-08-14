@@ -78,6 +78,10 @@
   - [Padrões de Projeto GoFs](PadroesDeProjeto/3.2.GoFs.md)
     - [GoF: Strategy Pattern](PadroesDeProjeto/gof-strategy-pattern.md)
     - [GoF: Decorator Pattern](PadroesDeProjeto/gof-decorator-pattern.md)
+    - [GoF: Factory](PadroesDeProjeto/gof-criacional.md)
+    - [GoF: Singleton Pattern](PadroesDeProjeto/gof-singleton-pattern)
+    - [GoF: Estrutural Composite](PadroesDeProjeto/gof-estrutural-composite.md)
+  - [Padrões de Projeto Extras](PadroesDeProjeto/3.3.PadroesExtra.md)
   - [Modelagem Ágil](PadroesDeProjeto/3.3.PadroesExtra.md)
   - [Iniciativas Extras - Padrões de Projeto](PadroesDeProjeto/3.4.IniciativasExtras.md)
   - [Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
@@ -107,15 +111,23 @@
   - Sprint 5
     - [Planejamento](Sprints/Sprint5/planejamento_sprint5.md)
     - [Resultados](Sprints/Sprint5/resultados_sprint5.md)
+  - Sprint 6
+    - [Planejamento](Sprints/Sprint6/planejamento_sprint6.md)
+    - [Resultados](Sprints/Sprint6/resultados_sprint6.md)
 
 - [Atas de Reunião](#)
 
+  - [Ata - 02/06](AtasDeReunião/Ata_02-06.md)
   - [Ata - 08/06](AtasDeReunião/Ata_08-06.md)
   - [Ata - 16/06](AtasDeReunião/Ata_16-06.md)
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
   - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
   - [Ata - 25/06](AtasDeReunião/Ata_25-06.md)
-  - [Ata - 02/07](AtasDeReunião/Ata_02-06.md)
+  - [Ata - 29/06](AtasDeReunião/Ata_29-06.md)
   - [Ata - 06/07](AtasDeReunião/Ata_06-07.md)
+  - [Ata - 13/07](AtasDeReunião/Ata_13-07.md)
+  - [Ata - 25/07](AtasDeReunião/Ata_25-07.md)
+  - [Ata - 01/08](AtasDeReunião/Ata_01-08.md)
+  - [Ata - 02/08](AtasDeReunião/Ata_02-08.md)
 
 - [Guia de Contribuição](CONTRIBUTING.md)
