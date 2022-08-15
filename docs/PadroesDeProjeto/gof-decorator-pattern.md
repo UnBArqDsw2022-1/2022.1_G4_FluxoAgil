@@ -1,4 +1,4 @@
-# GoF: Strategy Pattern
+# GoF: Decorator Pattern
 
 ## Histórico de versões
 
