@@ -42,7 +42,7 @@ Uma atividade muito importante para um sistema de orientação a objetos é a cr
 
 ### Uso no projeto
 
-<img src="images/GRASPS/Criador.png" align = "center" />
+<img src="img/GRASPS/Criador.png" align = "center" />
 <p align = "center"> 
 Figura 1 - Exemplo de criador <br>
 Autora:  Ana Carolina
