@@ -26,7 +26,7 @@ Decorator Design:
 
 No nosso projeto o padrão decorator será amplamente utilizado na parte de front end com o react. O conceito de componentização e de spa faz uso constante de objetos que sempre modificação de estado mas sem perder as caracteristicas iniciais.
 
-Para exemplificar apresentaremos um codigo com comentarios de como usar de como funciona um decorator em typescript.
+Para exemplificar apresentaremos um codigo com comentarios de como funciona um decorator em typescript.
 
 ```ts
 /**
@@ -37,7 +37,7 @@ interface Component {
 }
 
 /**
- * Componentes Concretos fornecem implementações padrão das operações. Lá
+ * Componentes Concretos fornecem implementações padrão das operações. aqui
  * podem ser várias variações dessas classes.
  */
 class ConcreteComponent implements Component {
@@ -49,7 +49,7 @@ class ConcreteComponent implements Component {
 /**
  * A classe base Decorator segue a mesma interface dos demais componentes.
  * O objetivo principal desta classe é definir a interface de encapsulamento para todos
- * decoradores de concreto. A implementação padrão do código de encapsulamento pode
+ * decoradores de concreto. A implementação padrão do código de encapsulamento pode facilitar a visualização de como o codigo sera reutilizado
  * inclua um campo para armazenar um componente encapsulado e os meios para inicializar
  * isto.
  */
@@ -71,7 +71,7 @@ class Decorator implements Component {
 class ConcreteDecoratorA extends Decorator {
   /**
    * decoractors podem chamar a implementação pai da operação, em vez de
-   * chamando o objeto encapsulado diretamente. Esta abordagem simplifica a extensão
+   * chamar o objeto encapsulado diretamente. Esta abordagem simplifica a extensão
    * das classes de decorador.
    */
   public operation(): string {
@@ -80,8 +80,8 @@ class ConcreteDecoratorA extends Decorator {
 }
 
 /**
- * Decoradores podem executar seu comportamento antes ou depois da chamada para um
- * objeto embrulhado.
+ * Decorators podem executar seu comportamento antes ou depois da chamada para um
+ * objeto encapsulado.
  */
 class ConcreteDecoratorB extends Decorator {
   public operation(): string {
@@ -90,7 +90,7 @@ class ConcreteDecoratorB extends Decorator {
 }
 
 /**
- * O código cliente funciona com todos os objetos usando a interface Component.  desta maneira que pode ficar independente das classes concretas de componentes.
+ * O código cliente funciona com todos os objetos usando a interface Component. Desta maneira que podendo ser independente das classes concretas de componentes.
  *
  */
 function clientCode(component: Component) {
