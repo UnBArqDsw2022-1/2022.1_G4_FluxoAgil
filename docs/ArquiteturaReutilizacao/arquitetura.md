@@ -16,9 +16,12 @@ desenvolvimento do projeto **Fluxo Ágil**.
 web baseadas em templates. Sem pouco rígido, oferece ao desenvolvedor a liberdade
 des escolher outras extensões a bibliotecas para desenvolver o seu projeto.  
 **Flask RESTful** é uma extensão para Flask para transformá-lo em framework para
-APIs REST (semelhante ao Django REST para o Django)
+APIs REST (semelhante ao Django REST para o Django).
 
-**Docker**
+**Docker** é uma plataforma com um conjunto de ferramentas que permite isolar a
+aplicação do ambiente de execução, de maneira que resolva o clássico problema do
+"mas na minha máquina funciona". Com Docker é possível gerenciar a infraestrutra
+tçao facilmente quando a aplicação em si.
 
 **SQLAlchemy**
 
@@ -67,3 +70,5 @@ em web.
 <!-- https://referenciabibliografica.net/a/pt-br/ref/abnt -->
 
 - https://en.wikipedia.org/wiki/Flask_(web_framework)
+- https://docs.docker.com/get-started/overview/
+- https://www.sqlalchemy.org/
