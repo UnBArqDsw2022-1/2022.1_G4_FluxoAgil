@@ -21,15 +21,21 @@ APIs REST (semelhante ao Django REST para o Django).
 **Docker** é uma plataforma com um conjunto de ferramentas que permite isolar a
 aplicação do ambiente de execução, de maneira que resolva o clássico problema do
 "mas na minha máquina funciona". Com Docker é possível gerenciar a infraestrutra
-tçao facilmente quando a aplicação em si.
+tão facilmente quanto a aplicação em si e diminuir a diferença entre ambiente
+de desenvolvimento e produção. 
 
-**SQLAlchemy**
+**SQLAlchemy** atua como ORM para a camada de dados do backend. É responsável 
+por abstrair as queries em SQL em chamadas de funções em cima dos modelos 
+definidos no projeto, além de estabelecer a conexão com o banco de dados. 
 
-**Postgres**
+**PostgreSQL** é um sistema gerenciador de banco de dados relacional open 
+source. É o banco com o qual o SQLAlchemy de fato se comunica. É Complacente com 
+o padrão ACID, tem suporte para vários sistemas operacionais e linguagens 
+procedurais e tem o SQL como linguagem de query.
 
 
 ## Frontend
-
+ 
 **React** biblioteca JavaScript para construção de interfaces de usuário baseados
 em web.
 
@@ -72,3 +78,4 @@ em web.
 - https://en.wikipedia.org/wiki/Flask_(web_framework)
 - https://docs.docker.com/get-started/overview/
 - https://www.sqlalchemy.org/
+- https://www.postgresql.org/about/
