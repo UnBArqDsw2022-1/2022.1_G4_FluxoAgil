@@ -46,17 +46,30 @@ em web.
 
 ## Participantes
 
+- [Amanda Nobre](https://github.com/AmandaNbr)
+- [Matheus Calixto](https://github.com/matheuscvp)
 - [Yudi Yamane](https://github.com/yudi-azvd)
 
 ## Restrições e Metas de Arquitetura
-...
 
 ### Restrições
-...
+O usuário precisa:
+
+- estar conectado à internet
+
+- ter um navegador instalado no dispositivo móvel ou computador
+
+- ter acesso ao SIGAA e ser aluno da UnB
+
 
 ### Metas
 
-...
+A metas para o Fluxo Ágil são:
+
+- Usabilidade: fácil e simples de usar para gerar a recomendação de fluxo
+
+- Responsividade: deve funcionar no celular e no desktop
+
 
 ## Lógica
 ...
