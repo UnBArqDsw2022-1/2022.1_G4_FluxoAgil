@@ -10,7 +10,21 @@
 Este documento apresenta as decisões sobre arquitetura e ferramentas tomadas durante o 
 desenvolvimento do projeto **Fluxo Ágil**.
 
-## Backend
+## Visão geral
+
+Segue a visão geral da arquitetura da aplicação Fluxo Ágil.
+
+<p align="center"> <img alt="Arquiterura: visão geral" 
+  src="images/arquitetura/arq-geral.png"/> </p>
+<p align="center">
+Figura 1 - Arquiterura: visão geral<br>
+Fonte: Diagrams.net
+</p>
+
+
+Em seguida, as principais ferramentas utilizadads são explicadas brevemente.
+
+### Server
 
 **Flask**  é um micro framework backend para Python para desenvolver aplicações
 web baseadas em templates. Sem pouco rígido, oferece ao desenvolvedor a liberdade
@@ -34,7 +48,7 @@ o padrão ACID, tem suporte para vários sistemas operacionais e linguagens
 procedurais e tem o SQL como linguagem de query.
 
 
-## Frontend
+### Web
  
 **React** é um biblioteca JavaScript para construção de interfaces de usuário na 
 web.
@@ -46,7 +60,7 @@ interface.
 **Redux Toolkit**
 
 **Material UI** foi a biblioteca escolhida como biblioteca de estilo. É baseada
-no Material Design do Google e é open source
+no Material Design do Google e é open source.
 
 
 ## Participantes
