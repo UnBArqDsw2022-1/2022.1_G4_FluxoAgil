@@ -43,7 +43,7 @@ de cada um deles para construir interfaces complexas. Além disso, segue um padr
 expressa _o que_ o vai aparecer na interface em vez de _como_ deve aparecer na 
 interface.
 
-**ReactQuery**
+**Redux Toolkit**
 
 **Material UI** foi a biblioteca escolhida como biblioteca de estilo. É baseada
 no Material Design do Google e é open source
@@ -93,8 +93,16 @@ A metas para o Fluxo Ágil são:
 
 <!-- https://referenciabibliografica.net/a/pt-br/ref/abnt -->
 
-- https://en.wikipedia.org/wiki/Flask_(web_framework)
-- https://docs.docker.com/get-started/overview/
-- https://www.sqlalchemy.org/
-- https://www.postgresql.org/about/
-- https://reactjs.org/
+FLASK: Web development. In: Flask. [S. l.], 4 jan. 2010. Disponível em: https://en.wikipedia.org/wiki/Flask_(web_framework). Acesso em: 4 set. 2022.
+
+Get Started with Docker. Disponível em 
+https://docs.docker.com/gettarted/overview/. Acesso em: 4 set. 2022.
+
+SQLAlchemy: The Python SQL Toolkit and Object Relational Mapper
+https://www.sqlalchemy.org/. Acesso em: 4 set. 2022.
+
+Postgres: About. https://www.postgresql.org/about/. Acesso em: 4 set. 2022.
+
+ReactJS. https://reactjs.org/. Acesso em: 7 set. 2022.
+
+Redux Toolkit. https://redux-toolkit.js.org/. Acesso em: 7 set. 2022.
