@@ -29,19 +29,24 @@ por abstrair as queries em SQL em chamadas de funções em cima dos modelos
 definidos no projeto, além de estabelecer a conexão com o banco de dados. 
 
 **PostgreSQL** é um sistema gerenciador de banco de dados relacional open 
-source. É o banco com o qual o SQLAlchemy de fato se comunica. É Complacente com 
+source. É o banco com o qual o SQLAlchemy de fato se comunica. É complacente com 
 o padrão ACID, tem suporte para vários sistemas operacionais e linguagens 
 procedurais e tem o SQL como linguagem de query.
 
 
 ## Frontend
  
-**React** biblioteca JavaScript para construção de interfaces de usuário baseados
-em web.
+**React** é um biblioteca JavaScript para construção de interfaces de usuário na 
+web.
+É baseada em componentes, o que facilita a reutilização e separação da lógica
+de cada um deles para construir interfaces complexas. Além disso, segue um padrão declarativo, no qual o desenvolvedor
+expressa _o que_ o vai aparecer na interface em vez de _como_ deve aparecer na 
+interface.
 
 **ReactQuery**
 
-**Material UI**
+**Material UI** foi a biblioteca escolhida como biblioteca de estilo. É baseada
+no Material Design do Google e é open source
 
 
 ## Participantes
@@ -55,7 +60,7 @@ em web.
 ### Restrições
 O usuário precisa:
 
-- estar conectado à internet
+- ter seu dispositivo conectado à internet
 
 - ter um navegador instalado no dispositivo móvel ou computador
 
@@ -92,3 +97,4 @@ A metas para o Fluxo Ágil são:
 - https://docs.docker.com/get-started/overview/
 - https://www.sqlalchemy.org/
 - https://www.postgresql.org/about/
+- https://reactjs.org/
