@@ -91,11 +91,11 @@
 
 - **Arquitetura de Software & Reutilização**
 
-  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
-    - [4.1. Módulo Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
-    - [4.2. Módulo Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
-    - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
-    - [4.4. Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+  - [Arquitetura & Reutilização de Software](#)
+    - [Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
+    - [Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
+    - [Iniciativas Extras - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
+    - [Participações - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
 
 - [Sprints](#)
 
@@ -117,6 +117,21 @@
   - Sprint 6
     - [Planejamento](Sprints/Sprint6/planejamento_sprint6.md)
     - [Resultados](Sprints/Sprint6/resultados_sprint6.md)
+  - Sprint 7
+    - [Planejamento](Sprints/Sprint6/planejamento_sprint7.md)
+    - [Resultados](Sprints/Sprint6/resultados_sprint7.md)
+  - Sprint 8
+    - [Planejamento](Sprints/Sprint6/planejamento_sprint8.md)
+    - [Resultados](Sprints/Sprint6/resultados_sprint8.md)
+  - Sprint 9
+    - [Planejamento](Sprints/Sprint6/planejamento_sprint9.md)
+    - [Resultados](Sprints/Sprint6/resultados_sprint9.md)
+  - Sprint 10
+    - [Planejamento](Sprints/Sprint6/planejamento_sprint10.md)
+    - [Resultados](Sprints/Sprint6/resultados_sprint10.md)
+  - Sprint 11
+    - [Planejamento](Sprints/Sprint6/planejamento_sprint11.md)
+    - [Resultados](Sprints/Sprint6/resultados_sprint11.md)
 
 - [Atas de Reunião](#)
 
