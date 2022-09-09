@@ -1,10 +1,10 @@
-# Modelagem do Banco de Dados Versão 1
+# Modelagem do Banco de Dados Versão 2
 
 ## Histórico de versões
 | Data     | Versão | Descrição                      | Autor(a)                                      | Revisor(a)                                                   |
 | -------- | ------ | ------------------------------ | --------------------------------------------- | ------------------------------------------------------------ |
-| 13/07/22 | 1.0    | Criação do documento           | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
-| 14/07/22 | 1.1    | Adição da introdução, metodologia, diagramas, tabelas e referências | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) e [Matheus Monteiro](https://github.com/matheusyanmonteiro)|
+| 08/07/22 | 2.0    | Criação do documento           | [Thaís Rebouças](https://github.com/Thais-ra) | [Ana Carolina](https://github.com/AnaCarolinaRodriguesLeite) |
+
 
 
 ## Introdução
@@ -30,7 +30,6 @@ Para decidir em qual idioma o código do projeto será escrito, foi criada uma v
 ## Participantes
 
 - [Thais Rebouças](https://github.com/Thais-ra)
-- [Yudi Yamane](https://github.com/yudi-azvd)
 
 ## Resultados
 
@@ -101,7 +100,7 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
     <td>idGraduation</td>
     <td>primary key<br>not null</td>
     <td>string</td>
-    <td>10</td>
+    <td>-</td>
     <td>Código de identificação do curso de graduação</td>
   </tr>
   <tr>
@@ -115,7 +114,7 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
     <td>graduationDescription</td>
     <td>-</td>
     <td>string</td>
-    <td>100</td>
+    <td>50</td>
     <td> Descrição do curso</td>
   </tr>
   <tr>
@@ -158,7 +157,7 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
     <td>idCurriculum</td>
     <td>primary key<br>not null</td>
     <td>string</td>
-    <td>10</td>
+    <td>-</td>
     <td>Código de identificação da matriz curricular</td>
   </tr>
   <tr>
@@ -169,17 +168,17 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
     <td>Nome da matriz curricular</td>
   </tr>
   <tr>
-    <td>curriculumYear</td>
+    <td>curriculumDescription</td>
     <td>not null</td>
     <td>string</td>
-    <td>8</td>
+    <td>50</td>
     <td>Ano da matriz curricular</td>
   </tr>
   <tr>
     <td>idGraduation</td>
     <td>foreign key<br>not null</td>
     <td>string</td>
-    <td>10</td>
+    <td>-</td>
     <td> Código de identificação da graduação relacionada à matriz curricular</td>
   </tr>
 </tbody>
@@ -190,7 +189,7 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
 <table>
 <thead>
   <tr>
-    <th colspan="5">Relacionamento: contains</th>
+    <th colspan="5">Relacionamento: CurriculumContainsCourse</th>
   </tr>
 </thead>
 <tbody>
@@ -208,14 +207,14 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
     <td>idCurriculum</td>
     <td>foreign key<br>not null</td>
     <td>string</td>
-    <td>10</td>
+    <td>-</td>
     <td>Código de identificação da matriz curricular</td>
   </tr>
   <tr>
     <td>idCourse</td>
     <td>foreign key<br>not null</td>
     <td>string</td>
-    <td>10</td>
+    <td>-</td>
     <td>Código de identificação da disciplina</td>
   </tr>
   <tr>
@@ -251,7 +250,7 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
     <td>idCourse</td>
     <td>primary key<br>not null</td>
     <td>string</td>
-    <td>10</td>
+    <td>-</td>
     <td>Código de identificação da disciplina</td>
   </tr>
   <tr>
@@ -265,7 +264,7 @@ Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a>
     <td>courseDescription</td>
     <td>-</td>
     <td>string</td>
-    <td>100</td>
+    <td>50</td>
     <td> Descrição da disciplina</td>
   </tr>
   <tr>

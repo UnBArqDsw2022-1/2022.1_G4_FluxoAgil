@@ -68,7 +68,9 @@
   - [Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
 
     - [NFRFramework](Modelagem/NFR_Framework.md)
-    - [Modelagem de Banco de dados](Modelagem/bancoDeDados.md)
+    - [Modelagem de Banco de dados](#)
+      - [Versão 1](Modelagem/bancoDeDados.md)
+      - [Versão 2](Modelagem/bancoDeDados2.md)
 
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
@@ -115,20 +117,37 @@
   - Sprint 6
     - [Planejamento](Sprints/Sprint6/planejamento_sprint6.md)
     - [Resultados](Sprints/Sprint6/resultados_sprint6.md)
+  - Sprint 7
+    - [Planejamento](Sprints/Sprint7/planejamento_sprint7.md)
+    - [Resultados](Sprints/Sprint7/resultados_sprint7.md)
+  - Sprint 8
+    - [Planejamento](Sprints/Sprint8/planejamento_sprint8.md)
+    - [Resultados](Sprints/Sprint8/resultados_sprint8.md)
+  - Sprint 9
+    - [Planejamento](Sprints/Sprint9/planejamento_sprint9.md)
+    - [Resultados](Sprints/Sprint9/resultados_sprint9.md)
+  - Sprint 10
+    - [Planejamento](Sprints/Sprint10/planejamento_sprint10.md)
+    - [Resultados](Sprints/Sprint10/resultados_sprint10.md)
+  - Sprint 11
+    - [Planejamento](Sprints/Sprint11/planejamento_sprint11.md)
+    - [Resultados](Sprints/Sprint11/resultados_sprint11.md)
 
 - [Atas de Reunião](#)
 
-  - [Ata - 02/06](AtasDeReunião/Ata_02-06.md)
   - [Ata - 08/06](AtasDeReunião/Ata_08-06.md)
   - [Ata - 16/06](AtasDeReunião/Ata_16-06.md)
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
   - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
   - [Ata - 25/06](AtasDeReunião/Ata_25-06.md)
   - [Ata - 29/06](AtasDeReunião/Ata_29-06.md)
+  - [Ata - 02/07](AtasDeReunião/Ata_02-07.md)
   - [Ata - 06/07](AtasDeReunião/Ata_06-07.md)
   - [Ata - 13/07](AtasDeReunião/Ata_13-07.md)
   - [Ata - 25/07](AtasDeReunião/Ata_25-07.md)
   - [Ata - 01/08](AtasDeReunião/Ata_01-08.md)
   - [Ata - 02/08](AtasDeReunião/Ata_02-08.md)
+  - [Ata - 15/08](AtasDeReunião/Ata_15-08.md)
+  - [Ata - 22/08](AtasDeReunião/Ata_22-08.md)
 
 - [Guia de Contribuição](CONTRIBUTING.md)
