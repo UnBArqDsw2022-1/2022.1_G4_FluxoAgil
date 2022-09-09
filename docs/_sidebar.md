@@ -134,17 +134,19 @@
 
 - [Atas de Reunião](#)
 
-  - [Ata - 02/06](AtasDeReunião/Ata_02-06.md)
   - [Ata - 08/06](AtasDeReunião/Ata_08-06.md)
   - [Ata - 16/06](AtasDeReunião/Ata_16-06.md)
   - [Ata - 17/06](AtasDeReunião/Ata_17-06.md)
   - [Ata - 23/06](AtasDeReunião/Ata_23-06.md)
   - [Ata - 25/06](AtasDeReunião/Ata_25-06.md)
   - [Ata - 29/06](AtasDeReunião/Ata_29-06.md)
+  - [Ata - 02/07](AtasDeReunião/Ata_02-07.md)
   - [Ata - 06/07](AtasDeReunião/Ata_06-07.md)
   - [Ata - 13/07](AtasDeReunião/Ata_13-07.md)
   - [Ata - 25/07](AtasDeReunião/Ata_25-07.md)
   - [Ata - 01/08](AtasDeReunião/Ata_01-08.md)
   - [Ata - 02/08](AtasDeReunião/Ata_02-08.md)
+  - [Ata - 15/08](AtasDeReunião/Ata_15-08.md)
+  - [Ata - 22/08](AtasDeReunião/Ata_22-08.md)
 
 - [Guia de Contribuição](CONTRIBUTING.md)
