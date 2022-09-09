@@ -58,7 +58,7 @@ de cada um deles para construir interfaces complexas. Além disso, segue um padr
 expressa _o que_ o vai aparecer na interface em vez de _como_ deve aparecer na 
 interface.
 
-**Redux Toolkit**
+**Redux Toolkit** é uma biblioteca para gerenciamento de estado em aplicações. Uma implementação mais robusta da biblioteca Redux, que é um padrão de gerenciamento de estado para aplicações JavaScript, tornando a sua implementação mais fácil e com menos linhas de código escritas.
 
 **Material UI** foi a biblioteca escolhida como biblioteca de estilo. É baseada
 no Material Design do Google e é open source.
@@ -117,6 +117,29 @@ Autor: Matheus Pinheiro
 
 ## Visão Lógica
 <!-- Diagrama de classe e Pacotes -->
+A visão lógica mostra um subconjunto do modelo de design significativo em termos de arquitetura, ou seja, um subconjunto das classes, subsistemas, pacotes e realizações de caso de uso. A visão lógica é representada por diagramas de classes e de pacotes.
+
+### Diagrama de Classes
+
+<p> <img src="images/modelagem/diagramas-estativos-classes-1"> </p>
+<p align="center">
+Figura - Diagrama de Classes <br>
+Autores: Thais Revouças, Yudi Yamane e Irwin Schimitt
+</p>
+
+Uma disciplina (Course) pode ser dos tipos mandatory, optional ou módulo livre (até o momento não encontramos o termo apropriado em inglês).
+
+Uma graduação (Graduation) pode ter vários currículos (Curriculum), cada um com suas datas de início de vigência. Dado um currículo, a graduação e suas disciplinas obrigatórias e optativas são definidas e assim é possível calcular a recomendação de um fluxo.
+
+### Diagrama de Pacotes
+
+<p> <img src="images/diagramaDePacotes.jpeg"> </p>
+<p align="center">
+Figura - Diagrama de Pacotes <br>
+Autores: Mateus Maia e Matheus Fonseca
+</p>
+
+O diagrama de pacotes por sua vez, busca ilustrar como será dividido os diretórios do nosso software, e como eles se relacionam entre si. Nossos pacotes podem ser divididos como *Front-End*, *Back-End*, *Banco de dados* e *Web Scraper*. Onde o Front-End é responsável por toda a parte visual do software, o Back-End é responsável por toda a lógica do software, o Banco de dados é responsável por armazenar os dados e o Web Scraper é responsável por extrair os dados do SIGAA.
 
 ## Visão de Implantação
 
