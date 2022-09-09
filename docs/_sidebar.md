@@ -68,7 +68,9 @@
   - [Iniciativas Extras - Modelagem](Modelagem/2.2.IniciativasExtras.md)
 
     - [NFRFramework](Modelagem/NFR_Framework.md)
-    - [Modelagem de Banco de dados](Modelagem/bancoDeDados.md)
+    - [Modelagem de Banco de dados](#)
+      - [Versão 1](Modelagem/bancoDeDados.md)
+      - [Versão 2](Modelagem/bancoDeDados2.md)
 
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
