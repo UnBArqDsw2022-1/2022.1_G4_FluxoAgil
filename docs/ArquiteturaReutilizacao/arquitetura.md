@@ -121,7 +121,7 @@ A visão lógica mostra um subconjunto do modelo de design significativo em term
 
 ### Diagrama de Classes
 
-<p> <img src="images/modelagem/diagramas-estativos-classes-1"> </p>
+<p> <img src="images/modelagem/diagramas-estaticos-classes-1.png"> </p>
 <p align="center">
 Figura - Diagrama de Classes <br>
 Autores: Thais Revouças, Yudi Yamane e Irwin Schimitt
