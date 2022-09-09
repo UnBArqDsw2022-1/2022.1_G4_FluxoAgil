@@ -5,6 +5,7 @@
 | ---------- | ------ | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------- |
 | 05/09/2022 | 1.0    | Criação do documento                             | [Yudi Yamane](https://github.com/yudi-azvd)  | [Thaís Rebouças](https://github.com/Thais-ra) |
 | 08/09/2022 | 1.1    | Adição da Visão de Casos de Uso e de Implantação | [Amanda Nobre](https://github.com/AmandaNbr) | [Yudi Yamane](https://github.com/yudi-azvd)   |
+| 08/09/2022 | 1.2    | Adição da Visão de Implementação e de Dados | [Mateus Maia](https://github.com/mateusmaiamaia) | [Yudi Yamane](https://github.com/yudi-azvd)   |
 
 ## Introdução
 
@@ -67,6 +68,7 @@ no Material Design do Google e é open source.
 ## Participantes
 
 - [Amanda Nobre](https://github.com/AmandaNbr)
+- [Mateus Maia](https://github.com/mateusmaiamaia)
 - [Matheus Calixto](https://github.com/matheuscvp)
 - [Yudi Yamane](https://github.com/yudi-azvd)
 
@@ -154,11 +156,59 @@ Autoras: Amanda Nobre e Ana Carolina</a>
 O diagrama acima possui representações das camadas da aplicação Fluxo Ágil, que consistem em Backend e Frontend, como application server, e a interface que o usuário tem acesso, sendo client server. Esse usuário se comunica com a aplicação por meio de um browser no qual o frontend está hospedado. A partir de requisições o frontend se comunica com o backend da aplicação, que por sua vez tem acesso ao banco de dados, onde as informações persistentes são colhidas através de uma raspagem de dados. 
 
 ## Visão de Implementação
-<!-- A Visão de Implementação procura mostrar como o sistema será desenvolvido e organizado. Pode-se então utilizar o Diagrama de Componetes para tal demonstração. -->
+<!-- Diagrama de Componentes -->
+ A Visão de Implementação procura mostrar como o sistema será desenvolvido e organizado. Pode-se então utilizar o Diagrama de Componetes para tal demonstração.
+
+<p align = "center"> <img src="images/diagramas/diagramaComponentes.png"/> </p>
+<p align = "center"> 
+Figura 1 - Diagrama de Componentes <br>
+Autores: Matheus Pinheiro e Lucas Braun
+</p>
+ 
 
 ## Visão de Dados
 
-<!-- A visão de Dados é um tópico que se dispõe a mostrar quais são os dados persistentes na aplicação, geralmente utiliza-se ferramentas como um Modelo Entidade-Relacionamento e/ou Diagrama Entidade-Relacionamento para isso -->
+A visão de Dados é um tópico que se dispõe a mostrar quais são os dados persistentes na aplicação, geralmente utiliza-se ferramentas como um Modelo Entidade-Relacionamentoe/ou Diagrama Entidade-Relacionamento para isso. Neste projeto nós optamos por utlizar o postgresSQL como o nosso sistema de banco de dados, principalmente por ele ser uma banco de dados com uma boa reputação refetente a confiabilidade, robustez de recursos e desempenho.
+
+### Modelo Entidade-Relacionamento 
+### Entidades
+- COURSE
+- GRADUATION
+- CURRICULUM
+
+### Atributos
+
+- COURSE(idCourse, courseName, courseDescription, courseCredits, courseWorkLoadInHours, preRequisites, coRequisites, equivalentTo)
+- GRADUATION(idGraduation, name, description, credits, workInHours)
+- CURRICULUM(idCurriculum, curriculumName, curriculumYear)
+
+### Relacionamentos
+
+- GRADUATION **have** CURRICULUM
+<br>
+Um curso(graduation) pode ter um ou mais currículos(curriculum) - relacionamento 1:n
+Um currículo pode ser gerado apenas por um curso - relacionamento 1:1
+<br>
+Cardinalidade **1:n**
+
+- CURRICULUM **contains** COURSE
+Um currículo contém(contains) um ou várias disciplinas(course) - relacionamento 1:n
+Uma disciplina está contida em um ou vários currículos - relacionamento 1:n
+<br>
+Cardinalidade **1:n**
+
+
+O modelo acima nos mostra as informações do banco de dados, tendo nele os objetos, assim como as suas características e a maneira em que elas se relacionam.
+
+### Diagrama Entidade-Relacionamento
+<img src="images/diagramas/diagramaConceitual.jpg" align = "center" />
+<p align = "center"> 
+Figura 4 - Diagrama Conceitual <br>
+Autora: <a href="https://github.com/Thais-ra"> Thaís Rebouças </a> 
+</p>
+
+O diagrama acima nos mostra uma representação gráfica do que foi apresentado no Modelo Entidade-Relacionamento.
+
 
 
 ## Referências
