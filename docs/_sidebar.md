@@ -92,7 +92,6 @@
   - [Participações - Padrões de Projeto](PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
-
   - [Estilos e Padrões Arquiteturais](ArquiteturaReutilizacao/arquitetura.md)
   - [Reutilização de Software](ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
   - [Iniciativas Extras - Arquitetura & Reutilização de Software](ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
